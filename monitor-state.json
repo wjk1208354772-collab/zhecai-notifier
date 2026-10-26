@@ -1,0 +1,1760 @@
+{
+  "version": 1,
+  "initialized": {
+    "zj": true
+  },
+  "seen": {
+    "zj:aMT8oZjyw4f/XPJe759bXA==": {
+      "fingerprint": "6d4bf9c4844711ce24d764427eb3d1c0cf77862af351694906c4ebf08dc8ab06"
+    },
+    "zj:KyFgqMjI7x48G9xIrckfpQ==": {
+      "fingerprint": "e97edc7b0941aafd7e497a521b5fc37ecb597451786a9c27882e2eb3d6fe4a17"
+    },
+    "zj:usdbNNrcYmL07DavoCtc0Q==": {
+      "fingerprint": "90ea5be3bc168861c264c9785891227526d84571edca6d9195eb93b1ff3a4333"
+    },
+    "zj:Zx/FTGSVbMk2+Y8EjisN9w==": {
+      "fingerprint": "d6744abff2cf6917f503693e604b0ff447aaf21fa335efb4656ae23480fcd9fb"
+    },
+    "zj:7JqiTFPbPE7tQN8dOu1yVw==": {
+      "fingerprint": "896ded0c6b049159763f8c3bbc8c8b2aa2c144018a64358401c71a2a8eeac403"
+    },
+    "zj:COHor1oOD3q3XByOC5XSSw==": {
+      "fingerprint": "0936c46929348f8997cbea3b837025207cf865a4cee1857eb24117c49e53fe2a"
+    },
+    "zj:4Wej+GxcCn1VSW459ZirGg==": {
+      "fingerprint": "6a75fa19ed34028a76a681d4b63ade4ec8307077736e94bdfc910e553736cf32"
+    },
+    "zj:cxLcH5HTf2AZ0iy3v8bOcA==": {
+      "fingerprint": "8ef6b643d7fb32e06fbf2ff0fed178b16b923b196ace5fb66ed5bf5d7d841924"
+    },
+    "zj:F54JX8p8XIj4mn374KHQgw==": {
+      "fingerprint": "bcd9ce074629c8888b33acd14f6dae6fb27134850effba4efc130c785f1c0bb4"
+    },
+    "zj:CsZJXDT0y2Mc62IaLop1kw==": {
+      "fingerprint": "e7bff0290fe8b8d5d843faa28d60c9fc69c961d2d8dc953302eaf2b32b17d8db"
+    },
+    "zj:2jSCogWdqI7yvwzHHrPWIA==": {
+      "fingerprint": "6d250f90c515d25f4f9aee24cc4f1c0d61941549d4ce7c407e5987d8e54daa8c"
+    },
+    "zj:HKDFWW/7DcKd5FnAhykoZg==": {
+      "fingerprint": "a9b5b6376fbcdfb83a0cb77965f468b2a45d33c1b1f6430179ceefaecdbc3f56"
+    },
+    "zj:hM2AyULl/SbqWvxl6RWZmw==": {
+      "fingerprint": "1a0a52af0d9a4b1fd75e2e828405f97ea4249963a920bbf068424fcc1e87ee4f"
+    },
+    "zj:gh9xsBInffPFOR8mQ50/Ew==": {
+      "fingerprint": "583faa9dcdb59e3663a1214817c0118edc64e8b5401efcf50285367dffd0c9a8"
+    },
+    "zj:IrrVqZeTkUUYZ3Z8arpd/Q==": {
+      "fingerprint": "0fe0a1827c2588164592facecf4669a617d9ea4533ff14f7343b72435b96feef"
+    },
+    "zj:9QR/K8fZIRKNp7arSxHzhA==": {
+      "fingerprint": "7046f5a2fae8e04da772927661793bb8c60bd69a989c36c6657499e56bcc2a7c"
+    },
+    "zj:vS90Im2ZvZKfM514JMWRJw==": {
+      "fingerprint": "87a94130adbcc328ee97d41a2d978caeee4436cfb83ad6743afe52aa82205cf3"
+    },
+    "zj:W6zw1b0jkyRJrgNCBninpQ==": {
+      "fingerprint": "32d7e862b1445ceeba5d38fa3483b5d5d7da250b92a9a51dc4aaf0dc7ce206cd"
+    },
+    "zj:OZaXTpJJfl+gWaZBeofHHQ==": {
+      "fingerprint": "e8e024d50b6d9ca6b1ff8bb53ab27093e8b35a257303a182a1ff513cf3b9ec84"
+    },
+    "zj:8HQjpzT6Hah0V4R+xchbBw==": {
+      "fingerprint": "670f77e1ae6c7d4cc8fa267bfe180c0d3813b5e1f290df69370315a4b8e464df"
+    },
+    "zj:bgstwKze7ef/F4ZYtCYwhQ==": {
+      "fingerprint": "aee23635221a2b91e22859b282442a05ea39d0d9c7b4192b80bdb2580634f6d0"
+    },
+    "zj:RQhf0yxMl2G6oswjKQssdQ==": {
+      "fingerprint": "26a9701a7691f0ca0df3bd49d162ae43b496508e71555ab73ff05188efdee862"
+    },
+    "zj:0mCS8Ffma8odpFSDrPsyrA==": {
+      "fingerprint": "9204475cae6c2fed05d079d8161fedbbcd995023920ec8f2690981b5a3e82b97"
+    },
+    "zj:6UbfLB8qFA/UFZGrm8Z8Rg==": {
+      "fingerprint": "ef497352f5542e0255f9c952018ca798a01a857cd73118c102819a22b9337877"
+    },
+    "zj:RQg4n7GH84KJXZdtgZdvQA==": {
+      "fingerprint": "90045c2ee9fefeb5a7470cfbfc76975d4ed22ccc364d2f114ebc0316e374aba1"
+    },
+    "zj:9FXoYFujCYX58iUI+aEsuA==": {
+      "fingerprint": "222f62d5ac1084a10546d0a185b36a0a9b9300ff9a17267817626d817fa8adf6"
+    },
+    "zj:b76HAQHpZ0CM7Fz+IkhJsw==": {
+      "fingerprint": "f7aa2bd1ed27e7d570459435395d5a3b776fd8bcd9c23c176bd90f762d768b93"
+    },
+    "zj:/Ecmvs/u8cTiXGzti+PjGg==": {
+      "fingerprint": "c9d2c7e68ba1a3f2c264f409eabda8db57637d5d5faaec4e8b86f3caf6679725"
+    },
+    "zj:JIlnjR7HNYvTu7SAy1HsTw==": {
+      "fingerprint": "1ebce102dfcd8d44701a2a1292a14b5f9fd1cead6b897590158aa25063adde56"
+    },
+    "zj:sTeeYbilJhZkaNICUAPDOw==": {
+      "fingerprint": "cf909dc91f4ffad61fb0360beb8e902c0e500652d318ef5f3e540ffdf148bc49"
+    },
+    "zj:oNmMq8ZS0EtV+LRmpHwp4w==": {
+      "fingerprint": "cf079bfc3328ea86062cc2fb289170e28f711bd5b2ee86ce84d306b17e840fd8"
+    },
+    "zj:u19/rBZSNbZJ9xDgt4nqGg==": {
+      "fingerprint": "534f6d5c0920acf868d6bbf4b63d5bb3652253f548c60bba8eba0110ca06455b"
+    },
+    "zj:DUR0B46OJx9RLHzyAfo7jg==": {
+      "fingerprint": "1021c67219d0eff2963675f466e29d0bae87c10b8ac21d446809a75a7c932990"
+    },
+    "zj:ZHvBnpiSTN9bM4Qa/wEITw==": {
+      "fingerprint": "d8b290258cc95970aca7bcd806baf6b7175068403a1cc6f7128523aee3120665"
+    },
+    "zj:HN2uIV4HuOwjQSpiKK9E9Q==": {
+      "fingerprint": "980137a8425df3a9da092db5ee2ce0c2692f72923e335781a6b91a6b3eeac1c6"
+    },
+    "zj:sfx6kbpqj6baCR+jOpfCKA==": {
+      "fingerprint": "474237757a6500622447175e47824044ef403d9a70c1c4efdb0c981effa56ffb"
+    },
+    "zj:bWqKim1/tT3gepqNcF9H3w==": {
+      "fingerprint": "828d0560943c496d36ccab8946e42047ec99e20a3a2febea1a02e1e521529df8"
+    },
+    "zj:JEZrrYRB9Y66WiXuNWShJg==": {
+      "fingerprint": "c29980d0fedcb4556fe2d429557e8b5241630f4fab1961c789022e749a62a48a"
+    },
+    "zj:5nMSAtr2G6elXbCdp9KCFQ==": {
+      "fingerprint": "b2a47fc9930a08ffc37383d84261239e81c7687b7ee1f97f589ac90c7ca55501"
+    },
+    "zj:S/1Zc7kBvhYeo99k4lduhA==": {
+      "fingerprint": "882a188ff05e1429b2345c2a5c4fea8dbb87bea1d7550300effc8ea70d59834e"
+    },
+    "zj:hJwcxqz/IFF4qzGfBVfLzA==": {
+      "fingerprint": "b3c7eb6c3d6ba0995183048e09b4945359f4aea16cc5de5b7e05a185c5ee4ab9"
+    },
+    "zj:uOvSm44Bru6j5ylfTWDjYQ==": {
+      "fingerprint": "4720ca2d16daf3d851955951a7598a17ccae9173efcce5ffeaa5d2bc6cd58a97"
+    },
+    "zj:03NF0MlP03QMxkIpjLhmbw==": {
+      "fingerprint": "306d0e86e2cd07b062e66ac7ddea3247051f56a8b34766c12944e93b0099cd75"
+    },
+    "zj:TieX+BRxf0UcQTX+Gxb6Lw==": {
+      "fingerprint": "3b898e49be67fc4b3b0eed5a00b272aecf91a2d6ab156dc5848eb2cedf0abcf2"
+    },
+    "zj:vfGJ8DtZQlrPbewiOnRhGw==": {
+      "fingerprint": "7714aabf9ad6c95d433056e9987333262b2d346c6fe0bdc11dd46b80b2fb4b51"
+    },
+    "zj:k6CUxJe5r8i9gKejXqV7OQ==": {
+      "fingerprint": "d50732e32c7b038f2a12663d145b46ed92bb2d896c77f1df0d4e9f81ecbf51b5"
+    },
+    "zj:+6U3/gZhb/sV53vKs58skQ==": {
+      "fingerprint": "cb8590d59024f6ba01b4e77b9a012db68dc08c740316a9188a464e979bf149b5"
+    },
+    "zj:TtasjRjbQTupM/hoOdMjJg==": {
+      "fingerprint": "5ee61c96ecacea2d1655434bf38c448911d992ea17a025ef05f273a7df438c74"
+    },
+    "zj:gKWxxkudTqPIKKBBUGI1Eg==": {
+      "fingerprint": "b554c4f54efba82ae8f31ddc998d631c849abb2555cf6179c04e21d46de14d51"
+    },
+    "zj:LONUg1g4Avkg4LMd2cawVA==": {
+      "fingerprint": "4d6246d05522a080be37cdfef49a1828c783f8ffb304719583b202bc815db713"
+    },
+    "zj:YOE659tvJA/mt9C6LJ+5hw==": {
+      "fingerprint": "587c62c3c39366bc4729153e9559f930b519ab96f99003ef5bb229b360fd79c4"
+    },
+    "zj:tR8AiyX9kvJlQcybBu3nEQ==": {
+      "fingerprint": "2838f7c4c6e3ddd20e520c679c5c0c5cd3723d2201cf9f4e9932d467b5f1b014"
+    },
+    "zj:hbOzb1h6cFt2m/iAm9Su/A==": {
+      "fingerprint": "8084ae2f8b50db6e4e0f7ed61527a918adae47bab55115bd7db1f3511f8f3fc4"
+    },
+    "zj:LFdQk4JvBJ9ddkHw+fphlg==": {
+      "fingerprint": "27554a2c7cd3cca70035516f56eaebb8ef7e9da524c82a19d66fcf95b026951b"
+    },
+    "zj:mkdfvTPNUr3lvMbLVeIDEQ==": {
+      "fingerprint": "27703757446c6ecd9be5850536afd97110202b2d31a6ffadbb5859c27f5484fc"
+    },
+    "zj:HPihAKsbOKj8uEWRGddT5A==": {
+      "fingerprint": "a2535f1ce3c6caadaaa6f52b4c4c865aed902ce944a898e05936f81f7f1ae0e7"
+    },
+    "zj:bBG859NRrTaHJlZaWVlo8g==": {
+      "fingerprint": "41fcf8fcff53ffcb7d3697b48d4124c226494a74143bb01f4b161e1b51128867"
+    },
+    "zj:4fP3dooizkgAPIhrtv1urw==": {
+      "fingerprint": "c6bf645fbe2e6fea9e5066e9853766ff5087435cbdffa3553bf2a002ef43f0cc"
+    },
+    "zj:23ZhFapn2Li7Fuu1KLDuWg==": {
+      "fingerprint": "4029cdd7aebd40c8862925b6610e00da7c990f0f93133e1b9de13d6191f8f747"
+    },
+    "zj:d00QJ9eDBZqaUKLLhFywPQ==": {
+      "fingerprint": "da9a058d97d2a9f5c48e0b862cc9c7129de90bfe47afaa6b3b788cabb91b3a11"
+    },
+    "zj:phvgGKyUd3d3UJpbyhPCHA==": {
+      "fingerprint": "dcb22d536c5c8e61edf8af64754cc2ba7cd32f3bce568ddfcee677fb84a9aa59"
+    },
+    "zj:Gq8nPO0uKIYYvzFdoeHMug==": {
+      "fingerprint": "0b4c93bf601402cfd6375e6ea76aa62d04cb877b3b24a357901d04a53bb26cb4"
+    },
+    "zj:NjkkkZaXRd2jpAz8jbyIpg==": {
+      "fingerprint": "37b3dcbf0d208ec01ea9b847b11f86662f07b88d32efdb1420b47ee1c2b7ceb6"
+    },
+    "zj:eYzM59fjbbqZMtfcnBmnxg==": {
+      "fingerprint": "051d292b3c50cbf174675d2fe898c4af2d9eda1db6b5dfb75f9dd9016a8dbd67"
+    },
+    "zj:hu8GmDFUKAAJAaLPZiqwFg==": {
+      "fingerprint": "c92f4d14502d63174439dc5e2306f1c408618d572a243aff7fe39754b3a22be5"
+    },
+    "zj:5bIVMIkPYVm22iXjcUxT0A==": {
+      "fingerprint": "583c6ca7c1889f4f1624d3f94600adc704eec0127dd52e51df81ebfbbd119e5d"
+    },
+    "zj:diaRAX5yUw2w/EoZX2PyYA==": {
+      "fingerprint": "8404b2b9d239cdc93c4b982050921dce9667be645015311919d90465cfb0880e"
+    },
+    "zj:PKJmYYi4jFVWVpsryX76Eg==": {
+      "fingerprint": "91fe03c7fd3b05bfff2beda251d71fb981460d1354ea6db8e6ad182495dbd293"
+    },
+    "zj:t/AzjYHQiwB9+TPHfguEYA==": {
+      "fingerprint": "e9001a35dd95bb93dcc30881e670824078c1b85ae29e70be23e714cbcb50110e"
+    },
+    "zj:DHGDSYwDWIuCmeX9mPoPzw==": {
+      "fingerprint": "3e724e920d4ea4b5a1474c0e4d849decbeff7a3221f9c52a7476f9691d7e24b4"
+    },
+    "zj:WTG3EeJ1JGm1iUS7vIaelA==": {
+      "fingerprint": "469f461a5eb83d7ae281303513cca27df43f03deb08b24ba4331cd56ed752eb5"
+    },
+    "zj:xUi2TIhkDqArATFp+pKi9g==": {
+      "fingerprint": "b3af9b56619b67ff9f1192237e5d224c78be4627dc31044a95feb9b3336edb27"
+    },
+    "zj:zqfkc+s/IFjBrVZ7Yfjqug==": {
+      "fingerprint": "1381a5db006149b241a6bbddd9209947979a75c03e038865ddab8de0909c4dda"
+    },
+    "zj:o/b6u/nKaqMv2imjbFoyqw==": {
+      "fingerprint": "99253fb6133c26465d5f383f33752333f692257d41f0871d2e4b8ac93832e405"
+    },
+    "zj:v2aAsPj1EOBF5/HEG5Mt9Q==": {
+      "fingerprint": "89dac0813ee0c625b61cadae7ac4547764a84b0bd04d3ff6bf57ba0ba1734a2d"
+    },
+    "zj:J4aDMCznxvB8NJjBdKPz1g==": {
+      "fingerprint": "287880634e51fb608e154eae47543b6ca6f8a90da63b2218702b15a763116ac7"
+    },
+    "zj:Ttul0kvSfZLKLMhndS5pzA==": {
+      "fingerprint": "acc0e68b2b5c9c5707940ea33f223c5a4f0b30b85330de861c1aea11ff66e0c3"
+    },
+    "zj:+8Z/IsKa6Ps8XrDLMbJSrA==": {
+      "fingerprint": "ff96e8cf2a02beefa2332d12c08119478a932a6c63708adfe2aab8c468e240fe"
+    },
+    "zj:nZwocxViG7lEi0Od+VDjuA==": {
+      "fingerprint": "4abcc6a450b2ef0010bbf9543cdd9dbd1385586eb8ebb47ba5f6f5f851ed5fc2"
+    },
+    "zj:g/NPEHFpK7tCIEPC7oUnkA==": {
+      "fingerprint": "2ce90339026de5ef45a34c482589b2698440e2fa91bb5c220fe385d10b24b6d8"
+    },
+    "zj:SxaHgLFhdbU8bbPQTdlBDQ==": {
+      "fingerprint": "27fe94fef031e1646fc8ff0894c2c324fb37254d701b079c79435854113c299f"
+    },
+    "zj:mAv/CN8QnabhT74KA6dt+g==": {
+      "fingerprint": "cf17f6a7deea9fc25d85156a37c0f25c357e2c6eee5a73dd7ac339ee4fba503c"
+    },
+    "zj:U/Oi3EXkRTNcqNUgSYcUtA==": {
+      "fingerprint": "693cf7053b34379b6edb8e4382f4a718dc2fe4766ea59fe391bc299bf4b9accd"
+    },
+    "zj:8IKCETe/PxkjGphVWfrHSA==": {
+      "fingerprint": "17d5dfe41a61f10222cfe97339865bec16366d3a6787012eb02f83c06a89480f"
+    },
+    "zj:hqvek3Wl5LbDRfN2eiv2nw==": {
+      "fingerprint": "4024f20f492561bc963fd3249ac18bda4bb220df9ecef8ed3d85a74cbfee9530"
+    },
+    "zj:F49ESJoxTXLQR2QXQ2Llrw==": {
+      "fingerprint": "370ccbbdf359a1f534153d70fb1f3cbfac3aeb0c70efabc2850213c5551f2e59"
+    },
+    "zj:zfIwWxo8FnjE/HL/J4eWzg==": {
+      "fingerprint": "e356e17f6bc8d6030a0208526c3995abcc858581a5642b14bb3f27bfd60bc562"
+    },
+    "zj:SitkhgljaciZvMlqi2KOfw==": {
+      "fingerprint": "a76e121ba6e5bdc960409d126e85cea8b721bf5f9bb428d0000a76a5109c98aa"
+    },
+    "zj:fFbkxOk4pl1eHkzXMSt3xA==": {
+      "fingerprint": "3d4aecb52eadd751c31e4b052a2e4a015e52a7e5c7d0e595b2eb7dd2c319ce03"
+    },
+    "zj:fTz7SRb5FTzLkwiB7NqZ1g==": {
+      "fingerprint": "c2d947b9931c3757dbc8813c2e9ace35017e68938750c2a0c48677aca261230c"
+    },
+    "zj:yUYhSfVCVOf05xiVUwPUow==": {
+      "fingerprint": "9378aeb42b157d7624476daa4053a8c315201e649f72aaff68a782653dbd241f"
+    },
+    "zj:z+JeGnATZGH8IVkXMoYF3A==": {
+      "fingerprint": "2af2fd0fa1fb026174191f44947760d030d92491c32879e5e742c1848dd99de5"
+    },
+    "zj:eQ+XQDiRMj3xYxkhSSZowQ==": {
+      "fingerprint": "e2898e5c8f86ce3d3f4fb4eee285d259f6f59b85e2bf1892e7fd5ecca1f70e17"
+    },
+    "zj:s0eXRg0wBXW+fS5UFo+ZGg==": {
+      "fingerprint": "69a4816f34feeff4912447d2e2623fb6badca6152257dcbc80764857c1c7c83f"
+    },
+    "zj:UMM8VUBKUtHAIHGb2CRRFA==": {
+      "fingerprint": "747fcf207c4b528812912fc6aafea7e48a5f4f628d1368404c3ba33c546cf779"
+    },
+    "zj:+9aPIPdcSgtEymA2gOPc2Q==": {
+      "fingerprint": "2a170d0c4f835b1f70dfb76e6f59f910929faf8c2f93f47969f6e0d70f436234"
+    },
+    "zj:HxD+3L5M0gwVscWpw5+m9w==": {
+      "fingerprint": "b29aefa65a28c894120171377fba18f16d3e5b716b4b91bed5ab7c7cfaf81353"
+    },
+    "zj:QPc1Bbu0+x0uI0VKaSZFAA==": {
+      "fingerprint": "8b3c88fc4eb0cbe6e3c5863132dbb5b3d68185c80a62d448d86d71634d74d30c"
+    },
+    "zj:Efb7ZrtPhr98Hmaa7ELE2w==": {
+      "fingerprint": "51515f0e7e9ec3eb1f1fc980eeef98de96e0e821ebb009dc15b8961e6ea236c7"
+    },
+    "zj:0Ir28G/P0XoXnWl8LpuRTg==": {
+      "fingerprint": "767b0ae128191fc146c6d83c0c1e614b3b85345e3058fd19d776cbab5f45a007"
+    },
+    "zj:AxSJL4zgtkNg/ti9Ve101g==": {
+      "fingerprint": "4cba88c1c6c5385b32a4969dcb509024f212254af5c8d856d60a0111a2e406b8"
+    },
+    "zj:Bj/qdlhjbFnYxQBqYO/Ugg==": {
+      "fingerprint": "b3b828d5d9970cfa36bbcd44834a39ed9f047c9135bdac1d286f039c5ec18f52"
+    },
+    "zj:W+bNlSIDDyYDm8NQJrIF3g==": {
+      "fingerprint": "c6e1a201ea02e891f55ceafa6e994f52505d334b46b4f0fb8cf473a15c600b83"
+    },
+    "zj:Jn4wqPSwMs4bVdb3A8vUnA==": {
+      "fingerprint": "197c2d0506e9f80fb04ee30ec0cb0bd507f64846f86618b073cc52df2dfc9f14"
+    },
+    "zj:RwpNdoOOUTkSg++vuHoDyg==": {
+      "fingerprint": "427be0c4f8c93a8e15daa0f5461f5a63acb87aa97d1b07c3db491d55b3c16f0f"
+    },
+    "zj:URhUhEp5GGHOEFbZiKmRHw==": {
+      "fingerprint": "f3a67a88270833063fdb2bffc690a67c75a7605efc8a83fde73b0cee0a9c4e80"
+    },
+    "zj:nA7et1hyJFL04jRJDA07Qg==": {
+      "fingerprint": "819c105013255582e07d19c4b7c477893c89f80a14b4469243a013df5d62b7a0"
+    },
+    "zj:VnIYzVVpSnqfXilAzVWnIQ==": {
+      "fingerprint": "e78cc9462d404acb5835b46d490772b30900500e8ec194ca4d5d6de5c648e095"
+    },
+    "zj:HTPILT7fME7z1QC7CrQatg==": {
+      "fingerprint": "afe08cecff7cb34ec31c3d9af116eac584bdf19c24ebc87cb95513929bfbbe13"
+    },
+    "zj:REsy/26ALr7kMni1M+Qx8g==": {
+      "fingerprint": "9e72b8293d2457e4ebaa63dcec1c26d785ae42dccbe06bb78dba86fb6382a630"
+    },
+    "zj:pPitdrmUVRXVyGDb7pBJdA==": {
+      "fingerprint": "fff96ec657b92460cb3a6109e0856a2af5d97d95734d4edc3da7aa2ac27ab4ff"
+    },
+    "zj:ha2NciD42flJNZWdRgt3+g==": {
+      "fingerprint": "30943a672b91b6a16ff18ea74361dfae0baa07167417a89c74583ff81b101c87"
+    },
+    "zj:QIMk0Lt+QAKuPgKZk4dSuQ==": {
+      "fingerprint": "52e0bd9f30d6ab811492dcb082359de1712af378359d36c8968a65f43f15e1d3"
+    },
+    "zj:s5yGInFDc7odfW/vMysapg==": {
+      "fingerprint": "fff761edf6a39434a1bc54e10c7c0ffc7ca355a690fd3d93d34a2c4e8a6183fd"
+    },
+    "zj:PcOFz0jNO65tFDIZFAoCcQ==": {
+      "fingerprint": "b394353488a1195b0d1c3f78a55322cbd1822d3cbc273496e8f616ec27c2e459"
+    },
+    "zj:2QSvpaMnXHmKN2xErQc4VA==": {
+      "fingerprint": "9d73382125dfc52b03c976326e6162dbbde8ad2144d35ac0a6a5a412228b8c81"
+    },
+    "zj:bzBTM9QBvxqjaKqYyxexFw==": {
+      "fingerprint": "7540b42dcb4021ed942bc30c767594ccfa6e0cb64aa8fac042490808be775e20"
+    },
+    "zj:paH0A5xuYs82W+rB6U1abA==": {
+      "fingerprint": "bff9308cfdf5f7fd6a8e43a0c4fa9cb31626528f0c1a0be00de13f5a8451aa22"
+    },
+    "zj:NImjUbPooBjCb+1cSPoKqg==": {
+      "fingerprint": "916d3f8b41900cfeca232f423fd60a4d840845c222c3d8e1e53f969b2a3729cf"
+    },
+    "zj:HVfAhvbSm1mGRwGjyTVVIg==": {
+      "fingerprint": "6b7d4abde0b9d7f57c37098856f09f1014bb9262a76f0d506cf60c2d1d4ea98e"
+    },
+    "zj:ORcxKf/8oi1NA6xiYl9RiA==": {
+      "fingerprint": "72a169d5b9565ca13cf8f4043b3adfb9c3f01581cda372970fe5b9617d370d7d"
+    },
+    "zj:WYVXEDhmEfeyfUu/Eeq0ig==": {
+      "fingerprint": "f8086b0e7e2f82f39e26df57e6343e6d9c8087393b7a10adf191d74c3436a26c"
+    },
+    "zj:W2GN9swYWqlyZdsMfuq1hQ==": {
+      "fingerprint": "427c176c485a0c0edde237de3c929ab40d4daff84b51fa16b1193e7a8e467c28"
+    },
+    "zj:bhxBeKCLrJ8tTOCAJlfAZw==": {
+      "fingerprint": "80fde562ebad5b4c3c9c65113caeb7ccbbfa3fe4ed874687d6cb4c5ae9788f55"
+    },
+    "zj:Q5OpRIosRSxS2lndUtEmuA==": {
+      "fingerprint": "630b2f76365ef9763d418957d0c013db246a04ba5413b9a7f34bb5e24f71bb21"
+    },
+    "zj:PK07eC9Lvi0KdasJQj5QFg==": {
+      "fingerprint": "b136653229b5abd02f0c5667ab3ad65ba65bd2bc5abbfdef4f978b8a42f15042"
+    },
+    "zj:mqXNh1xqx0jZT7aaF6whbw==": {
+      "fingerprint": "a6a924684c4e65ef438993dba9298cc0b09324b9d798b4dfc2441aa0911076f2"
+    },
+    "zj:LRdtT4LC/tGt/1tYuWIaTQ==": {
+      "fingerprint": "f8adbaf5560218aac1e4c9b9a2186a94e7058b6a0f93305b195c8e0ced5ce516"
+    },
+    "zj:AXLqCGiCkze9nTuWP3n6YA==": {
+      "fingerprint": "94d5ba2e71421954b87e3f9d638e6fc8c8418ec201249ccffecc6e954c1ba87e"
+    },
+    "zj:3fQFHrrnP6GE0IR44kg0LQ==": {
+      "fingerprint": "32935596e855ae59cb1d014eaeb9e91e733082cd05007aa31e9fb2d5ba013f8b"
+    },
+    "zj:qle3Wa9e1bvRfV81J9/mwg==": {
+      "fingerprint": "6a65b9d7782328aa8da0f716dd9cd4b794f36108e865bb917fe2dac1ea2642b6"
+    },
+    "zj:JTmcwNnPaDJ3DcLgInUUFw==": {
+      "fingerprint": "c8f72adcc6528aefdd75830643df769e7c443d357a73ddcd271ef7f0bb310684"
+    },
+    "zj:1LIoCmf/5h0qw6ymjKDGqg==": {
+      "fingerprint": "88e5a45c3150b21077ffef5b318610cd611be57db4467fd3c50a4070e55c1673"
+    },
+    "zj:4J6xc94Z1pQGp3QDxPyWbg==": {
+      "fingerprint": "20a114fc0525fb5f5f0cf75f4387eaf8d615ff612f9fdc9741dc9c0b2d4cb962"
+    },
+    "zj:AIQ3wYeJns6giHASA/KkrA==": {
+      "fingerprint": "362dfa1856501e78d45c915919f577ac2f36c647a68557056804127c383eb67c"
+    },
+    "zj:YxSj2Yw09+EZAJi6CNUzgw==": {
+      "fingerprint": "8531bf43cb6e2a050b70f993706518da203b5260d744e3eaa2205c260ec69190"
+    },
+    "zj:sRXMmfdD5Y43dxdV3ONnXg==": {
+      "fingerprint": "e377eaba6f7698ad9ab99b0331e01b4d2791684ecdc2920cabf93d787480042a"
+    },
+    "zj:raSn7BZE/xU28Hlx28pe3A==": {
+      "fingerprint": "920d42bc09bd94c694ffdf1054fd1baa9e45baed2b75316896a890303da15ab1"
+    },
+    "zj:Gv34wztliix7z5sMgrotYA==": {
+      "fingerprint": "3b014438cab96485c3db1d3e619bf54aa4e5efe28e08e569634b210b0f0421c4"
+    },
+    "zj:ifpfi8z/b5N6/44YRcvLvg==": {
+      "fingerprint": "cc2f82785fbb337b9933bb4c959054d28e40f1d9e66b4a009e5acbfcc0280501"
+    },
+    "zj:k+l5IRwvJGEQBYw+l/nEnQ==": {
+      "fingerprint": "85042795afa15912b53026a8dd32648edb9d9854013e75cdb331de44ad11d900"
+    },
+    "zj:JTmam0MAqLKmTDbj7EakIA==": {
+      "fingerprint": "6c0bd6e841552f95ae53707d4ff53d046b12620159996435c711b2a5a644f61f"
+    },
+    "zj:pav76Wp3Wl5H9Ht1kzKSiw==": {
+      "fingerprint": "ce9e93c7ea6408e14fc304204eb1695635f7b5426b0ce94b718ed1d7f75e79ff"
+    },
+    "zj:8Zrc+o4GlG09wSFpU/CLuQ==": {
+      "fingerprint": "7b8f9ea0a1ac1d96853d36729320e7081601e9e5418156b25e6e9535b3fd40fc"
+    },
+    "zj:LtbyoOKFt7G6tOYJXnpYxA==": {
+      "fingerprint": "4afdc54df94bc3e76a5aefc18e160180cea6a099efda0d0053c8e92a086947a9"
+    },
+    "zj:/bO8jmZMrcYsAoAjaNUEWw==": {
+      "fingerprint": "eb68b475c2ed08b86841991859de7716857702a6fae13593416b70d98301c4d3"
+    },
+    "zj:wQlYDlxqiuVqI40y3M+OJA==": {
+      "fingerprint": "8a58933729f3db790b945fa307c56ab409b7276c81483919e158ad6b36c33877"
+    },
+    "zj:EPAZRnBxjm5MhGx/i8crsA==": {
+      "fingerprint": "58c65c37f40e5878f97f9e0fb32ffbcb7660edc1ca6c4507515e6abc60a474ed"
+    },
+    "zj:6jwPKfE2kGFOgMMSADQb9w==": {
+      "fingerprint": "6e789a649b1aca6bddaef15b62d093415690179c2abe88ec0ec0f952609c2176"
+    },
+    "zj:ui1Vw3ozihqg1RGps45yvw==": {
+      "fingerprint": "d98984f505c73bc63e1c346977423f74fd3bf4d4b629552793a2b6344fd945e7"
+    },
+    "zj:4hMeb3RhxjOZ8jvO9GBqoQ==": {
+      "fingerprint": "40bdc33c974408a2bc723dc0ecc66682628517c3fc462e6857afc24c3fa85a77"
+    },
+    "zj:GBIe4KKKreFpOs+VIhZqhA==": {
+      "fingerprint": "87e644cea8efce87b73f5308bd9e9619fe69a43e2935f63368f49f771d3565d5"
+    },
+    "zj:rf9hzAcvAqevdb6vyoHkcQ==": {
+      "fingerprint": "dcdf4e0947f045adce71107eaa683161d950507c8321b26a4b92ff2fb4c263ee"
+    },
+    "zj:PdEL3yW0B7UDy++2P9PlWQ==": {
+      "fingerprint": "50555a8bbc59aa4961e7a1cf0be6dd43ed0667eb5feb7ed37c4a8d9adb38fbda"
+    },
+    "zj:1vP7X5zVl9B9Y05pRuaSLg==": {
+      "fingerprint": "a8f2a2fd2d8e968ded2cbee79d4e11cec1c1081df4180a671ac35106ce42d8de"
+    },
+    "zj:EB60bvo4BjGEKGzKF7lciw==": {
+      "fingerprint": "3dbf047720de86785af6a5672cb06d0ae3c780ccdad800c32daf7d371616d7df"
+    },
+    "zj:TiOYrzSFu08HRYHEFL/UEQ==": {
+      "fingerprint": "d1a548bc49155d75f90c9b20f5f7756feb87d84f75d01c826e2b0ec755243648"
+    },
+    "zj:TRIlU0JZPxvLJaMj6mH8Hg==": {
+      "fingerprint": "9e687167d6441accd5e1cb337c9ad19ff0173f6f006ccc625d74afdf2e99da76"
+    },
+    "zj:DjRy1L8TQsW/SkLoWkyLqg==": {
+      "fingerprint": "0ca83873cb712d21f33722474091a9ec394b9204e68a43ebca5d21efc5e1a565"
+    },
+    "zj:ibfaxE7frKHQIJp15qiV9Q==": {
+      "fingerprint": "69df8eb4cd46f74c8717d9a33cea1ea4fb36d738b1dc8771aaa6a754ce182a3c"
+    },
+    "zj:9OnLIlO7ULUV+N4bzGSQrA==": {
+      "fingerprint": "77c85f934b673047de20472ede477d01b4a080bf679bbd887ba59382c9988ae4"
+    },
+    "zj:l5EZPOB+nlYXrcSl6VUyoQ==": {
+      "fingerprint": "fee1d67270461769d5cd639e5fa88e842a54978538d36457840cba3a29abdc81"
+    },
+    "zj:xLsDAiW0TDc4vYpIQuLLUA==": {
+      "fingerprint": "58b7f74800969a467d3f8254372adfa4019012f8a087f39e35d8bc5b539c07c6"
+    },
+    "zj:K0NkxxMn9wWEfyVh+ZEgJg==": {
+      "fingerprint": "10e1406289da2b6ff897c78251eaf2953194146ead25e7a75ca45d27bbb659f1"
+    },
+    "zj:wi8+rjxgmTafNCwh5aViyw==": {
+      "fingerprint": "2412aab7521a38c445d16f8270342384372bc587fd17573d8aaafde62e60ae5b"
+    },
+    "zj:xVTyKbrP20KszZCsWgK5nw==": {
+      "fingerprint": "cd806cb363e7a00a1d2d89092fd92344e98dbb34161a51d2de6db16713cde126"
+    },
+    "zj:UJRjFvGRUoA0lDWhjHsSzw==": {
+      "fingerprint": "aa8cbe80fdae04158bda4d016dbd226d315c35947cda36d852d63a5fdf2356d3"
+    },
+    "zj:4Cp8YJfSyX8XqNX5B1zfHQ==": {
+      "fingerprint": "b0dae04759dc37009abfa9aab8d65838a41c327bc319d7a4a6db59e374b7c9d5"
+    },
+    "zj:4MvFL2mCeigGjcWlzIPScw==": {
+      "fingerprint": "d51e860de6442c66e990a87416da764f84d7a8cb427e1eb69550fa94911508d9"
+    },
+    "zj:34zYs8jHzZvtK8AyfV6mTA==": {
+      "fingerprint": "71af460587b19dc9c5d3a806c4235dfcf94179cc3fa9a005f1fbdc5ace8ec931"
+    },
+    "zj:9hAxqgHbXEq45k6Rlh4pXA==": {
+      "fingerprint": "67c3e683f944365e821a780341abbdcfc1a055f9a5b1a8668a7e68580bfa0e6b"
+    },
+    "zj:HfPWe/0f3yQ1yQzk5KHt5Q==": {
+      "fingerprint": "1bff66c65bf7d16ba7285214bc62c416750ab3542f3608bce603a9f57b5d62e6"
+    },
+    "zj:mowVnpQrHl8cukItrpdV4A==": {
+      "fingerprint": "e44bdda9050cf39e62450a770fc26c08c7c49d3a93850d5a9e0691654e988286"
+    },
+    "zj:lit4dtcYebj16baJ5RQfSQ==": {
+      "fingerprint": "1ddd165ec40dfa03c02c22984ad848d4a1a8d67c8165c3f7c58b1ca0fe38e79f"
+    },
+    "zj:tCEqPqGtQ0QOqiTYN0DT1A==": {
+      "fingerprint": "d52ecfdb116a7f5338d1cba647d3ea6e6633bd8cf113f86069d7cf8523b81041"
+    },
+    "zj:c/0/ISLEBnRI48zokkY1mg==": {
+      "fingerprint": "4254d8b9148f422becfb8cbf7cc6360766876441fadd786a1c96843b621359b4"
+    },
+    "zj:HuGzjweGLsv74odZMibrIg==": {
+      "fingerprint": "3d9d43c7aa82fa39197dc8cb0557f6b62660fe3e9c460fff6b7f259443316a4d"
+    },
+    "zj:gC6Z+2FJECSmEYs3dg61Tg==": {
+      "fingerprint": "d6f19549d0d778bfff6ee0a18d02d647424adf2f85e172c4cb478b2fa4442e23"
+    },
+    "zj:slr2tNDwtzc+kHN22khhlQ==": {
+      "fingerprint": "c16389430f436960646d92100f53655b2d891470396c2afbcfe495ad8dc7e4d9"
+    },
+    "zj:USfZw5HDY+liRNNmnlWp0A==": {
+      "fingerprint": "7f982256de1487e81d9d5c3e0bfde0c9242f64740cef56f87556e357968ba9c5"
+    },
+    "zj:ipsuNgebRgNw21xa4J9U5Q==": {
+      "fingerprint": "f37273ab39e502e305f87a637bae49bf0543671ebca97fbd8926941c8323ca80"
+    },
+    "zj:GF+E9453ZoxmBz2jOTILmQ==": {
+      "fingerprint": "1dcb06ebbd30ef5a3f65291befd08d68c434027559da87416245fb61a21ba9ca"
+    },
+    "zj:gkwCsb3ErI7CEvGWxKrcmA==": {
+      "fingerprint": "9378e1794ed325304139108360e7c34c036ee4fea517e39f9f9bb278723cdfd2"
+    },
+    "zj:pbHkNc/rEFVJoM40/QVwww==": {
+      "fingerprint": "447b20ae35eeac63b739c6f027bc4ad60973f2263c213588109e190d7bacc3de"
+    },
+    "zj:O5Gews/f6KYksSRWu5rojg==": {
+      "fingerprint": "ba25cabaf7361e4823805ef9d4be58ebfe14deccc458e67cbe7434c7796fbe14"
+    },
+    "zj:NA4kFMMGWDp1IgEK46BigA==": {
+      "fingerprint": "07c5bf85bcc45a8dcfee50514cf05633cd3fdebfa336c0145d2675f9bf07f388"
+    },
+    "zj:2juVUEfSqWIfssnZ1nP0kQ==": {
+      "fingerprint": "e7786f1f528e43006e00a3bd3c953cd6777fc4048717b1d3b2730a3f88ded414"
+    },
+    "zj:Dlwy5RsnNJ4tiIUgPxmtcQ==": {
+      "fingerprint": "44fe36cb518c3ff397bcc84fc77c9917995bce251495f5b0f37c8ef3d306fab1"
+    },
+    "zj:s92lHw0OtR3j89wvreH2DQ==": {
+      "fingerprint": "3774d76ef9ebe1bb7e3a7c9b4c4045f2d09d3021070ef9dd4d3b4e8b22eba2b8"
+    },
+    "zj:t+gnHVAtF3qNq3l2cQDZRQ==": {
+      "fingerprint": "7e3bf8e81d5ab8877cdcaa4826b59a82d1851a5bdad99ca49d059ba68a9c8b81"
+    },
+    "zj:Efej7J1dOAiVKKBmds2Ivg==": {
+      "fingerprint": "eaea6756ff02d95e43edbecd04fd5897426de938b5f92763b0fe63a7d0cc6b3c"
+    },
+    "zj:bRL+A46IDXJl+JN/3oaMDw==": {
+      "fingerprint": "ef79a1971ffd7d84ff8e70b3c654e751573ddefc9fec4fbc46bec6d6afac7f36"
+    },
+    "zj:sigdNeGYxtJLXDpRwSSzTA==": {
+      "fingerprint": "61e982b5f3c9f60d01dc5cceb7c501ecd8235242b1e3fe8031be43141b7517fe"
+    },
+    "zj:ws6bi74cKyRhMBn4dzSxBw==": {
+      "fingerprint": "39021b284f1009eb6d8b8c3333f9d4c412aa26db6c074765475bb6ae0bb41d03"
+    },
+    "zj:z6wfptRzZ8pNDRuDkqdbrA==": {
+      "fingerprint": "355c0b8e26f42539db747c693f9aabb907626160f76979aafede726363070cd4"
+    },
+    "zj:FozZBs9RBeFwOmMxKUM6uA==": {
+      "fingerprint": "30a2889c177cd758898c09ae47389caa5dfb203966a5d92534e2d8f156d4fa01"
+    },
+    "zj:85gfeqELlGW6nitYkf7Z8A==": {
+      "fingerprint": "3a9e4300814e0de63636a6732016b2b794acc6c66db877404f39335145f826ac"
+    },
+    "zj:qf0bq1Storc0fljBR62jnw==": {
+      "fingerprint": "643985b96dd7275427c2b30b2d0fc21f38c97c3b64f6d97724edeb62ef4995a3"
+    },
+    "zj:UXH99qTjrSXfuHKZsZ5tDg==": {
+      "fingerprint": "a56421c5c20e66a3acc691bc1254ac5638a49f6e77c27a26664cbdb3158ce2a2"
+    },
+    "zj:6YZp6lokblnH5wHpEEdkyg==": {
+      "fingerprint": "222386fb8ceddef9dc03436d562d6659b858bc59c0ea66b683d9b70a47d1524a"
+    },
+    "zj:oWSdE4OoeBhHgUwH7/XT0Q==": {
+      "fingerprint": "1df67c335dd9d8fb4b2089c20bd20bf1b7e4d321b5e4989c57b400b7b1eef25c"
+    },
+    "zj:jPvCifLOIOwRRltvN6rr5w==": {
+      "fingerprint": "6b14def8bac1b653240303432693f6d4c45f4901cc679c8f3905c65e4889e1dc"
+    },
+    "zj:OwrtncIGroa8yL2WSOK3jA==": {
+      "fingerprint": "01b3028ec5d78117b3030564d5fd8df3794331d4672328f30fe28b8f021de441"
+    },
+    "zj:rnQ8Th5cdQ88GF64iOtC1w==": {
+      "fingerprint": "f1369011dace24c44c45a9476abf92a47f16d5c0704d537247223220dc8123d9"
+    },
+    "zj:Jj3LQUv66TRkzRv9IMsIlA==": {
+      "fingerprint": "68c02f9d1714a4ee8c39eee8bb222291ea9df8fb148996d9f92e05605dacd3c0"
+    },
+    "zj:/UshXcyP8dDJBOHfHcEreA==": {
+      "fingerprint": "feb739edacb83b0d585d53ee383e964fd6f0409342d4feb73f45af572cc9aae1"
+    },
+    "zj:90JZlxGnzDOUsBXrq5NiEw==": {
+      "fingerprint": "c0fa62467a41b8a394115e1c44a0286901f79ad0f7fed7b904d5c53f1ee3ae54"
+    },
+    "zj:AbOC4ajK0coc6R2kenFQAw==": {
+      "fingerprint": "377150b6fa932d126bc2481ae99b2d6cec54b8342504093d15c6a1c6be800cb6"
+    },
+    "zj:w8u/2dow0MTdjHXlb9IDSw==": {
+      "fingerprint": "09735dc87957f0c2d04757a493ea029c9daf45150084cb203ad5b0567d6bf49e"
+    },
+    "zj:yTDs00S9fszoEfkc+lDKQg==": {
+      "fingerprint": "1d8883d6da14a14f5968401ab3d9ffd83512c3a1ed987b5761c7c9da56d4ca7e"
+    },
+    "zj:jsRb/GhHevqa7XoN+4NRYg==": {
+      "fingerprint": "e78059a02173ba8049b981457bf2f568e66c1671784fc6e830083be0dae9902e"
+    },
+    "zj:RKhOnP4sZYO0E/ZnmdVIYA==": {
+      "fingerprint": "fc74e5b2df4d20a6404846ec0e70f552bc110e4e9c493ba1f991464eb58c3268"
+    },
+    "zj:PzuoQSzxxDYcNOggChgmzg==": {
+      "fingerprint": "69eb96b4b05f85ffbb913f3e436235050933755bd61e93ff0e4ec9252fe4199f"
+    },
+    "zj:8bSpkgBCCo7EcJlZdssWbg==": {
+      "fingerprint": "4dbf60db00faf98786ae1b9f9540f9d4396f10bd49264963d75a9c670f3d5697"
+    },
+    "zj:lQwgc0VWZSVpTcvnqwekDw==": {
+      "fingerprint": "7bac97f596c954daa163b46280bde05126d5347216ae65b9daf07ec5f73e285f"
+    },
+    "zj:EgIA2V2CMGPaU14OBL3lOg==": {
+      "fingerprint": "3be1ce041670508fd40f1793d3f4c2af2e1041517881551edf21b6b1aa0682a5"
+    },
+    "zj:QDke+pZ1lGcRHXR8RrpsPA==": {
+      "fingerprint": "47311b88a5ca1e2728af38926f3046036dda6ec6d575ed03688986ed2a4a6eaa"
+    },
+    "zj:kdSOwglZymZoUlLQMVfH/A==": {
+      "fingerprint": "02b2cb01bcb1416d1ff80f2091d05f5022761ca922d56b02df2a6ac1c6a3c7ed"
+    },
+    "zj:AuCuiG3XcRswHYErdaX1Cg==": {
+      "fingerprint": "ef41091ab822d6316582e97177c11dd71a2bf873642143dfb6a2996618f92884"
+    },
+    "zj:/LxBiZqvsDSE7HUyx7dGPw==": {
+      "fingerprint": "c3d8e804c3d9d81056f37b1439e6942bf48c3ac66561a6b1821a87e50cd32d03"
+    },
+    "zj:TeoEr2MZ3Q3/Ry6hh8IJJg==": {
+      "fingerprint": "24697bf4e18878dcea4210d481b778a681c35c32f6f2670ce86e648c90f72544"
+    },
+    "zj:38vgxdlOmz0ral1uYg6tNQ==": {
+      "fingerprint": "7cd6b9a404a931c56e16969c3172d12ca8f1680d93cb5de31703e142ed27b198"
+    },
+    "zj:WavUczh3vTNvg8Z+qeNGMw==": {
+      "fingerprint": "dbd99c9872593184fe6ba487abad11ce23962550bbe0a8d7c9d98cbeeccafa06"
+    },
+    "zj:/1TCTo98c5MCgpQdisERdw==": {
+      "fingerprint": "bad0f9145d44c1d13643c61638d57d322189bd8257172f50d2be6a6883a20ad6"
+    },
+    "zj:/roLjxzlpdA5pWlizKb3IA==": {
+      "fingerprint": "8d42a60f9a057413e2122ca74f7eed7effb467f47e18559ca2366be7887cc9f2"
+    },
+    "zj:nHSC5Glup8duHZzLYn5sXg==": {
+      "fingerprint": "81b71062c5ff5d90251b945ca452ee5321ae4362b7040563e2276f9c6eca470b"
+    },
+    "zj:hQoTKEZxRS0Pj+ArLVxHbA==": {
+      "fingerprint": "65f264ba03db986fd40eb1d2c855d3e4b315b558c7cd2f84b98ebce344c5e6eb"
+    },
+    "zj:frJr3LEBm/esMEDNccvRpA==": {
+      "fingerprint": "cd652117807883763740a8ae6e9cdeaf63511f2c6f550eb0b5316eae2a9a2557"
+    },
+    "zj:A3l80BeJ+Xw4IxrW0XC67g==": {
+      "fingerprint": "dd2974cf857ec0a605e8cd8b28177ffeab6672278236e8e1f508d4ac5d29d9b9"
+    },
+    "zj:4gz1/YF/dxFFZzXZCAdrog==": {
+      "fingerprint": "7a228fee0a5a08ed091659c48c1ad800bcb44ff07d5c1b682d11158f5a26a959"
+    },
+    "zj:paN/sgau9Wce7Cqkzrg6sw==": {
+      "fingerprint": "b7cfbf47bb966050bd68358fa735f4e9355b636c28058ab533d856d7b6250385"
+    },
+    "zj:96vCdolnDrdxhWEs7GfkWw==": {
+      "fingerprint": "8bb7006f2d4e85544957cf8d6d7076fdccab369b0a60781e684d4773632c94cf"
+    },
+    "zj:ydZOAHf/YzhDUw0aEcs5cw==": {
+      "fingerprint": "85fd5766121c638753dee301aea3d90218568b55129bc153aa2e75e7f80ec131"
+    },
+    "zj:YhW2dPgB0LuB1G3j2/QzlQ==": {
+      "fingerprint": "1f02b8a582cbc18ff3dce97d58b4a71fdbf057ab5d1bab5cccecf39542c0609a"
+    }
+  },
+  "reminders": {
+    "health:nb:2026-10-26": true,
+    "health:zcy:2026-10-26": true
+  },
+  "outbox": [
+    {
+      "id": "747ccf5656073a6dfcda6525cbe7c57484af02bc2eee028195972c7a485371a7",
+      "status": "pending",
+      "summary": "浙采雷达项目更新",
+      "content": "浙采雷达 · 2026/10/26 15:31:15\n浙江政府采购网：初次核查已建立基线，历史公告不会逐条补发。\n\n核查异常：宁波阳光采购服务平台\n本轮检索未完成，不能视为没有新项目。请查看 GitHub Actions 运行记录或官方来源。\n\n核查异常：浙江企业采购信息服务网（政采云）\n本轮检索未完成，不能视为没有新项目。请查看 GitHub Actions 运行记录或官方来源。\n\n"
+    }
+  ],
+  "previous": {
+    "records": [
+      {
+        "id": "aMT8oZjyw4f/XPJe759bXA==",
+        "source": "zj",
+        "title": "关于拱墅区综合行政执法局2027年环城北路等21条道路保洁项目的公开招标公告[欧邦工程管理集团有限公司]",
+        "project": "拱墅区综合行政执法局2027年环城北路等21条道路保洁项目",
+        "type": "招标公告",
+        "tags": [
+          "环卫保洁"
+        ],
+        "published": 1792998144000,
+        "deadline": 1794879000000,
+        "projectCode": "330105263220010000067",
+        "categoryCode": "110-684034"
+      },
+      {
+        "id": "KyFgqMjI7x48G9xIrckfpQ==",
+        "source": "zj",
+        "title": "关于拱墅区综合行政执法局2027年河东路等27条道路保洁项目的公开招标公告[欧邦工程管理集团有限公司]",
+        "project": "拱墅区综合行政执法局2027年河东路等27条道路保洁项目",
+        "type": "招标公告",
+        "tags": [
+          "环卫保洁"
+        ],
+        "published": 1792998122000,
+        "deadline": 1795051800000,
+        "projectCode": "330105263220010000064",
+        "categoryCode": "110-684034"
+      },
+      {
+        "id": "F54JX8p8XIj4mn374KHQgw==",
+        "source": "zj",
+        "title": "关于妙西镇2026年度农村公路日常巡查、养护及安防设施完善项目的竞争性磋商公告[湖州泓达工程管理咨询有限公司]",
+        "project": "妙西镇2026年度农村公路日常巡查、养护及安防设施完善项目",
+        "type": "非招标公告",
+        "tags": [
+          "市政养护"
+        ],
+        "published": 1792983639000,
+        "deadline": 1793856600000,
+        "projectCode": "330502262940000000070-泓达采字2026-021",
+        "categoryCode": "110-511933"
+      },
+      {
+        "id": "9QR/K8fZIRKNp7arSxHzhA==",
+        "source": "zj",
+        "title": "关于玉环市大麦屿街道垃圾中转站管理及垃圾清运服务的竞争性磋商公告[台州嘉亿招标代理有限责任公司]",
+        "project": "玉环市大麦屿街道垃圾中转站管理及垃圾清运服务",
+        "type": "非招标公告",
+        "tags": [
+          "环卫保洁"
+        ],
+        "published": 1792976148000,
+        "deadline": 1793754000000,
+        "projectCode": "331083263650010000016-TZJY20261011",
+        "categoryCode": "110-511933"
+      },
+      {
+        "id": "vS90Im2ZvZKfM514JMWRJw==",
+        "source": "zj",
+        "title": "关于2026―2027年柯城区城区绿化一体化养护服务项目的公开招标公告[浙江卓宏建设项目管理有限公司]",
+        "project": "2026―2027年柯城区城区绿化一体化养护服务项目",
+        "type": "招标公告",
+        "tags": [
+          "绿化养护"
+        ],
+        "published": 1792975910000,
+        "deadline": 1794790800000,
+        "projectCode": "330802262700010000045-XS20261010",
+        "categoryCode": "110-684034"
+      },
+      {
+        "id": "OZaXTpJJfl+gWaZBeofHHQ==",
+        "source": "zj",
+        "title": "金华市生活垃圾卫生填埋场场区绿化养护、有机肥处理中心运营、除臭灭四害、覆膜作业项目的公开招标公告",
+        "project": "金华市生活垃圾卫生填埋场场区绿化养护、有机肥处理中心运营、除臭灭四害、覆膜作业项目",
+        "type": "招标公告",
+        "tags": [
+          "绿化养护"
+        ],
+        "published": 1792748794000,
+        "deadline": 1794531600000,
+        "projectCode": "330700263266390000010-TY2026-FW159-ZFCG159-1",
+        "categoryCode": "110-684034"
+      },
+      {
+        "id": "6UbfLB8qFA/UFZGrm8Z8Rg==",
+        "source": "zj",
+        "title": "澥浦大闸、新泓口泵站、新泓口大闸及海塘运维项目的公开招标公告",
+        "project": "澥浦大闸、新泓口泵站、新泓口大闸及海塘运维项目",
+        "type": "招标公告",
+        "tags": [
+          "排水管网养护",
+          "泵站养护"
+        ],
+        "published": 1792744472000,
+        "deadline": 1794531600000,
+        "projectCode": "NBSD-126",
+        "categoryCode": "110-684034"
+      },
+      {
+        "id": "b76HAQHpZ0CM7Fz+IkhJsw==",
+        "source": "zj",
+        "title": "关于2026年鄞州区镇乡污水收集管网及农村生活污水处理设施运行管理服务采购项目的公开招标公告[浙江绿邦招标代理有限公司]",
+        "project": "2026年鄞州区镇乡污水收集管网及农村生活污水处理设施运行管理服务采购项目",
+        "type": "招标公告",
+        "tags": [
+          "农村生活污水运维"
+        ],
+        "published": 1792741657000,
+        "deadline": 1794447000000,
+        "projectCode": "ZJLB-2026044G",
+        "categoryCode": "110-684034"
+      },
+      {
+        "id": "oNmMq8ZS0EtV+LRmpHwp4w==",
+        "source": "zj",
+        "title": "关于星桥街道绿化养护服务项目的公开招标公告[浙江天瑞项目管理有限公司]",
+        "project": "星桥街道绿化养护服务项目",
+        "type": "招标公告",
+        "tags": [
+          "绿化养护"
+        ],
+        "published": 1792738622000,
+        "deadline": 1794448800000,
+        "projectCode": "330113265040110000029-TRZFCG-2026-008",
+        "categoryCode": "110-684034"
+      },
+      {
+        "id": "u19/rBZSNbZJ9xDgt4nqGg==",
+        "source": "zj",
+        "title": "关于大榭街道2026-2027年装修垃圾清运处置项目（重发）的公开招标公告[宁波中翔工程管理咨询有限公司]",
+        "project": "大榭街道2026-2027年装修垃圾清运处置项目（重发）",
+        "type": "招标公告",
+        "tags": [
+          "环卫保洁"
+        ],
+        "published": 1792738576000,
+        "deadline": 1794461400000,
+        "projectCode": "ZXZB2026—194",
+        "categoryCode": "110-684034"
+      },
+      {
+        "id": "HN2uIV4HuOwjQSpiKK9E9Q==",
+        "source": "zj",
+        "title": "关于遂昌县2026年排污单位废气、废水自动监测设备计量检定校准服务项目的竞争性磋商公告[浙江惠同建设工程管理有限公司]",
+        "project": "遂昌县2026年排污单位废气、废水自动监测设备计量检定校准服务项目",
+        "type": "非招标公告",
+        "tags": [
+          "水质监测"
+        ],
+        "published": 1792731485000,
+        "deadline": 1793667600000,
+        "projectCode": "331123263270010000023-ZJHT2026B43",
+        "categoryCode": "110-511933"
+      },
+      {
+        "id": "S/1Zc7kBvhYeo99k4lduhA==",
+        "source": "zj",
+        "title": "关于2026-2028年朗霞街道绿化养护项目（重发）的公开招标公告[宁波甬达工程造价咨询有限公司]",
+        "project": "2026-2028年朗霞街道绿化养护项目（重发）",
+        "type": "招标公告",
+        "tags": [
+          "绿化养护"
+        ],
+        "published": 1792721778000,
+        "deadline": 1794531600000,
+        "projectCode": "YD26-014-1",
+        "categoryCode": "110-684034"
+      },
+      {
+        "id": "03NF0MlP03QMxkIpjLhmbw==",
+        "source": "zj",
+        "title": "关于富春江镇2026-2027年度易腐垃圾清运处置采购项目（第二次）的公开招标公告[杭州金顺工程咨询有限公司]",
+        "project": "富春江镇2026-2027年度易腐垃圾清运处置采购项目（第二次）",
+        "type": "招标公告",
+        "tags": [
+          "环卫保洁"
+        ],
+        "published": 1792666364000,
+        "deadline": 1794445200000,
+        "projectCode": "330122265020010000038-1",
+        "categoryCode": "110-684034"
+      },
+      {
+        "id": "TtasjRjbQTupM/hoOdMjJg==",
+        "source": "zj",
+        "title": "温岭市道路交通安全设施灾后维修工程项目的公开招标公告",
+        "project": "温岭市道路交通安全设施灾后维修工程项目",
+        "type": "招标公告",
+        "tags": [
+          "市政养护"
+        ],
+        "published": 1792660189000,
+        "deadline": 1794445200000,
+        "projectCode": "331081261560010000177-CC026A09151",
+        "categoryCode": "110-684034"
+      },
+      {
+        "id": "gKWxxkudTqPIKKBBUGI1Eg==",
+        "source": "zj",
+        "title": "关于萧江镇2026-2027年萧江镇城区绿化养护项目的竞争性磋商公告[温州广信工程管理有限公司]",
+        "project": "萧江镇2026-2027年萧江镇城区绿化养护项目",
+        "type": "非招标公告",
+        "tags": [
+          "绿化养护"
+        ],
+        "published": 1792659460000,
+        "deadline": 1793601000000,
+        "projectCode": "330326267400010000145",
+        "categoryCode": "110-511933"
+      },
+      {
+        "id": "YOE659tvJA/mt9C6LJ+5hw==",
+        "source": "zj",
+        "title": "关于新渥街道（新渥区块、深泽区块）2026年-2029年垃圾清运项目的公开招标公告[浙江鼎峰工程咨询有限公司]",
+        "project": "新渥街道（新渥区块、深泽区块）2026年-2029年垃圾清运项目",
+        "type": "招标公告",
+        "tags": [
+          "环卫保洁"
+        ],
+        "published": 1792658889000,
+        "deadline": 1794463200000,
+        "projectCode": "330727266620010000027-DFZFCG2026-Z01-C25",
+        "categoryCode": "110-684034"
+      },
+      {
+        "id": "mkdfvTPNUr3lvMbLVeIDEQ==",
+        "source": "zj",
+        "title": "关于2027年越城区省道及县道公路（二级及以下不含大桥）日常养护小修保养项目的公开招标公告[浙江华诚工程管理有限公司]",
+        "project": "2027年越城区省道及县道公路（二级及以下不含大桥）日常养护小修保养项目",
+        "type": "招标公告",
+        "tags": [
+          "市政养护"
+        ],
+        "published": 1792655135000,
+        "deadline": 1794463200000,
+        "projectCode": "330602261640020000019-HC2026-10-13",
+        "categoryCode": "110-684034"
+      },
+      {
+        "id": "HPihAKsbOKj8uEWRGddT5A==",
+        "source": "zj",
+        "title": "关于2026-2027泰顺县大安乡环卫保洁服务的竞争性磋商公告[温州久恒工程项目管理有限公司]",
+        "project": "2026-2027泰顺县大安乡环卫保洁服务",
+        "type": "非招标公告",
+        "tags": [
+          "环卫保洁"
+        ],
+        "published": 1792654883000,
+        "deadline": 1793602800000,
+        "projectCode": "330329265150010000002-TSCG202610008",
+        "categoryCode": "110-511933"
+      },
+      {
+        "id": "23ZhFapn2Li7Fuu1KLDuWg==",
+        "source": "zj",
+        "title": "关于林业草原支撑保障体系支出（森林防火道路维护）的竞争性磋商公告[浙江大兴建设项目管理咨询有限公司]",
+        "project": "林业草原支撑保障体系支出（森林防火道路维护）",
+        "type": "非招标公告",
+        "tags": [
+          "市政养护"
+        ],
+        "published": 1792653670000,
+        "deadline": 1793581200000,
+        "projectCode": "331126266200120000007-浙大采招E2026203号",
+        "categoryCode": "110-511933"
+      },
+      {
+        "id": "d00QJ9eDBZqaUKLLhFywPQ==",
+        "source": "zj",
+        "title": "关于江北区地表水城区内河水质自动监测运维及数据采购服务项目（第二批第二期）的公开招标公告[佑昌工程管理咨询有限公司]",
+        "project": "江北区地表水城区内河水质自动监测运维及数据采购服务项目（第二批第二期）",
+        "type": "招标公告",
+        "tags": [
+          "水质监测"
+        ],
+        "published": 1792653580000,
+        "deadline": 1794445200000,
+        "projectCode": "FSCG2026241",
+        "categoryCode": "110-684034"
+      },
+      {
+        "id": "5bIVMIkPYVm22iXjcUxT0A==",
+        "source": "zj",
+        "title": "关于嘉兴市南湖区综合行政执法局环卫保洁作业人员2026-2027年度人身意外险采购项目的公开招标公告[嘉兴市明扬工程咨询有限公司]",
+        "project": "嘉兴市南湖区综合行政执法局环卫保洁作业人员2026-2027年度人身意外险采购项目",
+        "type": "招标公告",
+        "tags": [
+          "环卫保洁"
+        ],
+        "published": 1792649549000,
+        "deadline": 1794810600000,
+        "projectCode": "330402260370010000021-JXMYZFCG-2026-015",
+        "categoryCode": "110-684034"
+      },
+      {
+        "id": "v2aAsPj1EOBF5/HEG5Mt9Q==",
+        "source": "zj",
+        "title": "关于永康市公路与运输管理中心2026年度公路养护多用途货车采购（第三次）的公开招标公告[浙江浙交工程咨询有限公司]",
+        "project": "永康市公路与运输管理中心2026年度公路养护多用途货车采购（第三次）",
+        "type": "招标公告",
+        "tags": [
+          "市政养护"
+        ],
+        "published": 1792632994000,
+        "deadline": 1794447000000,
+        "projectCode": "330784262070020000029-002",
+        "categoryCode": "110-684034"
+      },
+      {
+        "id": "g/NPEHFpK7tCIEPC7oUnkA==",
+        "source": "zj",
+        "title": "关于杭州市公安局钱塘区分局2026年城市道路交通设施日常维护项目（重新采购）的公开招标公告[浙江勋达工程咨询有限公司]",
+        "project": "杭州市公安局钱塘区分局2026年城市道路交通设施日常维护项目（重新采购）",
+        "type": "招标公告",
+        "tags": [
+          "市政养护"
+        ],
+        "published": 1792573568000,
+        "deadline": 1794447000000,
+        "projectCode": "330114264040010000037-1",
+        "categoryCode": "110-684034"
+      },
+      {
+        "id": "U/Oi3EXkRTNcqNUgSYcUtA==",
+        "source": "zj",
+        "title": "关于建德市寿昌镇人民政府2026年污水零直排长效运维服务采购项目的竞争性磋商公告[杭州欧方工程管理有限公司]",
+        "project": "建德市寿昌镇人民政府2026年污水零直排长效运维服务采购项目",
+        "type": "非招标公告",
+        "tags": [
+          "排水管网养护"
+        ],
+        "published": 1792567795000,
+        "deadline": 1793599200000,
+        "projectCode": "330182266050010000035-JD2026BF-121",
+        "categoryCode": "110-511933"
+      },
+      {
+        "id": "fFbkxOk4pl1eHkzXMSt3xA==",
+        "source": "zj",
+        "title": "关于余杭区政府大院室外绿化养护服务采购项目的公开招标公告[浙江泛亚工程咨询有限公司]",
+        "project": "余杭区政府大院室外绿化养护服务采购项目",
+        "type": "招标公告",
+        "tags": [
+          "绿化养护"
+        ],
+        "published": 1792561956000,
+        "deadline": 1794376800000,
+        "projectCode": "330110260010010000095-FYZXZBDL-2026-10-121",
+        "categoryCode": "110-684034"
+      },
+      {
+        "id": "0Ir28G/P0XoXnWl8LpuRTg==",
+        "source": "zj",
+        "title": "关于高虹镇集镇保洁与垃圾分类、垃圾运输项目（2026-2027）的公开招标公告[科信联合工程咨询有限公司]",
+        "project": "高虹镇集镇保洁与垃圾分类、垃圾运输项目（2026-2027）",
+        "type": "招标公告",
+        "tags": [
+          "环卫保洁"
+        ],
+        "published": 1792484815000,
+        "deadline": 1794274200000,
+        "projectCode": "330112267550010000005-KXLH-2026-027",
+        "categoryCode": "110-684034"
+      },
+      {
+        "id": "RwpNdoOOUTkSg++vuHoDyg==",
+        "source": "zj",
+        "title": "关于2026-2028年鳌江镇十里梅林绿化养护服务项目的公开招标公告[浙江首信工程项目管理有限公司]",
+        "project": "2026-2028年鳌江镇十里梅林绿化养护服务项目",
+        "type": "招标公告",
+        "tags": [
+          "绿化养护"
+        ],
+        "published": 1792479205000,
+        "deadline": 1794292200000,
+        "projectCode": "330326267200010000196",
+        "categoryCode": "110-684034"
+      },
+      {
+        "id": "VnIYzVVpSnqfXilAzVWnIQ==",
+        "source": "zj",
+        "title": "关于2027年整治垃圾清运处置项目的公开招标公告[杭州博望建设工程招标投标代理有限公司]",
+        "project": "2027年整治垃圾清运处置项目",
+        "type": "招标公告",
+        "tags": [
+          "环卫保洁"
+        ],
+        "published": 1792478101000,
+        "deadline": 1794272400000,
+        "projectCode": "330109269200010000024-BWZBDL2026-194",
+        "categoryCode": "110-684034"
+      },
+      {
+        "id": "QIMk0Lt+QAKuPgKZk4dSuQ==",
+        "source": "zj",
+        "title": "关于2026年钱塘区水质自动监测站运维服务的公开招标公告[浙江敬霖工程咨询有限公司]",
+        "project": "2026年钱塘区水质自动监测站运维服务",
+        "type": "招标公告",
+        "tags": [
+          "水质监测"
+        ],
+        "published": 1792412307000,
+        "deadline": 1794187800000,
+        "projectCode": "330114264420010000017",
+        "categoryCode": "110-684034"
+      },
+      {
+        "id": "bzBTM9QBvxqjaKqYyxexFw==",
+        "source": "zj",
+        "title": "关于磐安县城镇排水管网隐患排查及一张图编制采购项目的公开招标公告[浙江展图工程咨询有限公司]",
+        "project": "磐安县城镇排水管网隐患排查及一张图编制采购项目",
+        "type": "招标公告",
+        "tags": [
+          "管网检测修复"
+        ],
+        "published": 1792401118000,
+        "deadline": 1794272400000,
+        "projectCode": "330727263140040000006-ZTPA-2026-GK014",
+        "categoryCode": "110-684034"
+      },
+      {
+        "id": "NImjUbPooBjCb+1cSPoKqg==",
+        "source": "zj",
+        "title": "关于宁波市客运中心站广场及周边环卫保洁和市容综合管理服务项目的公开招标公告[宁波中基国际招标有限公司]",
+        "project": "宁波市客运中心站广场及周边环卫保洁和市容综合管理服务项目",
+        "type": "招标公告",
+        "tags": [
+          "环卫保洁"
+        ],
+        "published": 1792399886000,
+        "deadline": 1794204000000,
+        "projectCode": "2026NBHSWT392",
+        "categoryCode": "110-684034"
+      },
+      {
+        "id": "HVfAhvbSm1mGRwGjyTVVIg==",
+        "source": "zj",
+        "title": "关于02省道南侧绿化管养服务（线上电子招投标）的公开招标公告[耀华建设管理有限公司]",
+        "project": "02省道南侧绿化管养服务",
+        "type": "招标公告",
+        "tags": [
+          "绿化养护"
+        ],
+        "published": 1792399686000,
+        "deadline": 1794187800000,
+        "projectCode": "330110265110110000050-YHZFCG2026-157",
+        "categoryCode": "110-684034"
+      },
+      {
+        "id": "W2GN9swYWqlyZdsMfuq1hQ==",
+        "source": "zj",
+        "title": "关于2026年新塍分区市政设施维修养护工程的公开招标公告[浙江圣加工程管理咨询有限公司]",
+        "project": "2026年新塍分区市政设施维修养护工程",
+        "type": "招标公告",
+        "tags": [
+          "市政养护"
+        ],
+        "published": 1792390178000,
+        "deadline": 1794204000000,
+        "projectCode": "330411268000010000050-圣加[ZJSJ-2026-JX-036]",
+        "categoryCode": "110-684034"
+      },
+      {
+        "id": "Q5OpRIosRSxS2lndUtEmuA==",
+        "source": "zj",
+        "title": "关于2027-2029年秀洲区县道及以上公路智慧管养一体化运维日常养护项目的公开招标公告[浙江求真工程管理咨询有限公司]",
+        "project": "2027-2029年秀洲区县道及以上公路智慧管养一体化运维日常养护项目",
+        "type": "招标公告",
+        "tags": [
+          "市政养护"
+        ],
+        "published": 1792382293000,
+        "deadline": 1794358800000,
+        "projectCode": "330411260320030000053-QZZXC2026-JX007",
+        "categoryCode": "110-684034"
+      },
+      {
+        "id": "JTmcwNnPaDJ3DcLgInUUFw==",
+        "source": "zj",
+        "title": "关于温岭市大溪镇建成区2026年-2027年污水管网日常养护疏通及泵站日常巡检服务项目采购的公开招标公告[浙江冠宇工程咨询有限公司]",
+        "project": "温岭市大溪镇建成区2026年-2027年污水管网日常养护疏通及泵站日常巡检服务项目采购",
+        "type": "招标公告",
+        "tags": [
+          "排水管网养护",
+          "泵站养护"
+        ],
+        "published": 1792373502000,
+        "deadline": 1794290400000,
+        "projectCode": "331081262750010000032-ZJGYZX-2026-2-050",
+        "categoryCode": "110-684034"
+      },
+      {
+        "id": "sRXMmfdD5Y43dxdV3ONnXg==",
+        "source": "zj",
+        "title": "关于瓯北市政道路、人行道等市政设施维修的公开招标公告[温州国利项目管理咨询有限公司]",
+        "project": "瓯北市政道路、人行道等市政设施维修",
+        "type": "招标公告",
+        "tags": [
+          "市政养护"
+        ],
+        "published": 1792147777000,
+        "deadline": 1794187800000,
+        "projectCode": "330324265020010000020-WZGL-YJ-2026101501",
+        "categoryCode": "110-684034"
+      },
+      {
+        "id": "raSn7BZE/xU28Hlx28pe3A==",
+        "source": "zj",
+        "title": "关于2026-2029年杭州市西湖水域管理处辖区各类基础设施日常维护保养的公开招标公告[浙江泛亚工程咨询有限公司]",
+        "project": "2026-2029年杭州市西湖水域管理处辖区各类基础设施日常维护保养",
+        "type": "招标公告",
+        "tags": [
+          "河道养护"
+        ],
+        "published": 1792143696000,
+        "deadline": 1793925000000,
+        "projectCode": "330116260010060000041",
+        "categoryCode": "110-684034"
+      },
+      {
+        "id": "k+l5IRwvJGEQBYw+l/nEnQ==",
+        "source": "zj",
+        "title": "关于2027-2029年度春晓街道绿化养护服务项目的公开招标公告[宁波中翔工程管理咨询有限公司]",
+        "project": "2027-2029年度春晓街道绿化养护服务项目",
+        "type": "招标公告",
+        "tags": [
+          "绿化养护"
+        ],
+        "published": 1792139932000,
+        "deadline": 1793840400000,
+        "projectCode": "ZXZB2026-195",
+        "categoryCode": "110-684034"
+      },
+      {
+        "id": "JTmam0MAqLKmTDbj7EakIA==",
+        "source": "zj",
+        "title": "关于2026年泰顺县筱村镇环卫一体化服务项目的竞争性磋商公告[温州久恒工程项目管理有限公司]",
+        "project": "2026年泰顺县筱村镇环卫一体化服务项目",
+        "type": "非招标公告",
+        "tags": [
+          "环卫保洁"
+        ],
+        "published": 1792139887000,
+        "deadline": 1793149200000,
+        "projectCode": "330329265040010000002-TSCG202610006",
+        "categoryCode": "110-511933"
+      },
+      {
+        "id": "LtbyoOKFt7G6tOYJXnpYxA==",
+        "source": "zj",
+        "title": "关于2026-2029年常山县千家排水库水站运维服务采购项目的公开招标公告[浙江衢州公信工程管理有限公司]",
+        "project": "2026-2029年常山县千家排水库水站运维服务采购项目",
+        "type": "招标公告",
+        "tags": [
+          "排水管网养护"
+        ],
+        "published": 1792136973000,
+        "deadline": 1794187800000,
+        "projectCode": "330822269080010000016-GXZFCG-2026-GK012",
+        "categoryCode": "110-684034"
+      },
+      {
+        "id": "wQlYDlxqiuVqI40y3M+OJA==",
+        "source": "zj",
+        "title": "关于小港街道经六南路及成路大道路面板块维修改造工程的竞争性磋商公告[宁波宁里项目咨询有限公司]",
+        "project": "小港街道经六南路及成路大道路面板块维修改造工程",
+        "type": "非招标公告",
+        "tags": [
+          "市政养护"
+        ],
+        "published": 1792134903000,
+        "deadline": 1793079000000,
+        "projectCode": "NBNL-20261001",
+        "categoryCode": "110-511933"
+      },
+      {
+        "id": "GBIe4KKKreFpOs+VIhZqhA==",
+        "source": "zj",
+        "title": "关于2026年度五常街道路灯养护采购服务项目的公开招标公告[杭州恒创建设工程咨询有限公司]",
+        "project": "2026年度五常街道路灯养护采购服务项目",
+        "type": "招标公告",
+        "tags": [
+          "市政养护"
+        ],
+        "published": 1792127675000,
+        "deadline": 1794202200000,
+        "projectCode": "330110265180110000127-HCJS2026-030",
+        "categoryCode": "110-684034"
+      },
+      {
+        "id": "9OnLIlO7ULUV+N4bzGSQrA==",
+        "source": "zj",
+        "title": "关于杭州市公安局富阳区分局2026、2027年全区道路智能交通设施维护项目的公开招标公告[浙江省建设工程设备招标有限公司]",
+        "project": "杭州市公安局富阳区分局2026、2027年全区道路智能交通设施维护项目",
+        "type": "招标公告",
+        "tags": [
+          "市政养护"
+        ],
+        "published": 1792054763000,
+        "deadline": 1794186000000,
+        "projectCode": "330111261250010000072-ZJZBC2026-22",
+        "categoryCode": "110-684034"
+      },
+      {
+        "id": "K0NkxxMn9wWEfyVh+ZEgJg==",
+        "source": "zj",
+        "title": "关于兰溪市马涧镇集镇保洁及农村生活垃圾清运服务采购项目的公开招标公告[浙江中兰工程项目管理有限公司]",
+        "project": "兰溪市马涧镇集镇保洁及农村生活垃圾清运服务采购项目",
+        "type": "招标公告",
+        "tags": [
+          "环卫保洁"
+        ],
+        "published": 1792053982000,
+        "deadline": 1793840400000,
+        "projectCode": "330781260130000000014-ZJZLZC2026093",
+        "categoryCode": "110-684034"
+      },
+      {
+        "id": "9hAxqgHbXEq45k6Rlh4pXA==",
+        "source": "zj",
+        "title": "关于低塘街道生活垃圾清运及中转站管理服务及集镇(工业园区)保洁服务项目(两年)（重发）的公开招标公告[宁波正洋工程管理有限公司]",
+        "project": "低塘街道生活垃圾清运及中转站管理服务及集镇(工业园区)保洁服务项目(两年)（重发）",
+        "type": "招标公告",
+        "tags": [
+          "环卫保洁"
+        ],
+        "published": 1792042425000,
+        "deadline": 1793840400000,
+        "projectCode": "ZYCG-2026-20-1",
+        "categoryCode": "110-684034"
+      },
+      {
+        "id": "NA4kFMMGWDp1IgEK46BigA==",
+        "source": "zj",
+        "title": "关于2026年平阳县农村公路桥梁维修加固工程的竞争性磋商公告[浙江名进建设项目管理有限公司]",
+        "project": "2026年平阳县农村公路桥梁维修加固工程",
+        "type": "非招标公告",
+        "tags": [
+          "市政养护"
+        ],
+        "published": 1791967654000,
+        "deadline": 1793062800000,
+        "projectCode": "330326261460010000034",
+        "categoryCode": "110-511933"
+      },
+      {
+        "id": "Dlwy5RsnNJ4tiIUgPxmtcQ==",
+        "source": "zj",
+        "title": "关于北仑区地表水断面自动监测数据及综合服务采购项目的公开招标公告[宁波中基国际招标有限公司]",
+        "project": "北仑区地表水断面自动监测数据及综合服务采购项目",
+        "type": "招标公告",
+        "tags": [
+          "水质监测"
+        ],
+        "published": 1791966814000,
+        "deadline": 1793669400000,
+        "projectCode": "CBNB-20261556-BL079G",
+        "categoryCode": "110-684034"
+      },
+      {
+        "id": "z6wfptRzZ8pNDRuDkqdbrA==",
+        "source": "zj",
+        "title": "关于南阳街道2026-2028年市政管网管养一体服务项目（重新招标）的公开招标公告[浙江蟠龙工程审计咨询有限公司]",
+        "project": "南阳街道2026-2028年市政管网管养一体服务项目（重新招标）",
+        "type": "招标公告",
+        "tags": [
+          "市政养护",
+          "排水管网养护"
+        ],
+        "published": 1791958719000,
+        "deadline": 1793757600000,
+        "projectCode": "330109269210010000027-C",
+        "categoryCode": "110-684034"
+      },
+      {
+        "id": "jPvCifLOIOwRRltvN6rr5w==",
+        "source": "zj",
+        "title": "关于2026-2027年沙城街道公园及主要道路绿化日常养护项目（重）的公开招标公告[浙江景航工程管理有限公司]",
+        "project": "2026-2027年沙城街道公园及主要道路绿化日常养护项目（重）",
+        "type": "招标公告",
+        "tags": [
+          "绿化养护"
+        ],
+        "published": 1791946083000,
+        "deadline": 1793669400000,
+        "projectCode": "330303264460010000026-1",
+        "categoryCode": "110-684034"
+      },
+      {
+        "id": "/1TCTo98c5MCgpQdisERdw==",
+        "source": "zj",
+        "title": "关于2026年江山市桥梁检测维护项目的公开招标公告[浙江中正工程项目管理有限公司]",
+        "project": "2026年江山市桥梁检测维护项目",
+        "type": "招标公告",
+        "tags": [
+          "市政养护"
+        ],
+        "published": 1791864006000,
+        "deadline": 1793601000000,
+        "projectCode": "330881263140060000006-0222",
+        "categoryCode": "110-684034"
+      },
+      {
+        "id": "96vCdolnDrdxhWEs7GfkWw==",
+        "source": "zj",
+        "title": "关于区政府室外绿化养护项目的公开招标公告[杭州瑞拓工程咨询有限公司]",
+        "project": "区政府室外绿化养护项目",
+        "type": "招标公告",
+        "tags": [
+          "绿化养护"
+        ],
+        "published": 1791855426000,
+        "deadline": 1793599200000,
+        "projectCode": "330113260010010000123-RTZFCG-2026-091",
+        "categoryCode": "110-684034"
+      }
+    ]
+  },
+  "lastCheck": {
+    "at": "2026-10-26T07:31:15.053Z",
+    "coverage": [
+      {
+        "source": "zj",
+        "code": "110-600268",
+        "complete": true,
+        "scanned": 2160
+      },
+      {
+        "source": "zj",
+        "code": "110-684034",
+        "complete": true,
+        "scanned": 1742
+      },
+      {
+        "source": "zj",
+        "code": "110-511933",
+        "complete": true,
+        "scanned": 574
+      },
+      {
+        "source": "zj",
+        "code": "110-912804",
+        "complete": true,
+        "scanned": 602
+      },
+      {
+        "source": "zj",
+        "code": "110-631167",
+        "complete": true,
+        "scanned": 340
+      },
+      {
+        "source": "zj",
+        "code": "110-188043",
+        "complete": true,
+        "scanned": 2312
+      },
+      {
+        "source": "nb",
+        "code": "21",
+        "complete": true,
+        "scanned": 300
+      },
+      {
+        "source": "nb",
+        "code": "23",
+        "complete": true,
+        "scanned": 100
+      },
+      {
+        "source": "nb",
+        "code": "22",
+        "complete": false,
+        "scanned": 0
+      },
+      {
+        "source": "nb",
+        "code": "20",
+        "complete": false,
+        "scanned": 0
+      },
+      {
+        "source": "nb",
+        "code": "28",
+        "complete": true,
+        "scanned": 0
+      },
+      {
+        "source": "zcy",
+        "code": "search:养护",
+        "complete": false,
+        "scanned": 0
+      },
+      {
+        "source": "zcy",
+        "code": "search:管网",
+        "complete": false,
+        "scanned": 0
+      },
+      {
+        "source": "zcy",
+        "code": "search:管道",
+        "complete": false,
+        "scanned": 0
+      },
+      {
+        "source": "zcy",
+        "code": "search:排水",
+        "complete": false,
+        "scanned": 0
+      },
+      {
+        "source": "zcy",
+        "code": "search:排污",
+        "complete": false,
+        "scanned": 0
+      },
+      {
+        "source": "zcy",
+        "code": "search:环卫",
+        "complete": false,
+        "scanned": 0
+      },
+      {
+        "source": "zcy",
+        "code": "search:保洁",
+        "complete": false,
+        "scanned": 0
+      },
+      {
+        "source": "zcy",
+        "code": "search:清淤",
+        "complete": false,
+        "scanned": 0
+      },
+      {
+        "source": "zcy",
+        "code": "search:疏通",
+        "complete": false,
+        "scanned": 0
+      },
+      {
+        "source": "zcy",
+        "code": "search:清疏",
+        "complete": false,
+        "scanned": 0
+      },
+      {
+        "source": "zcy",
+        "code": "search:CCTV",
+        "complete": false,
+        "scanned": 0
+      },
+      {
+        "source": "zcy",
+        "code": "search:QV",
+        "complete": false,
+        "scanned": 0
+      },
+      {
+        "source": "zcy",
+        "code": "search:非开挖",
+        "complete": false,
+        "scanned": 0
+      },
+      {
+        "source": "zcy",
+        "code": "search:清扫",
+        "complete": false,
+        "scanned": 0
+      },
+      {
+        "source": "zcy",
+        "code": "search:垃圾清运",
+        "complete": false,
+        "scanned": 0
+      },
+      {
+        "source": "zcy",
+        "code": "search:垃圾收运",
+        "complete": false,
+        "scanned": 0
+      },
+      {
+        "source": "zcy",
+        "code": "search:垃圾转运",
+        "complete": false,
+        "scanned": 0
+      },
+      {
+        "source": "zcy",
+        "code": "search:河道",
+        "complete": false,
+        "scanned": 0
+      },
+      {
+        "source": "zcy",
+        "code": "search:泵站",
+        "complete": false,
+        "scanned": 0
+      },
+      {
+        "source": "zcy",
+        "code": "search:市政维护",
+        "complete": false,
+        "scanned": 0
+      },
+      {
+        "source": "zcy",
+        "code": "search:照明维护",
+        "complete": false,
+        "scanned": 0
+      },
+      {
+        "source": "zcy",
+        "code": "search:公厕",
+        "complete": false,
+        "scanned": 0
+      },
+      {
+        "source": "zcy",
+        "code": "search:采购意向",
+        "complete": false,
+        "scanned": 0
+      },
+      {
+        "source": "zcy",
+        "code": "search:绿化",
+        "complete": false,
+        "scanned": 0
+      },
+      {
+        "source": "zcy",
+        "code": "search:绿地",
+        "complete": false,
+        "scanned": 0
+      },
+      {
+        "source": "zcy",
+        "code": "search:园林",
+        "complete": false,
+        "scanned": 0
+      },
+      {
+        "source": "zcy",
+        "code": "search:行道树",
+        "complete": false,
+        "scanned": 0
+      },
+      {
+        "source": "zcy",
+        "code": "search:水质",
+        "complete": false,
+        "scanned": 0
+      },
+      {
+        "source": "zcy",
+        "code": "search:地表水",
+        "complete": false,
+        "scanned": 0
+      },
+      {
+        "source": "zcy",
+        "code": "search:地下水",
+        "complete": false,
+        "scanned": 0
+      },
+      {
+        "source": "zcy",
+        "code": "search:饮用水",
+        "complete": false,
+        "scanned": 0
+      },
+      {
+        "source": "zcy",
+        "code": "search:水环境",
+        "complete": false,
+        "scanned": 0
+      },
+      {
+        "source": "zcy",
+        "code": "search:水源地",
+        "complete": false,
+        "scanned": 0
+      },
+      {
+        "source": "zcy",
+        "code": "search:废水",
+        "complete": false,
+        "scanned": 0
+      },
+      {
+        "source": "zcy",
+        "code": "search:农村生活污水",
+        "complete": false,
+        "scanned": 0
+      },
+      {
+        "source": "zcy",
+        "code": "search:农村污水",
+        "complete": false,
+        "scanned": 0
+      },
+      {
+        "source": "zcy",
+        "code": "search:村镇污水",
+        "complete": false,
+        "scanned": 0
+      },
+      {
+        "source": "zcy",
+        "code": "search:乡村污水",
+        "complete": false,
+        "scanned": 0
+      },
+      {
+        "source": "zcy",
+        "code": "search:农污",
+        "complete": false,
+        "scanned": 0
+      },
+      {
+        "source": "zcy",
+        "code": "search:泵房",
+        "complete": false,
+        "scanned": 0
+      },
+      {
+        "source": "zcy",
+        "code": "search:排涝站",
+        "complete": false,
+        "scanned": 0
+      }
+    ]
+  }
+}
