@@ -711,15 +711,7 @@
     "health:nb:2026-10-26": true,
     "health:zcy:2026-10-26": true
   },
-  "outbox": [
-    {
-      "id": "747ccf5656073a6dfcda6525cbe7c57484af02bc2eee028195972c7a485371a7",
-      "status": "accepted",
-      "summary": "浙采雷达项目更新",
-      "content": "浙采雷达 · 2026/10/26 15:31:15\n浙江政府采购网：初次核查已建立基线，历史公告不会逐条补发。\n\n核查异常：宁波阳光采购服务平台\n本轮检索未完成，不能视为没有新项目。请查看 GitHub Actions 运行记录或官方来源。\n\n核查异常：浙江企业采购信息服务网（政采云）\n本轮检索未完成，不能视为没有新项目。请查看 GitHub Actions 运行记录或官方来源。\n\n",
-      "acceptedAt": "2026-10-26T07:31:18.356Z"
-    }
-  ],
+  "outbox": [],
   "previous": {
     "records": [
       {
@@ -1442,25 +1434,25 @@
     ]
   },
   "lastCheck": {
-    "at": "2026-10-26T07:31:15.053Z",
+    "at": "2026-10-26T07:37:46.369Z",
     "coverage": [
       {
         "source": "zj",
         "code": "110-600268",
         "complete": true,
-        "scanned": 2160
+        "scanned": 2163
       },
       {
         "source": "zj",
         "code": "110-684034",
         "complete": true,
-        "scanned": 1742
+        "scanned": 1745
       },
       {
         "source": "zj",
         "code": "110-511933",
         "complete": true,
-        "scanned": 574
+        "scanned": 576
       },
       {
         "source": "zj",
@@ -1472,13 +1464,13 @@
         "source": "zj",
         "code": "110-631167",
         "complete": true,
-        "scanned": 340
+        "scanned": 342
       },
       {
         "source": "zj",
         "code": "110-188043",
         "complete": true,
-        "scanned": 2312
+        "scanned": 2316
       },
       {
         "source": "nb",
