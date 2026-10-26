@@ -1,0 +1,38 @@
+name: Zhecai procurement monitor
+on:
+  workflow_dispatch:
+    inputs:
+      mode:
+        description: test sends one connection test; scan checks procurement sources
+        type: choice
+        default: test
+        options: [test, scan]
+  schedule:
+    - cron: '17,47 * * * *'
+permissions:
+  contents: write
+concurrency:
+  group: zhecai-monitor
+  cancel-in-progress: false
+jobs:
+  monitor:
+    if: github.event_name == 'workflow_dispatch' || vars.MONITOR_ENABLED == 'true'
+    runs-on: ubuntu-latest
+    timeout-minutes: 25
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: ${{ github.event.repository.default_branch }}
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - run: npm test
+      - name: Configure state commits
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+      - name: Check and notify
+        env:
+          WXPUSHER_SPT: ${{ secrets.WXPUSHER_SPT }}
+          MODE: ${{ inputs.mode || 'scan' }}
+        run: node run.cjs
