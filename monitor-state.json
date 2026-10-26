@@ -723,9 +723,10 @@
   "outbox": [
     {
       "id": "5b0cb05c9b39d0b5af1e34b81d24244ede41af18df26a4ca741fadae83dd1207",
-      "status": "dispatching",
+      "status": "accepted",
       "summary": "浙采雷达项目更新",
-      "content": "浙采雷达 · 2026/10/26 15:52:27\n新发现公告：关于古荡街道雨污管网运维巡排查第三方服务的公开招标公告[浙江中诚工程管理科技有限公司]\n类别：排水管网养护、管网检测修复\n公告阶段：招标公告\n地区：杭州 西湖区\n采购人：杭州市西湖区人民政府古荡街道办事处\n预算：1,905,000 元\n正文提取截止时间：2026/11/16 13:30:00（以最新官方公告为准）\n来源：浙江政府采购网\nhttps://zfcg.czt.zj.gov.cn/site/detail?parentId=600007&articleId=PXErx5XszxxArGUmHvGVnQ%3D%3D\n\n新发现公告：武义县柳城畲族镇人民政府2026年10月政府采购意向\n类别：市政养护\n公告阶段：采购意向\n地区：金华 武义县\n采购人：武义县柳城畲族镇人民政府\n预算：750,000 元\n来源：浙江政府采购网\nhttps://zfcg.czt.zj.gov.cn/site/detail?parentId=600007&articleId=wDfEmQ1AbRwVZrRatZW7rg%3D%3D\n\n新发现公告：关于镇海区生态林带及主要河道绿化养护服务项目（2027—2029年）的公开招标公告[宁波市镇海国泰工程建设投资管理咨询有限公司]\n类别：河道养护、绿化养护\n公告阶段：招标公告\n地区：宁波 浙江省宁波市镇海区\n采购人：宁波市镇海区农业农村局\n预算：27,200,823 元\n正文提取截止时间：2026/11/18 09:00:00（以最新官方公告为准）\n来源：浙江政府采购网\nhttps://zfcg.czt.zj.gov.cn/site/detail?parentId=600007&articleId=pHTeSpjc24EENyOsxkrviw%3D%3D\n\n"
+      "content": "浙采雷达 · 2026/10/26 15:52:27\n新发现公告：关于古荡街道雨污管网运维巡排查第三方服务的公开招标公告[浙江中诚工程管理科技有限公司]\n类别：排水管网养护、管网检测修复\n公告阶段：招标公告\n地区：杭州 西湖区\n采购人：杭州市西湖区人民政府古荡街道办事处\n预算：1,905,000 元\n正文提取截止时间：2026/11/16 13:30:00（以最新官方公告为准）\n来源：浙江政府采购网\nhttps://zfcg.czt.zj.gov.cn/site/detail?parentId=600007&articleId=PXErx5XszxxArGUmHvGVnQ%3D%3D\n\n新发现公告：武义县柳城畲族镇人民政府2026年10月政府采购意向\n类别：市政养护\n公告阶段：采购意向\n地区：金华 武义县\n采购人：武义县柳城畲族镇人民政府\n预算：750,000 元\n来源：浙江政府采购网\nhttps://zfcg.czt.zj.gov.cn/site/detail?parentId=600007&articleId=wDfEmQ1AbRwVZrRatZW7rg%3D%3D\n\n新发现公告：关于镇海区生态林带及主要河道绿化养护服务项目（2027—2029年）的公开招标公告[宁波市镇海国泰工程建设投资管理咨询有限公司]\n类别：河道养护、绿化养护\n公告阶段：招标公告\n地区：宁波 浙江省宁波市镇海区\n采购人：宁波市镇海区农业农村局\n预算：27,200,823 元\n正文提取截止时间：2026/11/18 09:00:00（以最新官方公告为准）\n来源：浙江政府采购网\nhttps://zfcg.czt.zj.gov.cn/site/detail?parentId=600007&articleId=pHTeSpjc24EENyOsxkrviw%3D%3D\n\n",
+      "acceptedAt": "2026-10-26T07:52:31.669Z"
     }
   ],
   "previous": {
