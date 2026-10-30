@@ -994,6 +994,30 @@
     },
     "nb:nb:b84e3d0f-899e-440b-92d9-ab17cb66914b": {
       "fingerprint": "d1f553f22396778ec3de6e8215daa86eed5353beaf11a168727b6b1b0b9f1ff3"
+    },
+    "zj:ITKoGgYO9VH6pP3XYuH2ug==": {
+      "fingerprint": "a5635160fbdd4f74ff91b1ae8ab4ecb63b5231e1a3f253f680c6f54ed4080aed"
+    },
+    "zj:IVH3D9EBSBckfYYImdyCiw==": {
+      "fingerprint": "901e66c2ecfa936bfb3dbfb1c68ee1b15365254943de6c6e88d5afedc689d55f"
+    },
+    "zj:V6TchWAO6+4ggfzbCa01bQ==": {
+      "fingerprint": "c92354e3a31af448e04fac182cd2dddf14ce8dd14d42644c83bce0e811e672d6"
+    },
+    "zj:7+Xq2y8zJTiNjAUd7xz0YA==": {
+      "fingerprint": "71100d73327de48aa3a63825de3943ba957c050ead4d121512bae67aec61c11d"
+    },
+    "zj:s3AsnvL7LhXhFsUNrTybPw==": {
+      "fingerprint": "2fcabaf096ae146874e866c8137932b50850aec7da0e1b69c372a3e220be58cd"
+    },
+    "zj:N4C0XzGBrw+zMrE5aZFThQ==": {
+      "fingerprint": "3d2ad9dba74085aa84b745567ad1e7282436a280a4409dd8bf5f08d6fb7348ad"
+    },
+    "zj:cOl4xXFaBioyN8N/Wgi8Lw==": {
+      "fingerprint": "604f8b570c374678e4511b2344f1f5d8b26ae3cdbd0fa503575cb10a2eda3f5c"
+    },
+    "zj:y44W8uZsBUBzZJlttjnY0A==": {
+      "fingerprint": "3aeecc97abc19a61a86e31d6c037882b796ade709608cb43434b15fe5be6fe5b"
     }
   },
   "reminders": {
@@ -1004,15 +1028,28 @@
   },
   "outbox": [
     {
-      "id": "54aaa9238592f433c2ae70782a96ea476e70cf6ab58ec00a1067be24c11e7eb1",
-      "status": "accepted",
+      "id": "8290a80adc1046db9e58034ca205328e9f68d28c717b944f6dba18ffe35219c6",
+      "status": "pending",
       "summary": "浙采雷达项目更新",
-      "content": "浙采雷达 · 2026/10/30 09:26:57\n核查异常：宁波阳光采购服务平台\n本轮检索未完成，不能视为没有新项目。请查看 GitHub Actions 运行记录或官方来源。\n\n",
-      "acceptedAt": "2026-10-30T01:27:01.805Z"
+      "content": "浙采雷达 · 2026/10/30 13:52:54\n新发现公告：关于新昌县澄潭街道（澄潭片）生活垃圾收集、清运、处理采购项目中标(成交)结果公告[新昌县晨升工程项目管理有限公司]\n类别：环卫保洁\n公告阶段：采购结果\n地区：绍兴 浙江省绍兴市新昌县\n采购人：新昌县澄潭街道办事处\n预算：未明确\n来源：浙江政府采购网\nhttps://zfcg.czt.zj.gov.cn/site/detail?parentId=600007&articleId=ITKoGgYO9VH6pP3XYuH2ug%3D%3D\n\n新发现公告：关于2027-2029年镇海区交通运输管理中心公路日常维修养护项目的公开招标公告[宁波句章建设项目管理有限公司]\n类别：市政养护\n公告阶段：招标公告\n地区：宁波 浙江省宁波市镇海区\n采购人：宁波市镇海区交通运输管理中心\n预算：24,000,000 元\n正文提取截止时间：2026/11/20 14:00:00（以最新官方公告为准）\n来源：浙江政府采购网\nhttps://zfcg.czt.zj.gov.cn/site/detail?parentId=600007&articleId=IVH3D9EBSBckfYYImdyCiw%3D%3D\n\n新发现公告：关于林业草原支撑保障体系支出（森林防火道路维护）的更正公告[浙江大兴建设项目管理咨询有限公司]\n类别：市政养护\n公告阶段：更正公告\n地区：丽水 庆元县\n采购人：庆元林场\n预算：820,000 元\n来源：浙江政府采购网\nhttps://zfcg.czt.zj.gov.cn/site/detail?parentId=600007&articleId=V6TchWAO6%2B4ggfzbCa01bQ%3D%3D\n\n新发现公告：慈溪市横河镇人民政府2026年12月政府采购意向\n类别：市政养护\n公告阶段：采购意向\n地区：宁波 慈溪市\n采购人：慈溪市横河镇人民政府\n预算：1,000,000 元\n来源：浙江政府采购网\nhttps://zfcg.czt.zj.gov.cn/site/detail?parentId=600007&articleId=7%2BXq2y8zJTiNjAUd7xz0YA%3D%3D\n\n新发现公告：杭州市钱塘区综合行政执法局2026年10月政府采购意向\n类别：市政养护\n公告阶段：采购意向\n地区：杭州 钱塘区\n采购人：杭州市钱塘区综合行政执法局\n预算：6,175,000 元\n来源：浙江政府采购网\nhttps://zfcg.czt.zj.gov.cn/site/detail?parentId=600007&articleId=s3AsnvL7LhXhFsUNrTybPw%3D%3D\n\n新发现公告：松阳县不锈钢管产品质量检验检测中心2026年10月至11月政府采购意向\n类别：环卫保洁\n公告阶段：采购意向\n地区：丽水 松阳县\n采购人：松阳县不锈钢管产品质量检验检测中心\n预算：350,000 元\n来源：浙江政府采购网\nhttps://zfcg.czt.zj.gov.cn/site/detail?parentId=600007&articleId=N4C0XzGBrw%2BzMrE5aZFThQ%3D%3D\n\n新发现公告：2026年玉环市县道路面病害集中修复养护工程的终止公告\n类别：市政养护\n公告阶段：更正公告\n地区：台州 玉环市\n采购人：玉环市公路与运输管理中心\n预算：未明确\n来源：浙江政府采购网\nhttps://zfcg.czt.zj.gov.cn/site/detail?parentId=600007&articleId=cOl4xXFaBioyN8N%2FWgi8Lw%3D%3D\n\n新发现公告：关于新碧街道2026-2028年度市政道路清扫保洁及农村垃圾清运服务项目结果公告[浙江鼎峰工程咨询有限公司]\n类别：环卫保洁\n公告阶段：采购结果\n地区：丽水 浙江省丽水市缙云县\n采购人：缙云县人民政府新碧街道办事处\n预算：未明确\n来源：浙江政府采购网\nhttps://zfcg.czt.zj.gov.cn/site/detail?parentId=600007&articleId=y44W8uZsBUBzZJlttjnY0A%3D%3D\n\n"
     }
   ],
   "previous": {
     "records": [
+      {
+        "id": "IVH3D9EBSBckfYYImdyCiw==",
+        "source": "zj",
+        "title": "关于2027-2029年镇海区交通运输管理中心公路日常维修养护项目的公开招标公告[宁波句章建设项目管理有限公司]",
+        "project": "2027-2029年镇海区交通运输管理中心公路日常维修养护项目",
+        "type": "招标公告",
+        "tags": [
+          "市政养护"
+        ],
+        "published": 1793332657000,
+        "deadline": 1795154400000,
+        "projectCode": "NBGZFWZB2026021",
+        "categoryCode": "110-684034"
+      },
       {
         "id": "Qa82we+rFuTc/GNTRfVTEQ==",
         "source": "zj",
@@ -2218,43 +2255,43 @@
     ]
   },
   "lastCheck": {
-    "at": "2026-10-30T01:26:57.212Z",
+    "at": "2026-10-30T05:52:54.321Z",
     "coverage": [
       {
         "source": "zj",
         "code": "110-600268",
         "complete": true,
-        "scanned": 1975
+        "scanned": 2032
       },
       {
         "source": "zj",
         "code": "110-684034",
         "complete": true,
-        "scanned": 1729
+        "scanned": 1760
       },
       {
         "source": "zj",
         "code": "110-511933",
         "complete": true,
-        "scanned": 532
+        "scanned": 542
       },
       {
         "source": "zj",
         "code": "110-912804",
         "complete": true,
-        "scanned": 522
+        "scanned": 541
       },
       {
         "source": "zj",
         "code": "110-631167",
         "complete": true,
-        "scanned": 259
+        "scanned": 273
       },
       {
         "source": "zj",
         "code": "110-188043",
         "complete": true,
-        "scanned": 1837
+        "scanned": 1894
       },
       {
         "source": "nb",
@@ -2283,7 +2320,7 @@
       {
         "source": "nb",
         "code": "28",
-        "complete": false,
+        "complete": true,
         "scanned": 0
       },
       {
