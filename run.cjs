@@ -31,7 +31,7 @@ async function main(){
  }
  if(state)await dispatch(state);
  const snapshot=await collect({previous:state?.previous,progress:m=>console.log(m)});
- for(const source of ['zj','nb','zcy']){
+ for(const source of ['zj','nb']){
   const rows=snapshot.coverage.filter(c=>(c.source||'zj')===source);
   console.log(JSON.stringify({source,completed:rows.filter(c=>c.complete).length,total:rows.length,errors:[...new Set(rows.filter(c=>!c.complete).map(c=>String(c.error||'unknown')))]}));
  }
