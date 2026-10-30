@@ -1072,6 +1072,21 @@
     },
     "zj:uaUfIh+BCqVN6N8j6BU2kw==": {
       "fingerprint": "7abb685d29403ba330c57c9c294d52272199a153ae9b1ec665716fc147b8cca4"
+    },
+    "zj:7NKBczguqO5DP2nLrofU0Q==": {
+      "fingerprint": "9441d67828dd21a8dbce720741cbe0180c2c10aac6eb72a6017797549d24ddc2"
+    },
+    "zj:TqeHZVJULRkNFxY5QAJNjA==": {
+      "fingerprint": "7268704a5693f4bfec96bdf9f4c3cb2a3a706e72b99b5e16c16cd2c6409d1e3c"
+    },
+    "zj:4a3Gqo/Orlg1fHqHwAD6Gw==": {
+      "fingerprint": "461ae2dc5a7278b9f7415a7d013c5238d9acff74a4054aa4b9b4582189297908"
+    },
+    "zj:RZBtXddB6bdA4uQI/X6alg==": {
+      "fingerprint": "80a0ef50e7dbb63e7facad74e280a0854d32df1796c86e60c574f88a14366c87"
+    },
+    "zj:7fFU3nrR+Z99mum59ONScA==": {
+      "fingerprint": "f216bce01af04a9457dcfdd3d914a0669eff5f98abaf9c554ba4a1170b4de218"
     }
   },
   "reminders": {
@@ -1082,15 +1097,43 @@
   },
   "outbox": [
     {
-      "id": "d96bb0e89cd01fa2abecfb9b56e65d5a08532d3b6002529cd9b37e3c3d5f4b85",
-      "status": "accepted",
+      "id": "bd1c3824707db0b7d591fd0cd09f835f6f6dabd95729544c1457ef4086cf5fb1",
+      "status": "pending",
       "summary": "浙采雷达项目更新",
-      "content": "浙采雷达 · 2026/10/30 16:47:16\n新发现公告：关于2026年管道清淤及疏通项目的竞争性磋商公告[浙江华耀建设咨询有限公司]\n类别：排水管网养护\n公告阶段：非招标公告\n地区：湖州 吴兴区\n采购人：湖州市吴兴区东林镇人民政府\n预算：1,200,000 元\n正文提取截止时间：2026/11/12 09:00:00（以最新官方公告为准）\n来源：浙江政府采购网\nhttps://zfcg.czt.zj.gov.cn/site/detail?parentId=600007&articleId=FkvqjbdgYvLs0WKpvfTWAA%3D%3D\n\n新发现公告：淳安县公路服务中心2026年11月至12月政府采购意向\n类别：绿化养护\n公告阶段：采购意向\n地区：杭州 淳安县\n采购人：淳安县公路服务中心\n预算：16,650,000 元\n来源：浙江政府采购网\nhttps://zfcg.czt.zj.gov.cn/site/detail?parentId=600007&articleId=3IyULaEqPv2rcB4AYFe0jw%3D%3D\n\n新发现公告：关于2026年市政养护维修预发包项目的竞争性磋商公告[浙江华耀建设咨询有限公司]\n类别：市政养护\n公告阶段：非招标公告\n地区：湖州 吴兴区\n采购人：湖州市吴兴区东林镇人民政府\n预算：600,000 元\n正文提取截止时间：2026/11/11 09:30:00（以最新官方公告为准）\n来源：浙江政府采购网\nhttps://zfcg.czt.zj.gov.cn/site/detail?parentId=600007&articleId=JuU7tzrGdujLhnMvI%2BpP5g%3D%3D\n\n新发现公告：淳安县公路服务中心2026年11月至12月政府采购意向\n类别：市政养护\n公告阶段：采购意向\n地区：杭州 淳安县\n采购人：淳安县公路服务中心\n预算：26,771,600 元\n来源：浙江政府采购网\nhttps://zfcg.czt.zj.gov.cn/site/detail?parentId=600007&articleId=085z1k29x3ChG%2B9opUa8PQ%3D%3D\n\n新发现公告：关于宁波市海曙区高桥镇望春四季苑等小区管网改造提升工程(CCTV检测)的竞争性磋商公告[宁波和丰建设项目管理有限公司]\n类别：管网检测修复\n公告阶段：非招标公告\n地区：宁波 浙江省宁波市海曙区\n采购人：宁波市海曙区高桥镇人民政府\n预算：632,800 元\n正文提取截止时间：2026/11/9 14:00:00（以最新官方公告为准）\n来源：浙江政府采购网\nhttps://zfcg.czt.zj.gov.cn/site/detail?parentId=600007&articleId=NWmMYugQXKml4vpVGOImJQ%3D%3D\n\n新发现公告：关于鸽宝山安置点房屋装修建筑垃圾清运处置服务项目中标(成交)结果公告[浙江广通工程咨询有限公司]\n类别：环卫保洁\n公告阶段：采购结果\n地区：杭州 浙江省杭州市余杭区\n采购人：杭州市余杭区瓶窑镇人民政府\n预算：未明确\n来源：浙江政府采购网\nhttps://zfcg.czt.zj.gov.cn/site/detail?parentId=600007&articleId=SJ4G7eXXNerAVlSQly8VPw%3D%3D\n\n新发现公告：宁波市江北区慈城镇人民政府2026年10月至12月政府采购意向\n类别：市政养护\n公告阶段：采购意向\n地区：宁波 江北区\n采购人：宁波市江北区慈城镇人民政府\n预算：2,390,000 元\n来源：浙江政府采购网\nhttps://zfcg.czt.zj.gov.cn/site/detail?parentId=600007&articleId=Lr42CFpCzAsyUGj2fJ%2F53A%3D%3D\n\n新发现公告：宁波市奉化区松岙镇人民政府2026年10月至11月政府采购意向\n类别：环卫保洁\n公告阶段：采购意向\n地区：宁波 奉化区\n采购人：宁波市奉化区松岙镇人民政府\n预算：5,830,000 元\n来源：浙江政府采购网\nhttps://zfcg.czt.zj.gov.cn/site/detail?parentId=600007&articleId=MVBWV9gDCtFit0fdNDnFGg%3D%3D\n\n新发现公告：关于新渥街道（新渥区块、深泽区块）2026年-2029年垃圾清运项目的更正公告[浙江鼎峰工程咨询有限公司]\n类别：环卫保洁\n公告阶段：更正公告\n地区：金华 磐安县\n采购人：磐安县人民政府新渥街道办事处\n预算：2,000,000 元\n来源：浙江政府采购网\nhttps://zfcg.czt.zj.gov.cn/site/detail?parentId=600007&articleId=VGXu5pp2GGHA9vgBdXRypQ%3D%3D\n\n新发现公告：宁波市江北区慈城镇人民政府2026年10月至12月政府采购意向\n类别：市政养护\n公告阶段：采购意向\n地区：宁波 江北区\n采购人：宁波市江北区慈城镇人民政府\n预算：2,390,000 元\n来源：浙江政府采购网\nhttps://zfcg.czt.zj.gov.cn/site/detail?parentId=600007&articleId=uaUfIh%2BBCqVN6N8j6BU2kw%3D%3D\n\n",
-      "acceptedAt": "2026-10-30T08:47:20.945Z"
+      "content": "浙采雷达 · 2026/10/30 23:25:49\n新发现公告：关于2026年苍南县灵溪镇农村生活污水接户部分运行维护服务的竞争性磋商公告[欧邦工程管理集团有限公司]\n类别：排水管网养护、农村生活污水运维\n公告阶段：非招标公告\n地区：温州 苍南县\n采购人：苍南县灵溪镇人民政府\n预算：840,000 元\n正文提取截止时间：2026/11/11 09:30:00（以最新官方公告为准）\n来源：浙江政府采购网\nhttps://zfcg.czt.zj.gov.cn/site/detail?parentId=600007&articleId=7NKBczguqO5DP2nLrofU0Q%3D%3D\n\n新发现公告：关于2026年永嘉县金溪镇环境卫生清扫保洁外包服务的竞争性磋商公告[温州虹希工程项目管理有限公司]\n类别：环卫保洁\n公告阶段：非招标公告\n地区：温州 永嘉县\n采购人：永嘉县金溪镇人民政府\n预算：899,300 元\n来源：浙江政府采购网\nhttps://zfcg.czt.zj.gov.cn/site/detail?parentId=600007&articleId=TqeHZVJULRkNFxY5QAJNjA%3D%3D\n\n新发现公告：关于浙江省浦江中学物业保洁及绿化维护服务项目中标(成交)结果公告[金华市公共资源交易中心浦江县分中心]\n类别：绿化养护\n公告阶段：采购结果\n地区：金华 浙江省金华市浦江县\n采购人：浙江省浦江中学\n预算：未明确\n来源：浙江政府采购网\nhttps://zfcg.czt.zj.gov.cn/site/detail?parentId=600007&articleId=4a3Gqo%2FOrlg1fHqHwAD6Gw%3D%3D\n\n新发现公告：关于温州市中心片污水管网全覆盖样板区污水系统在线监测及运维项目的公开招标公告[浙江晟业工程咨询有限公司]\n类别：排水管网养护\n公告阶段：招标公告\n地区：温州 温州市\n采购人：温州市市政管理中心\n预算：6,500,000 元\n来源：浙江政府采购网\nhttps://zfcg.czt.zj.gov.cn/site/detail?parentId=600007&articleId=RZBtXddB6bdA4uQI%2FX6alg%3D%3D\n\n新发现公告：关于大榭军民友谊隧道维修加固工程的竞争性磋商公告[宁波杜威工程项目管理有限公司]\n类别：市政养护\n公告阶段：非招标公告\n地区：宁波 浙江省宁波市北仑区\n采购人：宁波市北仑区人民政府大榭街道办事处\n预算：1,026,171 元\n正文提取截止时间：2026/11/11 13:30:00（以最新官方公告为准）\n来源：浙江政府采购网\nhttps://zfcg.czt.zj.gov.cn/site/detail?parentId=600007&articleId=7fFU3nrR%2BZ99mum59ONScA%3D%3D\n\n"
     }
   ],
   "previous": {
     "records": [
+      {
+        "id": "7NKBczguqO5DP2nLrofU0Q==",
+        "source": "zj",
+        "title": "关于2026年苍南县灵溪镇农村生活污水接户部分运行维护服务的竞争性磋商公告[欧邦工程管理集团有限公司]",
+        "project": "2026年苍南县灵溪镇农村生活污水接户部分运行维护服务",
+        "type": "非招标公告",
+        "tags": [
+          "排水管网养护",
+          "农村生活污水运维"
+        ],
+        "published": 1793359310000,
+        "deadline": 1794360600000,
+        "projectCode": "330327265050010000046-CNDL2026194",
+        "categoryCode": "110-511933"
+      },
+      {
+        "id": "7fFU3nrR+Z99mum59ONScA==",
+        "source": "zj",
+        "title": "关于大榭军民友谊隧道维修加固工程的竞争性磋商公告[宁波杜威工程项目管理有限公司]",
+        "project": "大榭军民友谊隧道维修加固工程",
+        "type": "非招标公告",
+        "tags": [
+          "市政养护"
+        ],
+        "published": 1793349387000,
+        "deadline": 1794375000000,
+        "projectCode": "NBDW-202611293",
+        "categoryCode": "110-511933"
+      },
       {
         "id": "FkvqjbdgYvLs0WKpvfTWAA==",
         "source": "zj",
@@ -2395,43 +2438,43 @@
     ]
   },
   "lastCheck": {
-    "at": "2026-10-30T08:47:16.790Z",
+    "at": "2026-10-30T15:25:49.966Z",
     "coverage": [
       {
         "source": "zj",
         "code": "110-600268",
         "complete": true,
-        "scanned": 2146
+        "scanned": 2196
       },
       {
         "source": "zj",
         "code": "110-684034",
         "complete": true,
-        "scanned": 1844
+        "scanned": 1932
       },
       {
         "source": "zj",
         "code": "110-511933",
         "complete": true,
-        "scanned": 593
+        "scanned": 629
       },
       {
         "source": "zj",
         "code": "110-912804",
         "complete": true,
-        "scanned": 563
+        "scanned": 589
       },
       {
         "source": "zj",
         "code": "110-631167",
         "complete": true,
-        "scanned": 288
+        "scanned": 296
       },
       {
         "source": "zj",
         "code": "110-188043",
         "complete": true,
-        "scanned": 2015
+        "scanned": 2072
       },
       {
         "source": "nb",
@@ -2455,7 +2498,7 @@
         "source": "nb",
         "code": "20",
         "complete": true,
-        "scanned": 5
+        "scanned": 6
       },
       {
         "source": "nb",
