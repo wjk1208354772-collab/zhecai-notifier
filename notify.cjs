@@ -11,7 +11,7 @@ function block(r,kind){return [kind+'：'+r.title,'类别：'+(r.tags||[]).join(
 function plan(snapshot,old,now=Date.now()){
  const state=structuredClone(old||{version:1,initialized:{},seen:{},reminders:{},outbox:[]});
  const messages=[];
- for(const source of ['zj','nb','zcy']){
+ for(const source of ['zj','nb']){
   const coverage=snapshot.coverage.filter(c=>(c.source||'zj')===source);
   const complete=coverage.length>0&&coverage.every(c=>c.complete);
   if(!complete){const key='health:'+source+':'+day(now);if(!state.reminders[key]){messages.push('核查异常：'+sources.sites[source].name+'\n本轮检索未完成，不能视为没有新项目。请查看 GitHub Actions 运行记录或官方来源。');state.reminders[key]=true;}continue;}
@@ -26,7 +26,7 @@ function plan(snapshot,old,now=Date.now()){
   if(!state.initialized[source])messages.unshift(sources.sites[source].name+'：初次核查已建立基线，历史公告不会逐条补发。');
   state.initialized[source]=true;
  }
- state.previous={records:snapshot.records.filter(r=>r.deadline>now).map(r=>Object.fromEntries(['id','source','title','project','type','tags','published','deadline','projectCode','projectId','categoryCode','parentId'].filter(k=>r[k]!==undefined).map(k=>[k,r[k]])))};
+ state.previous={records:snapshot.records.filter(r=>r.source!=='zcy'&&r.deadline>now).map(r=>Object.fromEntries(['id','source','title','project','type','tags','published','deadline','projectCode','projectId','categoryCode','parentId'].filter(k=>r[k]!==undefined).map(k=>[k,r[k]])))};
  state.lastCheck={at:new Date(now).toISOString(),coverage:snapshot.coverage.map(c=>({source:c.source||'zj',code:c.code,complete:c.complete,scanned:c.scanned}))};
  let content='浙采雷达 · '+date(now)+'\n';
  const flush=()=>{if(content.trim())state.outbox.push({id:hash([now,content]),status:'pending',summary:'浙采雷达项目更新',content});content='';};
