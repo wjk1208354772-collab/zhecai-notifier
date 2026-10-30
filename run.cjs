@@ -31,6 +31,10 @@ async function main(){
  }
  if(state)await dispatch(state);
  const snapshot=await collect({previous:state?.previous,progress:m=>console.log(m)});
+ for(const source of ['zj','nb','zcy']){
+  const rows=snapshot.coverage.filter(c=>(c.source||'zj')===source);
+  console.log(JSON.stringify({source,completed:rows.filter(c=>c.complete).length,total:rows.length,errors:[...new Set(rows.filter(c=>!c.complete).map(c=>String(c.error||'unknown')))]}));
+ }
  const next=plan(snapshot,state);save(next);await dispatch(next);
  const failures=snapshot.coverage.filter(c=>!c.complete);
  if(failures.length)throw Error('部分来源核查未完成：'+failures.length+' 个栏目/检索项。');
