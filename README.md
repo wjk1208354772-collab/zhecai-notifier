@@ -1,13 +1,13 @@
 # 浙采雷达免费云端通知
 
-独立于 Sites 网页的采购监测程序。复用三家官方来源和九类业务筛选，包含农村生活污水运维、泵站养护。不会改动已发布网页。
+独立于 Sites 网页的采购监测程序。手机通知仅监测浙江政府采购网、宁波阳光采购服务平台，保留九类业务筛选，包含农村生活污水运维、泵站养护。不会改动已发布网页。
 
 ## 启用
 
 1. 在自己的 GitHub 账号新建公开仓库 `zhecai-notifier`，勾选 Add README。将本目录全部文件（含 `.github/workflows/monitor.yml`）放入仓库默认分支。
 2. 仓库 Settings → Secrets and variables → Actions → Secrets → New repository secret：Name 填 `WXPUSHER_SPT`，Secret 填自己获得的完整 SPT。不要写入代码、Issues 或聊天。
 3. Actions → Zhecai procurement monitor → Run workflow → mode 选 `test`。确认手机实际收到测试消息。平台受理不代表微信送达，App 登录也不等于绑定微信 ClawBot；应在接收端核实。
-4. 再手动运行 `scan`，确认三个来源在云端能访问，检查运行记录和第一条基线通知。
+4. 再手动运行 `scan`，确认两个来源在云端能访问，检查运行记录和第一条基线通知。
 5. 上述验证完成后，在 Settings → Secrets and variables → Actions → Variables 创建 `MONITOR_ENABLED`，值为 `true`。此后约每30分钟检查，电脑无需开机。改成 `false` 可停止定时扫描。
 
 ## 费用和运行限制
@@ -39,3 +39,5 @@
 - https://wxpusher.zjiecode.com/docs/spt.html
 - https://docs.github.com/en/actions/concepts/billing-and-usage
 - https://docs.github.com/en/actions/reference/workflows-and-actions/events-that-trigger-workflows#schedule
+
+按用户要求，手机通知任务已停用浙江企业采购信息服务网的采集、项目通知与故障提示；Sites 网页不受此设置影响。
