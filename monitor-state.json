@@ -1017,7 +1017,31 @@
       "fingerprint": "604f8b570c374678e4511b2344f1f5d8b26ae3cdbd0fa503575cb10a2eda3f5c"
     },
     "zj:y44W8uZsBUBzZJlttjnY0A==": {
-      "fingerprint": "3aeecc97abc19a61a86e31d6c037882b796ade709608cb43434b15fe5be6fe5b"
+      "fingerprint": "083591a3cde89757d3717447099f48b23841f27353d27d0e548b20326d3f060b"
+    },
+    "zj:4PQZ7lyXt2PszM9oWYhLkg==": {
+      "fingerprint": "e89139f9db70c438d5faa8c8272e1d16931029ef617de7ebe7fe10e2eb6d7155"
+    },
+    "zj:j7LULhF0ApklE6HW5Fdgjw==": {
+      "fingerprint": "e7499ba6683ca64c9642878b9417a080a74d3eb44b3794d55f6f343a62161a82"
+    },
+    "zj:FqnRRarAN5Q9SQSlmGGgxg==": {
+      "fingerprint": "5383dd83e55bcdb15c9d53077db001a0f5b0c8426731f382235e75990885ec41"
+    },
+    "zj:j9g6fs9N1DujhWTYdvKkJQ==": {
+      "fingerprint": "31387ac31b523b6ce0f3362da64f4b082625d9d67afe32e17f18f74b0a9de19e"
+    },
+    "zj:cLatbvK8wQBrxtFSPlzgxg==": {
+      "fingerprint": "5f330c265d7b6f1222d5a51bcd55d93b39b528bd9b167629bc9cfebd3d586b13"
+    },
+    "zj:uCtb9GWTE/1gAQLLaGt3Ew==": {
+      "fingerprint": "a0055e58bf3e2ec938503e046f5866b89f84393c3baed85e5e384b99a219aecd"
+    },
+    "zj:on7ol/015OR9D6bovU+osQ==": {
+      "fingerprint": "274e43ddfc75dbd13f5fcdefd23833b8b87c55e82dbb417ac2ef116aae350d14"
+    },
+    "zj:zSFVsD0Hjb7PoyYcuyDakw==": {
+      "fingerprint": "ce579d5e1192d69b66b0480b03df9abedf94ad0590b3b0ec82c6d49325b4f04c"
     }
   },
   "reminders": {
@@ -1028,15 +1052,57 @@
   },
   "outbox": [
     {
-      "id": "8290a80adc1046db9e58034ca205328e9f68d28c717b944f6dba18ffe35219c6",
-      "status": "accepted",
+      "id": "378d8bd7ed14543fc21a6689c34198c72b11926b63de287a57f0bf606d436300",
+      "status": "pending",
       "summary": "浙采雷达项目更新",
-      "content": "浙采雷达 · 2026/10/30 13:52:54\n新发现公告：关于新昌县澄潭街道（澄潭片）生活垃圾收集、清运、处理采购项目中标(成交)结果公告[新昌县晨升工程项目管理有限公司]\n类别：环卫保洁\n公告阶段：采购结果\n地区：绍兴 浙江省绍兴市新昌县\n采购人：新昌县澄潭街道办事处\n预算：未明确\n来源：浙江政府采购网\nhttps://zfcg.czt.zj.gov.cn/site/detail?parentId=600007&articleId=ITKoGgYO9VH6pP3XYuH2ug%3D%3D\n\n新发现公告：关于2027-2029年镇海区交通运输管理中心公路日常维修养护项目的公开招标公告[宁波句章建设项目管理有限公司]\n类别：市政养护\n公告阶段：招标公告\n地区：宁波 浙江省宁波市镇海区\n采购人：宁波市镇海区交通运输管理中心\n预算：24,000,000 元\n正文提取截止时间：2026/11/20 14:00:00（以最新官方公告为准）\n来源：浙江政府采购网\nhttps://zfcg.czt.zj.gov.cn/site/detail?parentId=600007&articleId=IVH3D9EBSBckfYYImdyCiw%3D%3D\n\n新发现公告：关于林业草原支撑保障体系支出（森林防火道路维护）的更正公告[浙江大兴建设项目管理咨询有限公司]\n类别：市政养护\n公告阶段：更正公告\n地区：丽水 庆元县\n采购人：庆元林场\n预算：820,000 元\n来源：浙江政府采购网\nhttps://zfcg.czt.zj.gov.cn/site/detail?parentId=600007&articleId=V6TchWAO6%2B4ggfzbCa01bQ%3D%3D\n\n新发现公告：慈溪市横河镇人民政府2026年12月政府采购意向\n类别：市政养护\n公告阶段：采购意向\n地区：宁波 慈溪市\n采购人：慈溪市横河镇人民政府\n预算：1,000,000 元\n来源：浙江政府采购网\nhttps://zfcg.czt.zj.gov.cn/site/detail?parentId=600007&articleId=7%2BXq2y8zJTiNjAUd7xz0YA%3D%3D\n\n新发现公告：杭州市钱塘区综合行政执法局2026年10月政府采购意向\n类别：市政养护\n公告阶段：采购意向\n地区：杭州 钱塘区\n采购人：杭州市钱塘区综合行政执法局\n预算：6,175,000 元\n来源：浙江政府采购网\nhttps://zfcg.czt.zj.gov.cn/site/detail?parentId=600007&articleId=s3AsnvL7LhXhFsUNrTybPw%3D%3D\n\n新发现公告：松阳县不锈钢管产品质量检验检测中心2026年10月至11月政府采购意向\n类别：环卫保洁\n公告阶段：采购意向\n地区：丽水 松阳县\n采购人：松阳县不锈钢管产品质量检验检测中心\n预算：350,000 元\n来源：浙江政府采购网\nhttps://zfcg.czt.zj.gov.cn/site/detail?parentId=600007&articleId=N4C0XzGBrw%2BzMrE5aZFThQ%3D%3D\n\n新发现公告：2026年玉环市县道路面病害集中修复养护工程的终止公告\n类别：市政养护\n公告阶段：更正公告\n地区：台州 玉环市\n采购人：玉环市公路与运输管理中心\n预算：未明确\n来源：浙江政府采购网\nhttps://zfcg.czt.zj.gov.cn/site/detail?parentId=600007&articleId=cOl4xXFaBioyN8N%2FWgi8Lw%3D%3D\n\n新发现公告：关于新碧街道2026-2028年度市政道路清扫保洁及农村垃圾清运服务项目结果公告[浙江鼎峰工程咨询有限公司]\n类别：环卫保洁\n公告阶段：采购结果\n地区：丽水 浙江省丽水市缙云县\n采购人：缙云县人民政府新碧街道办事处\n预算：未明确\n来源：浙江政府采购网\nhttps://zfcg.czt.zj.gov.cn/site/detail?parentId=600007&articleId=y44W8uZsBUBzZJlttjnY0A%3D%3D\n\n",
-      "acceptedAt": "2026-10-30T05:52:58.716Z"
+      "content": "浙采雷达 · 2026/10/30 15:16:38\n新发现公告：长兴县夹浦镇人民政府2026年10月至11月政府采购意向\n类别：绿化养护\n公告阶段：采购意向\n地区：湖州 长兴县\n采购人：长兴县夹浦镇人民政府\n预算：1,100,000 元\n来源：浙江政府采购网\nhttps://zfcg.czt.zj.gov.cn/site/detail?parentId=600007&articleId=4PQZ7lyXt2PszM9oWYhLkg%3D%3D\n\n新发现公告：温岭市人民政府太平街道办事处2026年10月政府采购意向\n类别：排水管网养护\n公告阶段：采购意向\n地区：台州 温岭市\n采购人：温岭市人民政府太平街道办事处\n预算：1,050,000 元\n来源：浙江政府采购网\nhttps://zfcg.czt.zj.gov.cn/site/detail?parentId=600007&articleId=j7LULhF0ApklE6HW5Fdgjw%3D%3D\n\n新发现公告：关于仙居县道路交通信号灯2026年度维护服务项目的公开招标公告[台州新远工程项目管理有限公司]\n类别：市政养护\n公告阶段：招标公告\n地区：台州 仙居县\n采购人：仙居县公安局交通管理大队\n预算：400,000 元\n正文提取截止时间：2026/11/20 09:00:00（以最新官方公告为准）\n来源：浙江政府采购网\nhttps://zfcg.czt.zj.gov.cn/site/detail?parentId=600007&articleId=FqnRRarAN5Q9SQSlmGGgxg%3D%3D\n\n新发现公告：关于2026年龙湾二期滨海湿地修复（一阶段）、东堤生态修复工程绿化养护管理服务项目中标(成交)结果公告[温州市伟业造价师事务所（普通合伙）]\n类别：绿化养护\n公告阶段：采购结果\n地区：温州 浙江省温州市龙湾区\n采购人：温州市龙湾区综合行政执法局\n预算：未明确\n来源：浙江政府采购网\nhttps://zfcg.czt.zj.gov.cn/site/detail?parentId=600007&articleId=j9g6fs9N1DujhWTYdvKkJQ%3D%3D\n\n新发现公告：嘉兴秀洲区塘汇街道办事处2026年10月政府采购意向\n类别：河道养护\n公告阶段：采购意向\n地区：嘉兴 嘉兴开发区\n采购人：嘉兴秀洲区塘汇街道办事处\n预算：311,900 元\n来源：浙江政府采购网\nhttps://zfcg.czt.zj.gov.cn/site/detail?parentId=600007&articleId=cLatbvK8wQBrxtFSPlzgxg%3D%3D\n\n新发现公告：关于安吉县农村生活污水处理设施运维服务政府采购项目的公开招标公告\n类别：排水管网养护、农村生活污水运维\n公告阶段：招标公告\n地区：湖州 安吉县\n采购人：安吉县住房和城乡建设局\n预算：54,000,000 元\n正文提取截止时间：2026/11/19 10:00:00（以最新官方公告为准）\n来源：浙江政府采购网\nhttps://zfcg.czt.zj.gov.cn/site/detail?parentId=600007&articleId=uCtb9GWTE%2F1gAQLLaGt3Ew%3D%3D\n\n新发现公告：关于2026-2028年度横峰街道污水管网日常疏通养护采购的公开招标公告[台州铭诚工程咨询有限公司]\n类别：排水管网养护\n公告阶段：招标公告\n地区：台州 温岭市\n采购人：温岭市人民政府横峰街道办事处\n预算：1,540,000 元\n正文提取截止时间：2026/11/26 09:00:00（以最新官方公告为准）\n来源：浙江政府采购网\nhttps://zfcg.czt.zj.gov.cn/site/detail?parentId=600007&articleId=on7ol%2F015OR9D6bovU%2BosQ%3D%3D\n\n新发现公告：关于湖州市市容环境卫生管理中心2027年-2029年环卫作业一体化服务项目（飞英片区）中标(成交)结果公告[湖州市仁皇工程咨询有限公司]\n类别：环卫保洁\n公告阶段：采购结果\n地区：湖州 湖州市\n采购人：湖州市市容环境卫生管理中心\n预算：未明确\n来源：浙江政府采购网\nhttps://zfcg.czt.zj.gov.cn/site/detail?parentId=600007&articleId=zSFVsD0Hjb7PoyYcuyDakw%3D%3D\n\n公告内容变化：关于新碧街道2026-2028年度市政道路清扫保洁及农村垃圾清运服务项目中标(成交)结果公告[浙江鼎峰工程咨询有限公司]\n类别：环卫保洁\n公告阶段：采购结果\n地区：丽水 浙江省丽水市缙云县\n采购人：缙云县人民政府新碧街道办事处\n预算：未明确\n来源：浙江政府采购网\nhttps://zfcg.czt.zj.gov.cn/site/detail?parentId=600007&articleId=y44W8uZsBUBzZJlttjnY0A%3D%3D\n\n"
     }
   ],
   "previous": {
     "records": [
+      {
+        "id": "FqnRRarAN5Q9SQSlmGGgxg==",
+        "source": "zj",
+        "title": "关于仙居县道路交通信号灯2026年度维护服务项目的公开招标公告[台州新远工程项目管理有限公司]",
+        "project": "仙居县道路交通信号灯2026年度维护服务项目",
+        "type": "招标公告",
+        "tags": [
+          "市政养护"
+        ],
+        "published": 1793341912000,
+        "deadline": 1795136400000,
+        "projectCode": "331024261420020000047-XYZFCG2026-033",
+        "categoryCode": "110-684034"
+      },
+      {
+        "id": "uCtb9GWTE/1gAQLLaGt3Ew==",
+        "source": "zj",
+        "title": "关于安吉县农村生活污水处理设施运维服务政府采购项目的公开招标公告",
+        "project": "安吉县农村生活污水处理设施运维服务政府采购项目",
+        "type": "招标公告",
+        "tags": [
+          "排水管网养护",
+          "农村生活污水运维"
+        ],
+        "published": 1793339465000,
+        "deadline": 1795053600000,
+        "projectCode": "HZSY20261023",
+        "categoryCode": "110-684034"
+      },
+      {
+        "id": "on7ol/015OR9D6bovU+osQ==",
+        "source": "zj",
+        "title": "关于2026-2028年度横峰街道污水管网日常疏通养护采购的公开招标公告[台州铭诚工程咨询有限公司]",
+        "project": "2026-2028年度横峰街道污水管网日常疏通养护采购",
+        "type": "招标公告",
+        "tags": [
+          "排水管网养护"
+        ],
+        "published": 1793339423000,
+        "deadline": 1795654800000,
+        "projectCode": "331081262650010000069-TZMCCG-2026-102",
+        "categoryCode": "110-684034"
+      },
       {
         "id": "IVH3D9EBSBckfYYImdyCiw==",
         "source": "zj",
@@ -2256,43 +2322,43 @@
     ]
   },
   "lastCheck": {
-    "at": "2026-10-30T05:52:54.321Z",
+    "at": "2026-10-30T07:16:38.250Z",
     "coverage": [
       {
         "source": "zj",
         "code": "110-600268",
         "complete": true,
-        "scanned": 2032
+        "scanned": 2073
       },
       {
         "source": "zj",
         "code": "110-684034",
         "complete": true,
-        "scanned": 1760
+        "scanned": 1796
       },
       {
         "source": "zj",
         "code": "110-511933",
         "complete": true,
-        "scanned": 542
+        "scanned": 557
       },
       {
         "source": "zj",
         "code": "110-912804",
         "complete": true,
-        "scanned": 541
+        "scanned": 548
       },
       {
         "source": "zj",
         "code": "110-631167",
         "complete": true,
-        "scanned": 273
+        "scanned": 275
       },
       {
         "source": "zj",
         "code": "110-188043",
         "complete": true,
-        "scanned": 1894
+        "scanned": 1942
       },
       {
         "source": "nb",
@@ -2315,259 +2381,13 @@
       {
         "source": "nb",
         "code": "20",
-        "complete": false,
-        "scanned": 0
+        "complete": true,
+        "scanned": 5
       },
       {
         "source": "nb",
         "code": "28",
         "complete": true,
-        "scanned": 0
-      },
-      {
-        "source": "zcy",
-        "code": "search:养护",
-        "complete": false,
-        "scanned": 0
-      },
-      {
-        "source": "zcy",
-        "code": "search:管网",
-        "complete": false,
-        "scanned": 0
-      },
-      {
-        "source": "zcy",
-        "code": "search:管道",
-        "complete": false,
-        "scanned": 0
-      },
-      {
-        "source": "zcy",
-        "code": "search:排水",
-        "complete": false,
-        "scanned": 0
-      },
-      {
-        "source": "zcy",
-        "code": "search:排污",
-        "complete": false,
-        "scanned": 0
-      },
-      {
-        "source": "zcy",
-        "code": "search:环卫",
-        "complete": false,
-        "scanned": 0
-      },
-      {
-        "source": "zcy",
-        "code": "search:保洁",
-        "complete": false,
-        "scanned": 0
-      },
-      {
-        "source": "zcy",
-        "code": "search:清淤",
-        "complete": false,
-        "scanned": 0
-      },
-      {
-        "source": "zcy",
-        "code": "search:疏通",
-        "complete": false,
-        "scanned": 0
-      },
-      {
-        "source": "zcy",
-        "code": "search:清疏",
-        "complete": false,
-        "scanned": 0
-      },
-      {
-        "source": "zcy",
-        "code": "search:CCTV",
-        "complete": false,
-        "scanned": 0
-      },
-      {
-        "source": "zcy",
-        "code": "search:QV",
-        "complete": false,
-        "scanned": 0
-      },
-      {
-        "source": "zcy",
-        "code": "search:非开挖",
-        "complete": false,
-        "scanned": 0
-      },
-      {
-        "source": "zcy",
-        "code": "search:清扫",
-        "complete": false,
-        "scanned": 0
-      },
-      {
-        "source": "zcy",
-        "code": "search:垃圾清运",
-        "complete": false,
-        "scanned": 0
-      },
-      {
-        "source": "zcy",
-        "code": "search:垃圾收运",
-        "complete": false,
-        "scanned": 0
-      },
-      {
-        "source": "zcy",
-        "code": "search:垃圾转运",
-        "complete": false,
-        "scanned": 0
-      },
-      {
-        "source": "zcy",
-        "code": "search:河道",
-        "complete": false,
-        "scanned": 0
-      },
-      {
-        "source": "zcy",
-        "code": "search:泵站",
-        "complete": false,
-        "scanned": 0
-      },
-      {
-        "source": "zcy",
-        "code": "search:市政维护",
-        "complete": false,
-        "scanned": 0
-      },
-      {
-        "source": "zcy",
-        "code": "search:照明维护",
-        "complete": false,
-        "scanned": 0
-      },
-      {
-        "source": "zcy",
-        "code": "search:公厕",
-        "complete": false,
-        "scanned": 0
-      },
-      {
-        "source": "zcy",
-        "code": "search:采购意向",
-        "complete": false,
-        "scanned": 0
-      },
-      {
-        "source": "zcy",
-        "code": "search:绿化",
-        "complete": false,
-        "scanned": 0
-      },
-      {
-        "source": "zcy",
-        "code": "search:绿地",
-        "complete": false,
-        "scanned": 0
-      },
-      {
-        "source": "zcy",
-        "code": "search:园林",
-        "complete": false,
-        "scanned": 0
-      },
-      {
-        "source": "zcy",
-        "code": "search:行道树",
-        "complete": false,
-        "scanned": 0
-      },
-      {
-        "source": "zcy",
-        "code": "search:水质",
-        "complete": false,
-        "scanned": 0
-      },
-      {
-        "source": "zcy",
-        "code": "search:地表水",
-        "complete": false,
-        "scanned": 0
-      },
-      {
-        "source": "zcy",
-        "code": "search:地下水",
-        "complete": false,
-        "scanned": 0
-      },
-      {
-        "source": "zcy",
-        "code": "search:饮用水",
-        "complete": false,
-        "scanned": 0
-      },
-      {
-        "source": "zcy",
-        "code": "search:水环境",
-        "complete": false,
-        "scanned": 0
-      },
-      {
-        "source": "zcy",
-        "code": "search:水源地",
-        "complete": false,
-        "scanned": 0
-      },
-      {
-        "source": "zcy",
-        "code": "search:废水",
-        "complete": false,
-        "scanned": 0
-      },
-      {
-        "source": "zcy",
-        "code": "search:农村生活污水",
-        "complete": false,
-        "scanned": 0
-      },
-      {
-        "source": "zcy",
-        "code": "search:农村污水",
-        "complete": false,
-        "scanned": 0
-      },
-      {
-        "source": "zcy",
-        "code": "search:村镇污水",
-        "complete": false,
-        "scanned": 0
-      },
-      {
-        "source": "zcy",
-        "code": "search:乡村污水",
-        "complete": false,
-        "scanned": 0
-      },
-      {
-        "source": "zcy",
-        "code": "search:农污",
-        "complete": false,
-        "scanned": 0
-      },
-      {
-        "source": "zcy",
-        "code": "search:泵房",
-        "complete": false,
-        "scanned": 0
-      },
-      {
-        "source": "zcy",
-        "code": "search:排涝站",
-        "complete": false,
         "scanned": 0
       }
     ]
