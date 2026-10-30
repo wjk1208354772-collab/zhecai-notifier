@@ -1005,9 +1005,10 @@
   "outbox": [
     {
       "id": "54aaa9238592f433c2ae70782a96ea476e70cf6ab58ec00a1067be24c11e7eb1",
-      "status": "dispatching",
+      "status": "accepted",
       "summary": "浙采雷达项目更新",
-      "content": "浙采雷达 · 2026/10/30 09:26:57\n核查异常：宁波阳光采购服务平台\n本轮检索未完成，不能视为没有新项目。请查看 GitHub Actions 运行记录或官方来源。\n\n"
+      "content": "浙采雷达 · 2026/10/30 09:26:57\n核查异常：宁波阳光采购服务平台\n本轮检索未完成，不能视为没有新项目。请查看 GitHub Actions 运行记录或官方来源。\n\n",
+      "acceptedAt": "2026-10-30T01:27:01.805Z"
     }
   ],
   "previous": {
