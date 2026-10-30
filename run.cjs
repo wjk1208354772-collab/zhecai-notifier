@@ -29,6 +29,7 @@ async function main(){
   await send(process.env.WXPUSHER_SPT,{summary:'浙采雷达连接测试',content:'这是一条浙采雷达测试消息。收到后表示当前接收通道可用，尚不代表定时监测已启用。请确认是在 WxPusher App 还是微信聊天内收到。'});
   console.log('测试消息已被平台受理，请在手机确认实际送达。');return;
  }
+ await require('./diagnose.cjs')();
  if(state)await dispatch(state);
  const snapshot=await collect({previous:state?.previous,progress:m=>console.log(m)});
  for(const source of ['zj','nb','zcy']){
