@@ -8,7 +8,7 @@ function git(...args){execFileSync('git',args,{stdio:'pipe'});}
 function save(state){
  fs.writeFileSync(file,JSON.stringify(state,null,2)+'\n');
  if(process.env.GITHUB_ACTIONS!=='true')throw Error('持久化发送队列仅允许在已配置的 GitHub Actions 中运行。');
- git('add','--',file);git('commit','-m','Update procurement monitor state');git('push','origin','HEAD:'+process.env.GITHUB_REF_NAME);
+ git('add','--',file);git('commit','-m','Update procurement monitor state');git('fetch','origin',process.env.GITHUB_REF_NAME);git('rebase','origin/'+process.env.GITHUB_REF_NAME);git('push','origin','HEAD:'+process.env.GITHUB_REF_NAME);
 }
 async function dispatch(state,persist=save,deliver=send){
  if(state.outbox.some(x=>x.status==='dispatching'))throw Error('有发送结果不确定的消息，需要人工核对；未自动重发。');
