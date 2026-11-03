@@ -1272,9 +1272,10 @@
   "outbox": [
     {
       "id": "98a30803038f8379164598b64f70ee382c0097a660aa94fc3eba330e60bcd893",
-      "status": "dispatching",
+      "status": "accepted",
       "summary": "浙采雷达项目更新",
-      "content": "浙采雷达 · 2026/11/4 01:56:05\n新发现公告：关于2027年城区市政设施（市政维护，管道疏通，城区泵站等）维护管理的公开招标公告[丽水市中兴工程咨询有限公司]\n类别：市政养护、排水管网养护、泵站养护\n公告阶段：招标公告\n地区：丽水 龙泉市\n采购人：龙泉市住房和城乡建设局\n预算：6,300,000 元\n正文提取截止时间：2026/11/24 09:30:00（以最新官方公告为准）\n来源：浙江政府采购网\nhttps://zfcg.czt.zj.gov.cn/site/detail?parentId=600007&articleId=6q3i1v3DMH%2Bzr6L9vqvExg%3D%3D\n\n新发现公告：衢州市柯城区新新街道办事处2026年11月至12月政府采购意向\n类别：环卫保洁\n公告阶段：采购意向\n地区：衢州 柯城区\n采购人：衢州市柯城区新新街道办事处\n预算：1,500,000 元\n来源：浙江政府采购网\nhttps://zfcg.czt.zj.gov.cn/site/detail?parentId=600007&articleId=E%2Fya7h%2FBD3dGrnl105ZJPQ%3D%3D\n\n新发现公告：杭州市萧山区人民政府盈丰街道办事处2026年11月政府采购意向\n类别：市政养护\n公告阶段：采购意向\n地区：杭州 萧山区\n采购人：杭州市萧山区人民政府盈丰街道办事处\n预算：23,994,354 元\n来源：浙江政府采购网\nhttps://zfcg.czt.zj.gov.cn/site/detail?parentId=600007&articleId=%2BzHu3A6dtii1xGOlcDFelA%3D%3D\n\n新发现公告：杭州市萧山区人民政府盈丰街道办事处2026年11月政府采购意向\n类别：市政养护\n公告阶段：采购意向\n地区：杭州 萧山区\n采购人：杭州市萧山区人民政府盈丰街道办事处\n预算：5,478,259 元\n来源：浙江政府采购网\nhttps://zfcg.czt.zj.gov.cn/site/detail?parentId=600007&articleId=FI2itXtMzebnI3%2BIr5tZSg%3D%3D\n\n"
+      "content": "浙采雷达 · 2026/11/4 01:56:05\n新发现公告：关于2027年城区市政设施（市政维护，管道疏通，城区泵站等）维护管理的公开招标公告[丽水市中兴工程咨询有限公司]\n类别：市政养护、排水管网养护、泵站养护\n公告阶段：招标公告\n地区：丽水 龙泉市\n采购人：龙泉市住房和城乡建设局\n预算：6,300,000 元\n正文提取截止时间：2026/11/24 09:30:00（以最新官方公告为准）\n来源：浙江政府采购网\nhttps://zfcg.czt.zj.gov.cn/site/detail?parentId=600007&articleId=6q3i1v3DMH%2Bzr6L9vqvExg%3D%3D\n\n新发现公告：衢州市柯城区新新街道办事处2026年11月至12月政府采购意向\n类别：环卫保洁\n公告阶段：采购意向\n地区：衢州 柯城区\n采购人：衢州市柯城区新新街道办事处\n预算：1,500,000 元\n来源：浙江政府采购网\nhttps://zfcg.czt.zj.gov.cn/site/detail?parentId=600007&articleId=E%2Fya7h%2FBD3dGrnl105ZJPQ%3D%3D\n\n新发现公告：杭州市萧山区人民政府盈丰街道办事处2026年11月政府采购意向\n类别：市政养护\n公告阶段：采购意向\n地区：杭州 萧山区\n采购人：杭州市萧山区人民政府盈丰街道办事处\n预算：23,994,354 元\n来源：浙江政府采购网\nhttps://zfcg.czt.zj.gov.cn/site/detail?parentId=600007&articleId=%2BzHu3A6dtii1xGOlcDFelA%3D%3D\n\n新发现公告：杭州市萧山区人民政府盈丰街道办事处2026年11月政府采购意向\n类别：市政养护\n公告阶段：采购意向\n地区：杭州 萧山区\n采购人：杭州市萧山区人民政府盈丰街道办事处\n预算：5,478,259 元\n来源：浙江政府采购网\nhttps://zfcg.czt.zj.gov.cn/site/detail?parentId=600007&articleId=FI2itXtMzebnI3%2BIr5tZSg%3D%3D\n\n",
+      "acceptedAt": "2026-11-03T17:56:21.643Z"
     }
   ],
   "previous": {
