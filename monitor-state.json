@@ -1197,9 +1197,10 @@
   "outbox": [
     {
       "id": "8a47d76ba4a8b2c9d0b1806dd89d3fa423268cdb73459e286eb0193c271f50f7",
-      "status": "dispatching",
+      "status": "accepted",
       "summary": "浙采雷达项目更新",
-      "content": "浙采雷达 · 2026/11/3 10:42:56\n新发现公告：关于区政府室外绿化养护项目中标(成交)结果公告[杭州瑞拓工程咨询有限公司]\n类别：绿化养护\n公告阶段：采购结果\n地区：杭州 浙江省杭州市临平区\n采购人：杭州市临平区机关事务服务中心\n预算：未明确\n来源：浙江政府采购网\nhttps://zfcg.czt.zj.gov.cn/site/detail?parentId=600007&articleId=6vwNa3g6mvmVbB1rorua9w%3D%3D\n\n新发现公告：关于2027年蜀山街道道路保洁、绿化养护政府采购项目中标(成交)结果公告[浙江华元工程咨询有限公司]\n类别：环卫保洁、绿化养护\n公告阶段：采购结果\n地区：杭州 浙江省杭州市萧山区\n采购人：杭州市萧山区人民政府蜀山街道办事处\n预算：未明确\n来源：浙江政府采购网\nhttps://zfcg.czt.zj.gov.cn/site/detail?parentId=600007&articleId=iOA1S58Pt0gyk0wrazemxw%3D%3D\n\n"
+      "content": "浙采雷达 · 2026/11/3 10:42:56\n新发现公告：关于区政府室外绿化养护项目中标(成交)结果公告[杭州瑞拓工程咨询有限公司]\n类别：绿化养护\n公告阶段：采购结果\n地区：杭州 浙江省杭州市临平区\n采购人：杭州市临平区机关事务服务中心\n预算：未明确\n来源：浙江政府采购网\nhttps://zfcg.czt.zj.gov.cn/site/detail?parentId=600007&articleId=6vwNa3g6mvmVbB1rorua9w%3D%3D\n\n新发现公告：关于2027年蜀山街道道路保洁、绿化养护政府采购项目中标(成交)结果公告[浙江华元工程咨询有限公司]\n类别：环卫保洁、绿化养护\n公告阶段：采购结果\n地区：杭州 浙江省杭州市萧山区\n采购人：杭州市萧山区人民政府蜀山街道办事处\n预算：未明确\n来源：浙江政府采购网\nhttps://zfcg.czt.zj.gov.cn/site/detail?parentId=600007&articleId=iOA1S58Pt0gyk0wrazemxw%3D%3D\n\n",
+      "acceptedAt": "2026-11-03T02:43:00.395Z"
     }
   ],
   "previous": {
