@@ -1261,6 +1261,15 @@
     },
     "zj:FI2itXtMzebnI3+Ir5tZSg==": {
       "fingerprint": "7708756b9d76f549ec1023218a6a38d9c54d4ed83c51bfab6d395c901f45391a"
+    },
+    "zj:AzUDss9OuVCTnIMxYSFLZw==": {
+      "fingerprint": "b223eb9719a2c132f3ad6067ba40a8284166525453f60c538f043688ea090f93"
+    },
+    "zj:yKxhe9xiFQLcJTx5h5WpXA==": {
+      "fingerprint": "1855d99f2cf8792e7c10d2d859aecefe60e44fbe851aca27a794093d190955a6"
+    },
+    "zj:/mCJSIs4yree+dzNJANPyA==": {
+      "fingerprint": "afb6d9c2401819aab497e9dd1c499b48a9c15c59474a6228b52754f40ce90f8c"
     }
   },
   "reminders": {
@@ -1269,7 +1278,14 @@
     "health:zcy:2026-10-30": true,
     "health:nb:2026-10-30": true
   },
-  "outbox": [],
+  "outbox": [
+    {
+      "id": "c42a3e56ddb255073cd02329b7b6b40aaa663b5889082837b77e9cd88bb99ec6",
+      "status": "pending",
+      "summary": "浙采雷达项目更新",
+      "content": "浙采雷达 · 2026/11/4 11:23:03\n新发现公告：玉环市未来新城开发建设中心2026年11月政府采购意向\n类别：环卫保洁\n公告阶段：采购意向\n地区：台州 玉环市\n采购人：玉环市未来新城开发建设中心\n预算：20,000,000 元\n来源：浙江政府采购网\nhttps://zfcg.czt.zj.gov.cn/site/detail?parentId=600007&articleId=AzUDss9OuVCTnIMxYSFLZw%3D%3D\n\n新发现公告：开化县华埠镇人民政府2026年11月至12月政府采购意向\n类别：市政养护\n公告阶段：采购意向\n地区：衢州 开化县\n采购人：开化县华埠镇人民政府\n预算：1,192,482 元\n来源：浙江政府采购网\nhttps://zfcg.czt.zj.gov.cn/site/detail?parentId=600007&articleId=yKxhe9xiFQLcJTx5h5WpXA%3D%3D\n\n新发现公告：关于2027年市政排水设施、一体化设施、翻水泵站等设施设备养护项目的更正公告[浙江卓宏建设项目管理有限公司]\n类别：市政养护、排水管网养护、泵站养护\n公告阶段：更正公告\n地区：舟山 舟山市\n采购人：舟山市新城公用事业管理中心\n预算：4,288,000 元\n来源：浙江政府采购网\nhttps://zfcg.czt.zj.gov.cn/site/detail?parentId=600007&articleId=%2FmCJSIs4yree%2BdzNJANPyA%3D%3D\n\n"
+    }
+  ],
   "previous": {
     "records": [
       {
@@ -2113,20 +2129,6 @@
         "categoryCode": "110-511933"
       },
       {
-        "id": "9QR/K8fZIRKNp7arSxHzhA==",
-        "source": "zj",
-        "title": "关于玉环市大麦屿街道垃圾中转站管理及垃圾清运服务的竞争性磋商公告[台州嘉亿招标代理有限责任公司]",
-        "project": "玉环市大麦屿街道垃圾中转站管理及垃圾清运服务",
-        "type": "非招标公告",
-        "tags": [
-          "环卫保洁"
-        ],
-        "published": 1792976148000,
-        "deadline": 1793754000000,
-        "projectCode": "331083263650010000016-TZJY20261011",
-        "categoryCode": "110-511933"
-      },
-      {
         "id": "vS90Im2ZvZKfM514JMWRJw==",
         "source": "zj",
         "title": "关于2026―2027年柯城区城区绿化一体化养护服务项目的公开招标公告[浙江卓宏建设项目管理有限公司]",
@@ -2603,62 +2605,47 @@
         "deadline": 1793840400000,
         "projectCode": "ZYCG-2026-20-1",
         "categoryCode": "110-684034"
-      },
-      {
-        "id": "z6wfptRzZ8pNDRuDkqdbrA==",
-        "source": "zj",
-        "title": "关于南阳街道2026-2028年市政管网管养一体服务项目（重新招标）的公开招标公告[浙江蟠龙工程审计咨询有限公司]",
-        "project": "南阳街道2026-2028年市政管网管养一体服务项目（重新招标）",
-        "type": "招标公告",
-        "tags": [
-          "市政养护",
-          "排水管网养护"
-        ],
-        "published": 1791958719000,
-        "deadline": 1793757600000,
-        "projectCode": "330109269210010000027-C",
-        "categoryCode": "110-684034"
       }
     ]
   },
   "lastCheck": {
-    "at": "2026-11-03T23:30:48.699Z",
+    "at": "2026-11-04T03:23:03.098Z",
     "coverage": [
       {
         "source": "zj",
         "code": "110-600268",
         "complete": true,
-        "scanned": 2003
+        "scanned": 2059
       },
       {
         "source": "zj",
         "code": "110-684034",
         "complete": true,
-        "scanned": 1753
+        "scanned": 1777
       },
       {
         "source": "zj",
         "code": "110-511933",
         "complete": true,
-        "scanned": 609
+        "scanned": 614
       },
       {
         "source": "zj",
         "code": "110-912804",
         "complete": true,
-        "scanned": 550
+        "scanned": 564
       },
       {
         "source": "zj",
         "code": "110-631167",
         "complete": true,
-        "scanned": 250
+        "scanned": 261
       },
       {
         "source": "zj",
         "code": "110-188043",
         "complete": true,
-        "scanned": 1861
+        "scanned": 1912
       },
       {
         "source": "nb",
