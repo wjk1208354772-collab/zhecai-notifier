@@ -2706,13 +2706,13 @@
     ]
   },
   "lastCheck": {
-    "at": "2026-11-04T18:55:04.934Z",
+    "at": "2026-11-05T00:26:33.739Z",
     "coverage": [
       {
         "source": "zj",
         "code": "110-600268",
         "complete": true,
-        "scanned": 2010
+        "scanned": 2015
       },
       {
         "source": "zj",
