@@ -1345,6 +1345,42 @@
     },
     "zj:M2SQo7bP8bqkzfYMCYfZiw==": {
       "fingerprint": "f7e8848a4b4e5b47b8ed571c3c13371e2a9c07590b651ed532226a82e4c0ee10"
+    },
+    "zj:u6jIG02pwqxGH6rvZHKyZA==": {
+      "fingerprint": "33059f6fe5292e3c6b3521b8e5d4f4ca645ab68bfdd5c5a5d774a81eaa61239f"
+    },
+    "zj:dNF7R/NpDijLnfaJd4NucQ==": {
+      "fingerprint": "b9c8d326e093f68bb1d2c82a51a7eea1f691dc5556d025bea65bafb7a49b782d"
+    },
+    "zj:vMsCOsTUBxMiu3+W+/HxmQ==": {
+      "fingerprint": "4f7e9f8e827d1177b3d9fdf579cf41b9d9fdf23cdea6c7b03ade273ef99219c5"
+    },
+    "zj:HJMSBVqudLyZ2tWJ/kxkHA==": {
+      "fingerprint": "aef944c55133e86c8f5aced3e351046a3129483eb430eeaaff86678fe70c54a2"
+    },
+    "zj:u01/rL2Z6GN483tWVtY7IA==": {
+      "fingerprint": "00c39ad13eb1c80365a71c9146119e004851bd696497113a3988375fa7672feb"
+    },
+    "zj:6O+ZHS04ZPLDZZC4G8t3zA==": {
+      "fingerprint": "314b93e2096d2db350e407b16467f622d5e16766cbc8845d0c799269d1cae9c3"
+    },
+    "zj:sgNNrAbT+Ea61X4U8ddCdQ==": {
+      "fingerprint": "3469cc6c6e2f57add9e38a9d809ef0d2f644cbcaa2d82f666ad0b746956847ca"
+    },
+    "zj:PLP+hpAlwdM2WTM7dP+xwA==": {
+      "fingerprint": "3cde138b12c74f770c3bcca0b5683b0b8d7faa162e7e01e72013345de2f34a32"
+    },
+    "zj:lbIfFcw0h20o4CLJdUblQg==": {
+      "fingerprint": "4d23fab33d0fa10821cdcbc02c3c2f96d3a79248885750fb588104e57fba5468"
+    },
+    "zj:Qh93g7sfxMPvBzI1T8CANA==": {
+      "fingerprint": "77251fcea053d38838d09644b9cef3891351d8d914c95b9bf9164969175b5fc3"
+    },
+    "zj:q+c6oqZNENmi5gBDjcSqew==": {
+      "fingerprint": "13ec59d7f15d1cae62fec5cfba4321724431c8788133bfd3f632173a61e85f28"
+    },
+    "zj:esA9RKPBvBadAtF0XZUG/Q==": {
+      "fingerprint": "22364b5d8530e09fa2fa9ccc5a9221cbb3b150007b58523c756170ed13d0163f"
     }
   },
   "reminders": {
@@ -1355,15 +1391,71 @@
   },
   "outbox": [
     {
-      "id": "10a6ed2e699b9e677cee08e8ea18a07bb0db899e9a00adf9b628e877a404a3e7",
-      "status": "accepted",
+      "id": "c3f502ca4030f49d10f9b7668373140d312b7207cb4141d40f03af6c8025f554",
+      "status": "pending",
       "summary": "浙采雷达项目更新",
-      "content": "浙采雷达 · 2026/11/5 15:29:07\n新发现公告：关于开化县“四好农村路”2026年农村公路养护工程（乡、村道）（苏庄镇）的竞争性磋商公告[浙江天册工程管理有限公司]\n类别：市政养护\n公告阶段：非招标公告\n地区：衢州 开化县\n采购人：开化县苏庄镇人民政府\n预算：1,410,598 元\n正文提取截止时间：2026/11/19 09:00:00（以最新官方公告为准）\n来源：浙江政府采购网\nhttps://zfcg.czt.zj.gov.cn/site/detail?parentId=600007&articleId=P%2BbitxCjxMPdiLiCSjg3gA%3D%3D\n\n新发现公告：关于潮鸣街道2027年街巷保洁服务项目的公开招标公告[欧邦工程管理集团有限公司]\n类别：环卫保洁\n公告阶段：招标公告\n地区：杭州 拱墅区\n采购人：杭州市拱墅区人民政府潮鸣街道办事处\n预算：4,187,197.2 元\n正文提取截止时间：2026/11/26 09:00:00（以最新官方公告为准）\n来源：浙江政府采购网\nhttps://zfcg.czt.zj.gov.cn/site/detail?parentId=600007&articleId=qgQODjtdmZxpnBNw4UeFdQ%3D%3D\n\n新发现公告：嘉兴秀洲区塘汇街道办事处2026年11月政府采购意向\n类别：河道养护\n公告阶段：采购意向\n地区：嘉兴 嘉兴开发区\n采购人：嘉兴秀洲区塘汇街道办事处\n预算：427,200 元\n来源：浙江政府采购网\nhttps://zfcg.czt.zj.gov.cn/site/detail?parentId=600007&articleId=oXwGNVAIAEPByER%2B8b%2BCsQ%3D%3D\n\n新发现公告：关于2027年独山港镇东片区生活垃圾清运服务采购项目的公开招标公告[嘉兴市银建工程咨询评估有限公司]\n类别：环卫保洁\n公告阶段：招标公告\n地区：嘉兴 平湖市\n采购人：平湖市独山港镇人民政府\n预算：1,700,000 元\n正文提取截止时间：2026/11/26 09:00:00（以最新官方公告为准）\n来源：浙江政府采购网\nhttps://zfcg.czt.zj.gov.cn/site/detail?parentId=600007&articleId=m%2FiTr9zsBhUk%2FV8YOaTgBA%3D%3D\n\n新发现公告：关于低塘街道生活垃圾清运及中转站管理服务及集镇(工业园区)保洁服务项目(两年)（重发）中标(成交)结果公告[宁波正洋工程管理有限公司]\n类别：环卫保洁\n公告阶段：采购结果\n地区：宁波 浙江省宁波市余姚市\n采购人：余姚市人民政府低塘街道办事处\n预算：未明确\n来源：浙江政府采购网\nhttps://zfcg.czt.zj.gov.cn/site/detail?parentId=600007&articleId=9eKOQA1VFZkYVdvGOGcOmA%3D%3D\n\n新发现公告：开化县公路港航与运输管理中心2026年11月至12月政府采购意向\n类别：市政养护\n公告阶段：采购意向\n地区：衢州 开化县\n采购人：开化县公路港航与运输管理中心\n预算：3,980,000 元\n来源：浙江政府采购网\nhttps://zfcg.czt.zj.gov.cn/site/detail?parentId=600007&articleId=unmJH3w3NYJ6Au2fA5HfMg%3D%3D\n\n新发现公告：关于2026-2027年度德清县南干二渠迁移终端及中心城市污水溢流应急处理终端运行维护采购项目中标(成交)结果公告[浙江龙宁工程管理有限公司]\n类别：排水管网养护\n公告阶段：采购结果\n地区：湖州 浙江省湖州市德清县\n采购人：德清县市政管理处\n预算：未明确\n来源：浙江政府采购网\nhttps://zfcg.czt.zj.gov.cn/site/detail?parentId=600007&articleId=XCa0bJK56%2FSc60phfT1GXQ%3D%3D\n\n新发现公告：关于梨洲街道生活垃圾收集清运及明伟园区、姚江干流垃圾收集与道路绿化养护保洁服务项目的公开招标公告[余姚市姚诚工程管理有限公司]\n类别：环卫保洁、绿化养护\n公告阶段：招标公告\n地区：宁波 浙江省宁波市余姚市\n采购人：余姚市人民政府梨洲街道办事处\n预算：9,675,800 元\n正文提取截止时间：2026/11/27 09:00:00（以最新官方公告为准）\n来源：浙江政府采购网\nhttps://zfcg.czt.zj.gov.cn/site/detail?parentId=600007&articleId=Ad%2BTdnE5%2BPaJEcSoaQDtig%3D%3D\n\n新发现公告：温岭市松门镇人民政府2026年11月政府采购意向\n类别：绿化养护\n公告阶段：采购意向\n地区：台州 温岭市\n采购人：温岭市松门镇人民政府\n预算：1,700,000 元\n来源：浙江政府采购网\nhttps://zfcg.czt.zj.gov.cn/site/detail?parentId=600007&articleId=2rZyYtySoRwH51S8eqEfNg%3D%3D\n\n新发现公告：绍兴滨海新区管理委员会2026年11月政府采购意向\n类别：水质监测\n公告阶段：采购意向\n地区：绍兴 越城区\n采购人：绍兴滨海新区管理委员会\n预算：300,000 元\n来源：浙江政府采购网\nhttps://zfcg.czt.zj.gov.cn/site/detail?parentId=600007&articleId=M2SQo7bP8bqkzfYMCYfZiw%3D%3D\n\n",
-      "acceptedAt": "2026-11-05T07:29:11.684Z"
+      "content": "浙采雷达 · 2026/11/5 23:51:59\n新发现公告：关于瓯北市政道路、人行道等市政设施维修的更正公告（一）[温州国利项目管理咨询有限公司]\n类别：市政养护\n公告阶段：更正公告\n地区：温州 永嘉县\n采购人：永嘉瓯北城市新区管理委员会\n预算：8,447,364 元\n来源：浙江政府采购网\nhttps://zfcg.czt.zj.gov.cn/site/detail?parentId=600007&articleId=u6jIG02pwqxGH6rvZHKyZA%3D%3D\n\n新发现公告：关于湖州市市容环境卫生管理中心2027年-2029年环卫作业一体化服务项目（爱山片区）中标(成交)结果公告[浙江金业管理咨询有限公司]\n类别：环卫保洁\n公告阶段：采购结果\n地区：湖州 湖州市\n采购人：湖州市市容环境卫生管理中心\n预算：未明确\n来源：浙江政府采购网\nhttps://zfcg.czt.zj.gov.cn/site/detail?parentId=600007&articleId=dNF7R%2FNpDijLnfaJd4NucQ%3D%3D\n\n新发现公告：关于湖州市市容环境卫生管理中心2027年-2029年环卫作业一体化服务项目（朝阳片区）中标(成交)结果公告[浙江金业管理咨询有限公司]\n类别：环卫保洁\n公告阶段：采购结果\n地区：湖州 湖州市\n采购人：湖州市市容环境卫生管理中心\n预算：未明确\n来源：浙江政府采购网\nhttps://zfcg.czt.zj.gov.cn/site/detail?parentId=600007&articleId=vMsCOsTUBxMiu3%2BW%2B%2FHxmQ%3D%3D\n\n新发现公告：杭州市余杭区人民政府余杭街道办事处2026年11月政府采购意向\n类别：环卫保洁\n公告阶段：采购意向\n地区：杭州 余杭区\n采购人：杭州市余杭区人民政府余杭街道办事处\n预算：2,855,000 元\n来源：浙江政府采购网\nhttps://zfcg.czt.zj.gov.cn/site/detail?parentId=600007&articleId=HJMSBVqudLyZ2tWJ%2FkxkHA%3D%3D\n\n新发现公告：关于余姚市三七市镇人民政府环卫保洁项目的公开招标公告[宁波舜新工程管理有限公司]\n类别：环卫保洁\n公告阶段：招标公告\n地区：宁波 浙江省宁波市余姚市\n采购人：余姚市三七市镇人民政府\n预算：11,721,696 元\n正文提取截止时间：2026/11/25 09:00:00（以最新官方公告为准）\n来源：浙江政府采购网\nhttps://zfcg.czt.zj.gov.cn/site/detail?parentId=600007&articleId=u01%2FrL2Z6GN483tWVtY7IA%3D%3D\n\n新发现公告：关于2026-2028年度瓯海区梧田、潘桥、新桥景山、泽雅镇环卫一体化项目的公开招标公告[浙江巨合建设项目管理有限公司]\n类别：环卫保洁\n公告阶段：招标公告\n地区：温州 瓯海区\n采购人：温州市瓯海区综合行政执法局\n预算：69,793,429 元\n正文提取截止时间：2026/11/27 09:30:00（以最新官方公告为准）\n来源：浙江政府采购网\nhttps://zfcg.czt.zj.gov.cn/site/detail?parentId=600007&articleId=6O%2BZHS04ZPLDZZC4G8t3zA%3D%3D\n\n新发现公告：杭州市余杭区人民政府仁和街道办事处仁和街道公建单位污水管网运维服务项目2026年11月政府采购意向\n类别：排水管网养护\n公告阶段：采购意向\n地区：杭州 余杭区\n采购人：杭州市余杭区人民政府仁和街道办事处\n预算：1,170,000 元\n来源：浙江政府采购网\nhttps://zfcg.czt.zj.gov.cn/site/detail?parentId=600007&articleId=sgNNrAbT%2BEa61X4U8ddCdQ%3D%3D\n\n新发现公告：龙游县横山镇人民政府2026年11月至12月政府采购意向\n类别：环卫保洁、河道养护、绿化养护\n公告阶段：采购意向\n地区：衢州 龙游县\n采购人：龙游县横山镇人民政府\n预算：2,550,000 元\n来源：浙江政府采购网\nhttps://zfcg.czt.zj.gov.cn/site/detail?parentId=600007&articleId=PLP%2BhpAlwdM2WTM7dP%2BxwA%3D%3D\n\n新发现公告：关于2026-2027年度常山经济开发区污水零直排运维服务项目的公开招标公告[浙江联腾工程咨询有限公司]\n类别：排水管网养护\n公告阶段：招标公告\n地区：衢州 常山县\n采购人：浙江常山经济开发区管理委员会\n预算：1,000,000 元\n正文提取截止时间：2026/11/26 09:30:00（以最新官方公告为准）\n来源：浙江政府采购网\nhttps://zfcg.czt.zj.gov.cn/site/detail?parentId=600007&articleId=lbIfFcw0h20o4CLJdUblQg%3D%3D\n\n新发现公告：关于2027年度长兴港、合溪新港、沉渎港太湖街道段堤防、泵站巡查养护项目的竞争性磋商公告[浙江浙坤工程管理有限公司]\n类别：排水管网养护、泵站养护\n公告阶段：非招标公告\n地区：湖州 长兴县\n采购人：长兴县人民政府太湖街道办事处\n预算：436,400 元\n正文提取截止时间：2026/11/19 14:00:00（以最新官方公告为准）\n来源：浙江政府采购网\nhttps://zfcg.czt.zj.gov.cn/site/detail?parentId=600007&articleId=Qh93g7sfxMPvBzI1T8CANA%3D%3D\n\n新发现公告：关于宁波市海曙区龙观乡道路日常养护服务项目中标(成交)结果公告[宁波尔谦工程管理咨询有限公司]\n类别：市政养护\n公告阶段：采购结果\n地区：宁波 浙江省宁波市海曙区\n采购人：宁波市海曙区龙观乡人民政府\n预算：未明确\n来源：浙江政府采购网\nhttps://zfcg.czt.zj.gov.cn/site/detail?parentId=600007&articleId=q%2Bc6oqZNENmi5gBDjcSqew%3D%3D\n\n新发现公告：温州市鹿城区人民政府丰门街道办事处2026年11月至12月政府采购意向\n类别：河道养护\n公告阶段：采购意向\n地区：温州 鹿城区\n采购人：温州市鹿城区人民政府丰门街道办事处\n预算：610,000 元\n来源：浙江政府采购网\nhttps://zfcg.czt.zj.gov.cn/site/detail?parentId=600007&articleId=esA9RKPBvBadAtF0XZUG%2FQ%3D%3D\n\n"
     }
   ],
   "previous": {
     "records": [
+      {
+        "id": "u01/rL2Z6GN483tWVtY7IA==",
+        "source": "zj",
+        "title": "关于余姚市三七市镇人民政府环卫保洁项目的公开招标公告[宁波舜新工程管理有限公司]",
+        "project": "余姚市三七市镇人民政府环卫保洁项目",
+        "type": "招标公告",
+        "tags": [
+          "环卫保洁"
+        ],
+        "published": 1793868890000,
+        "deadline": 1795568400000,
+        "projectCode": "SXGCCG2026-009",
+        "categoryCode": "110-684034"
+      },
+      {
+        "id": "6O+ZHS04ZPLDZZC4G8t3zA==",
+        "source": "zj",
+        "title": "关于2026-2028年度瓯海区梧田、潘桥、新桥景山、泽雅镇环卫一体化项目的公开招标公告[浙江巨合建设项目管理有限公司]",
+        "project": "2026-2028年度瓯海区梧田、潘桥、新桥景山、泽雅镇环卫一体化项目",
+        "type": "招标公告",
+        "tags": [
+          "环卫保洁"
+        ],
+        "published": 1793868781000,
+        "deadline": 1795743000000,
+        "projectCode": "330304261990010000079",
+        "categoryCode": "110-684034"
+      },
+      {
+        "id": "lbIfFcw0h20o4CLJdUblQg==",
+        "source": "zj",
+        "title": "关于2026-2027年度常山经济开发区污水零直排运维服务项目的公开招标公告[浙江联腾工程咨询有限公司]",
+        "project": "2026-2027年度常山经济开发区污水零直排运维服务项目",
+        "type": "招标公告",
+        "tags": [
+          "排水管网养护"
+        ],
+        "published": 1793865628000,
+        "deadline": 1795656600000,
+        "projectCode": "330822269130010000027-ZJLT-GK-2026019",
+        "categoryCode": "110-684034"
+      },
+      {
+        "id": "Qh93g7sfxMPvBzI1T8CANA==",
+        "source": "zj",
+        "title": "关于2027年度长兴港、合溪新港、沉渎港太湖街道段堤防、泵站巡查养护项目的竞争性磋商公告[浙江浙坤工程管理有限公司]",
+        "project": "2027年度长兴港、合溪新港、沉渎港太湖街道段堤防、泵站巡查养护项目",
+        "type": "非招标公告",
+        "tags": [
+          "排水管网养护",
+          "泵站养护"
+        ],
+        "published": 1793865088000,
+        "deadline": 1795068000000,
+        "projectCode": "330522269130010000020-ZJZK-2026-014",
+        "categoryCode": "110-511933"
+      },
       {
         "id": "P+bitxCjxMPdiLiCSjg3gA==",
         "source": "zj",
@@ -2731,43 +2823,43 @@
     ]
   },
   "lastCheck": {
-    "at": "2026-11-05T07:29:07.181Z",
+    "at": "2026-11-05T15:51:59.213Z",
     "coverage": [
       {
         "source": "zj",
         "code": "110-600268",
         "complete": true,
-        "scanned": 2113
+        "scanned": 2171
       },
       {
         "source": "zj",
         "code": "110-684034",
         "complete": true,
-        "scanned": 1770
+        "scanned": 1896
       },
       {
         "source": "zj",
         "code": "110-511933",
         "complete": true,
-        "scanned": 628
+        "scanned": 659
       },
       {
         "source": "zj",
         "code": "110-912804",
         "complete": true,
-        "scanned": 560
+        "scanned": 595
       },
       {
         "source": "zj",
         "code": "110-631167",
         "complete": true,
-        "scanned": 254
+        "scanned": 262
       },
       {
         "source": "zj",
         "code": "110-188043",
         "complete": true,
-        "scanned": 1918
+        "scanned": 2023
       },
       {
         "source": "nb",
@@ -2791,7 +2883,7 @@
         "source": "nb",
         "code": "20",
         "complete": true,
-        "scanned": 2
+        "scanned": 3
       },
       {
         "source": "nb",
