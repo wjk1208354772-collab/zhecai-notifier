@@ -1465,15 +1465,7 @@
     "health:nb:2026-10-30": true,
     "health:nb:2026-11-07": true
   },
-  "outbox": [
-    {
-      "id": "004672fa11d67305b8db5fb856996dfe3add7e050c3f782c3357c0e2659d703e",
-      "status": "accepted",
-      "summary": "浙采雷达项目更新",
-      "content": "浙采雷达 · 2026/11/7 01:35:44\n新发现公告：关于萧山区党湾镇集镇环境保洁项目的公开招标公告[浙江省工程咨询有限公司]\n类别：环卫保洁\n公告阶段：招标公告\n地区：杭州 萧山区\n采购人：杭州市萧山区党湾镇人民政府\n预算：7,898,000 元\n正文提取截止时间：2026/11/27 09:30:00（以最新官方公告为准）\n来源：浙江政府采购网\nhttps://zfcg.czt.zj.gov.cn/site/detail?parentId=600007&articleId=YPMdKYvLGJmVBz6CaTvoqg%3D%3D\n\n新发现公告：关于2026年-2027年山福镇沙头工业园区污水处理运维项目的公开招标公告[浙江浙瓯项目管理有限公司]\n类别：排水管网养护\n公告阶段：招标公告\n地区：温州 鹿城区\n采购人：温州市鹿城区山福镇人民政府\n预算：1,100,000 元\n正文提取截止时间：2026/11/27 14:30:00（以最新官方公告为准）\n来源：浙江政府采购网\nhttps://zfcg.czt.zj.gov.cn/site/detail?parentId=600007&articleId=AnmYFIiSq%2Bso0qrDYPzd4Q%3D%3D\n\n核查异常：宁波阳光采购服务平台\n本轮检索未完成，不能视为没有新项目。请查看 GitHub Actions 运行记录或官方来源。\n\n",
-      "acceptedAt": "2026-11-06T17:35:48.790Z"
-    }
-  ],
+  "outbox": [],
   "previous": {
     "records": [
       {
@@ -2956,7 +2948,7 @@
     ]
   },
   "lastCheck": {
-    "at": "2026-11-06T17:35:44.039Z",
+    "at": "2026-11-06T22:27:57.031Z",
     "coverage": [
       {
         "source": "zj",
@@ -3015,8 +3007,8 @@
       {
         "source": "nb",
         "code": "20",
-        "complete": false,
-        "scanned": 0
+        "complete": true,
+        "scanned": 6
       },
       {
         "source": "nb",
