@@ -1381,6 +1381,12 @@
     },
     "zj:esA9RKPBvBadAtF0XZUG/Q==": {
       "fingerprint": "22364b5d8530e09fa2fa9ccc5a9221cbb3b150007b58523c756170ed13d0163f"
+    },
+    "zj:P7egHJuNH2I7lDZicjtPpw==": {
+      "fingerprint": "a0289d6bafb22164672418bbc981d47a87154793e46953e53d7ee853e1f7bd86"
+    },
+    "zj:h3a9cq9EdgFA15gqU8DiOg==": {
+      "fingerprint": "e478669dad899d20aceac6ef533e2fb8b523be197ec0139a3fee8c2ff0e61dd5"
     }
   },
   "reminders": {
@@ -1389,7 +1395,14 @@
     "health:zcy:2026-10-30": true,
     "health:nb:2026-10-30": true
   },
-  "outbox": [],
+  "outbox": [
+    {
+      "id": "3b6e69cdfe95432f7ea8feb56082580cce64e717dce92207842575262e06bc9d",
+      "status": "pending",
+      "summary": "浙采雷达项目更新",
+      "content": "浙采雷达 · 2026/11/6 10:33:16\n新发现公告：关于玉环市大麦屿街道垃圾中转站管理及垃圾清运服务废标公告[台州嘉亿招标代理有限责任公司]\n类别：环卫保洁\n公告阶段：废标公告\n地区：台州 浙江省台州市玉环市\n采购人：玉环市人民政府大麦屿街道办事处\n预算：1,800,000 元\n来源：浙江政府采购网\nhttps://zfcg.czt.zj.gov.cn/site/detail?parentId=600007&articleId=P7egHJuNH2I7lDZicjtPpw%3D%3D\n\n新发现公告：嘉兴秀洲区塘汇街道办事处2026年11月政府采购意向\n类别：排水管网养护\n公告阶段：采购意向\n地区：嘉兴 嘉兴开发区\n采购人：嘉兴秀洲区塘汇街道办事处\n预算：5,400,000 元\n来源：浙江政府采购网\nhttps://zfcg.czt.zj.gov.cn/site/detail?parentId=600007&articleId=h3a9cq9EdgFA15gqU8DiOg%3D%3D\n\n"
+    }
+  ],
   "previous": {
     "records": [
       {
@@ -2135,21 +2148,6 @@
         "categoryCode": "110-684034"
       },
       {
-        "id": "kVKIqh0Fpn3Pk2zgpsEePg==",
-        "source": "zj",
-        "title": "关于北仑区大碶街道灵岩社区农村水环境整治工程前期雨污水管道CCTV检测的竞争性磋商公告[宁波泰利工程管理有限公司]",
-        "project": "北仑区大碶街道灵岩社区农村水环境整治工程前期雨污水管道CCTV检测",
-        "type": "非招标公告",
-        "tags": [
-          "管网检测修复",
-          "水质监测"
-        ],
-        "published": 1793091138000,
-        "deadline": 1793926800000,
-        "projectCode": "NBTL20261062",
-        "categoryCode": "110-511933"
-      },
-      {
         "id": "7+ZWjkUib/fQ0yxA8SlazQ==",
         "source": "zj",
         "title": "关于浙江体育职业技术学院垃圾清运服务项目的竞争性磋商公告[东方经纬项目管理有限公司]",
@@ -2262,20 +2260,6 @@
         "deadline": 1794983400000,
         "projectCode": "330802268070010000027-WZWY-QZZG2026033",
         "categoryCode": "110-684034"
-      },
-      {
-        "id": "Nj8HUEHHSRa2fGVyQYgr3g==",
-        "source": "zj",
-        "title": "2026-2028年水口乡集镇雨污管网运维服务项目的竞争性磋商公告",
-        "project": "2026-2028年水口乡集镇雨污管网运维服务项目",
-        "type": "非招标公告",
-        "tags": [
-          "排水管网养护"
-        ],
-        "published": 1793068084000,
-        "deadline": 1793926800000,
-        "projectCode": "330522269090010000135-HZ-2026-YS034",
-        "categoryCode": "110-511933"
       },
       {
         "id": "WCluTbkyiq2kkL9L3QVhEg==",
@@ -2758,20 +2742,6 @@
         "categoryCode": "110-684034"
       },
       {
-        "id": "raSn7BZE/xU28Hlx28pe3A==",
-        "source": "zj",
-        "title": "关于2026-2029年杭州市西湖水域管理处辖区各类基础设施日常维护保养的公开招标公告[浙江泛亚工程咨询有限公司]",
-        "project": "2026-2029年杭州市西湖水域管理处辖区各类基础设施日常维护保养",
-        "type": "招标公告",
-        "tags": [
-          "河道养护"
-        ],
-        "published": 1792143696000,
-        "deadline": 1793925000000,
-        "projectCode": "330116260010060000041",
-        "categoryCode": "110-684034"
-      },
-      {
         "id": "LtbyoOKFt7G6tOYJXnpYxA==",
         "source": "zj",
         "title": "关于2026-2029年常山县千家排水库水站运维服务采购项目的公开招标公告[浙江衢州公信工程管理有限公司]",
@@ -2816,43 +2786,43 @@
     ]
   },
   "lastCheck": {
-    "at": "2026-11-05T22:06:20.384Z",
+    "at": "2026-11-06T02:33:16.485Z",
     "coverage": [
       {
         "source": "zj",
         "code": "110-600268",
         "complete": true,
-        "scanned": 1919
+        "scanned": 1964
       },
       {
         "source": "zj",
         "code": "110-684034",
         "complete": true,
-        "scanned": 1648
+        "scanned": 1661
       },
       {
         "source": "zj",
         "code": "110-511933",
         "complete": true,
-        "scanned": 571
+        "scanned": 579
       },
       {
         "source": "zj",
         "code": "110-912804",
         "complete": true,
-        "scanned": 528
+        "scanned": 529
       },
       {
         "source": "zj",
         "code": "110-631167",
         "complete": true,
-        "scanned": 241
+        "scanned": 248
       },
       {
         "source": "zj",
         "code": "110-188043",
         "complete": true,
-        "scanned": 1838
+        "scanned": 1867
       },
       {
         "source": "nb",
