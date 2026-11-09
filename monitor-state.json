@@ -2026,20 +2026,6 @@
         "categoryCode": "110-684034"
       },
       {
-        "id": "tA1Kfy5vDUSmg1Zz4x3Qmw==",
-        "source": "zj",
-        "title": "关于瑞安市曹村镇建成区管网排查服务的竞争性磋商公告[温州千鼎工程项目管理有限公司]",
-        "project": "瑞安市曹村镇建成区管网排查服务",
-        "type": "非招标公告",
-        "tags": [
-          "管网检测修复"
-        ],
-        "published": 1793272786000,
-        "deadline": 1794186000000,
-        "projectCode": "330381266190010000013",
-        "categoryCode": "110-511933"
-      },
-      {
         "id": "DK5IA3ckFmXOS4n0DyQtWQ==",
         "source": "zj",
         "title": "关于金华职业技术大学垃圾清运及化粪池清理定点服务单位项目的公开招标公告[金华市万全招标代理有限公司]",
@@ -2153,34 +2139,6 @@
         "deadline": 1794965400000,
         "projectCode": "330803267160010000044-ZJJYQZ2026023",
         "categoryCode": "110-684034"
-      },
-      {
-        "id": "Dy5saCXgOBaBgLC6ftGdxg==",
-        "source": "zj",
-        "title": "关于2027年云和县梯田大道沿线绿地及节点零星工程养护项目的竞争性磋商公告[云和县云采工程咨询有限公司]",
-        "project": "2027年云和县梯田大道沿线绿地及节点零星工程养护项目",
-        "type": "非招标公告",
-        "tags": [
-          "绿化养护"
-        ],
-        "published": 1793177066000,
-        "deadline": 1794186000000,
-        "projectCode": "331125263150020000017-云采采2026118号",
-        "categoryCode": "110-511933"
-      },
-      {
-        "id": "+2ETdpaFVVC1b4PegHX+xA==",
-        "source": "zj",
-        "title": "关于椒江区前所街道2026年“民间桥梁”整治维修工程（大桥头）的竞争性磋商公告[建经投资咨询有限公司]",
-        "project": "椒江区前所街道2026年“民间桥梁”整治维修工程（大桥头）",
-        "type": "非招标公告",
-        "tags": [
-          "市政养护"
-        ],
-        "published": 1793176022000,
-        "deadline": 1794186000000,
-        "projectCode": "331002262070030000032",
-        "categoryCode": "110-511933"
       },
       {
         "id": "S96C101qOhPkK/71cqzvSg==",
@@ -2930,37 +2888,23 @@
         "deadline": 1794202200000,
         "projectCode": "330110265180110000127-HCJS2026-030",
         "categoryCode": "110-684034"
-      },
-      {
-        "id": "9OnLIlO7ULUV+N4bzGSQrA==",
-        "source": "zj",
-        "title": "关于杭州市公安局富阳区分局2026、2027年全区道路智能交通设施维护项目的公开招标公告[浙江省建设工程设备招标有限公司]",
-        "project": "杭州市公安局富阳区分局2026、2027年全区道路智能交通设施维护项目",
-        "type": "招标公告",
-        "tags": [
-          "市政养护"
-        ],
-        "published": 1792054763000,
-        "deadline": 1794186000000,
-        "projectCode": "330111261250010000072-ZJZBC2026-22",
-        "categoryCode": "110-684034"
       }
     ]
   },
   "lastCheck": {
-    "at": "2026-11-08T20:49:05.481Z",
+    "at": "2026-11-09T01:01:45.315Z",
     "coverage": [
       {
         "source": "zj",
         "code": "110-600268",
         "complete": true,
-        "scanned": 1904
+        "scanned": 1907
       },
       {
         "source": "zj",
         "code": "110-684034",
         "complete": true,
-        "scanned": 1705
+        "scanned": 1707
       },
       {
         "source": "zj",
@@ -2972,7 +2916,7 @@
         "source": "zj",
         "code": "110-912804",
         "complete": true,
-        "scanned": 533
+        "scanned": 534
       },
       {
         "source": "zj",
@@ -2984,7 +2928,7 @@
         "source": "zj",
         "code": "110-188043",
         "complete": true,
-        "scanned": 1904
+        "scanned": 1906
       },
       {
         "source": "nb",
