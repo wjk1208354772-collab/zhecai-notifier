@@ -1663,6 +1663,66 @@
     },
     "zj:n1f4z7njSilcNHhL4EU3Og==": {
       "fingerprint": "71df97345de55c78858de0ad7a2151d2426709403effa455baaebadb34548553"
+    },
+    "zj:Au6RE4N83sdqE5B+HdGVEA==": {
+      "fingerprint": "19ad8736cebf75888368b7667e43c4dc4e260f0fc36ee08ed942ddd6ce0d279e"
+    },
+    "zj:pc7YUg0iZj1HnxxWueCpbw==": {
+      "fingerprint": "8e9184e17956008890553f3cd4c8dc3c6d3b1fe6ee64103233b38f1f59a8d7f6"
+    },
+    "zj:y+4/wPv+Fg+ZaAwL7hEkoA==": {
+      "fingerprint": "ed74a4b5339ff96be1d392f354e7d8d1459b49cbc3bdbf1b59feabdc477617ad"
+    },
+    "zj:BrOehSlyAU54SZfs8Cp8FA==": {
+      "fingerprint": "9b95b289489d7e622797be985f7a00acc60e0d38c3e5bfb995b9bdd285f80832"
+    },
+    "zj:tDlj5AwwcvIGvRHegGUPVw==": {
+      "fingerprint": "4da6e8f42f2f47239dd31e89a6d1bcaf0a47e819d87b58cd32e8f2c9ab92dd11"
+    },
+    "zj:iKMOV0Qq+8KScT78gdSLTg==": {
+      "fingerprint": "fec84ebfbbb398cec5ad15baa018bdb8a8035c42796a04b5289e139fb22eb1b7"
+    },
+    "zj:OUlXTzKfajcdu3sJaRo3PA==": {
+      "fingerprint": "9d2a2a598f1fb0f7363ee8af93ff35494d77908dc3e0c75e7ecf3239aea19f85"
+    },
+    "zj:o4cZ0LllLECF/PzRcQAjjA==": {
+      "fingerprint": "121f9883e5adcf484d9ef9bc3d96c4ce957c19075980903fc20c5838dfa3c6ac"
+    },
+    "zj:G9gVcl3iCpfW/qlc93CeMA==": {
+      "fingerprint": "287f644e527acad08384fa5572d775fae12c5df4898f97b034c68589758679ec"
+    },
+    "zj:w9Mc6vddraY5xAiFm5fM4A==": {
+      "fingerprint": "2deda4ebedfb79709960dc04be09ef42052280611183a97abfa10a00626aac2b"
+    },
+    "zj:IcVg03jzDtGrMz7ZCitbxA==": {
+      "fingerprint": "0cd5d1c67f2596c30e8b6187277091a8dac0a512f9bbab9607518f9a758937ec"
+    },
+    "zj:BLxyR8xEReDYcuuhlJTucQ==": {
+      "fingerprint": "f3866b7c9044090fda513eb9f038a391ae11897dfb0068c4c6b2ffde123c5956"
+    },
+    "zj:kXa+5KTnM0xhXVdcerq11g==": {
+      "fingerprint": "21d2320987ed27647e2ed1a4307503ef3590b460a7a75844a77715cbbf1d119a"
+    },
+    "zj:RcPBPLUT06bqeNoz1b6yiA==": {
+      "fingerprint": "f907e944258b11b21fdab1b7fe91d0bed0fb4ee42d666685f19854f90e2bf0c7"
+    },
+    "zj:A6OJeIm7agMsjzSebMHNoQ==": {
+      "fingerprint": "54c702ca5b888f032caf138042faacfda5bd1dbd5511a0b6d27586cc3d23d7ec"
+    },
+    "zj:fS0AfK00njX2XeT01lKL4Q==": {
+      "fingerprint": "55df326085e64079eaddb7b2004ebd910a6698b659f454f86ccf552675f60773"
+    },
+    "zj:flvJq2gBiivJ2niDrYRKPA==": {
+      "fingerprint": "db28c295be77eee7fdf79d180181f92bf2091120029f6b36c7bbbc5b1880819a"
+    },
+    "zj:Yl4b/9wsKQgHJZJikupBYQ==": {
+      "fingerprint": "109b5da30300df56cd1d3b70db53e46f0695d725800f3f7dab4c56128c7a66fc"
+    },
+    "zj:s0eKGjuFjvquLeBjlnNs/g==": {
+      "fingerprint": "d7e872c589bcb9ab0ff1f4925795bf90754e4280a7ce4e606b6d5e6a75ed71db"
+    },
+    "zj:yWTqg04lMwQol24HWKYjgw==": {
+      "fingerprint": "94c787f073d21aba9353b82939fd52dd8f5ff6cface746e0f17a64bfc6564b1f"
     }
   },
   "reminders": {
@@ -1676,15 +1736,141 @@
   },
   "outbox": [
     {
-      "id": "49496285bed3e2a5ac4d2c40d394118d26046931e6082e986c9f7c514061eff6",
-      "status": "accepted",
+      "id": "43557f9cd398b42d370e8e1d51ad67063be798be5e215753f0cb6794fefbb465",
+      "status": "pending",
       "summary": "浙采雷达项目更新",
-      "content": "浙采雷达 · 2026/11/11 11:09:33\n新发现公告：关于宁波市客运中心站广场及周边环卫保洁和市容综合管理服务项目中标(成交)结果公告[宁波中基国际招标有限公司]\n类别：环卫保洁\n公告阶段：采购结果\n地区：宁波 浙江省宁波市海曙区\n采购人：宁波市海曙区南站广场区域综合管理中心\n预算：未明确\n来源：浙江政府采购网\nhttps://zfcg.czt.zj.gov.cn/site/detail?parentId=600007&articleId=qsMKJkuT72VEusN51qU76A%3D%3D\n\n新发现公告：宁波市北仑区人民政府大碶街道办事处2026年11月至12月政府采购意向\n类别：环卫保洁\n公告阶段：采购意向\n地区：宁波 北仑区\n采购人：宁波市北仑区人民政府大碶街道办事处\n预算：3,280,486 元\n来源：浙江政府采购网\nhttps://zfcg.czt.zj.gov.cn/site/detail?parentId=600007&articleId=NYl32HKQT3xabEA4Yq8mJQ%3D%3D\n\n新发现公告：关于宁波市海曙区高桥镇望春四季苑等小区管网改造提升工程(CCTV检测)结果公告补充公告[宁波和丰建设项目管理有限公司]\n类别：管网检测修复\n公告阶段：更正公告\n地区：宁波 浙江省宁波市海曙区\n采购人：宁波市海曙区高桥镇人民政府\n预算：632,800 元\n来源：浙江政府采购网\nhttps://zfcg.czt.zj.gov.cn/site/detail?parentId=600007&articleId=FtPpTd2UpMaxi1TPADq88A%3D%3D\n\n新发现公告：德清县新市镇人民政府2026年11月政府采购意向\n类别：市政养护\n公告阶段：采购意向\n地区：湖州 德清县\n采购人：德清县新市镇人民政府\n预算：3,000,000 元\n来源：浙江政府采购网\nhttps://zfcg.czt.zj.gov.cn/site/detail?parentId=600007&articleId=n1f4z7njSilcNHhL4EU3Og%3D%3D\n\n",
-      "acceptedAt": "2026-11-11T03:09:37.159Z"
+      "content": "浙采雷达 · 2026/11/11 19:10:51\n新发现公告：关于2027年度岱山县高亭城区市政雨污水管网及污水泵站一体化运维服务项目的竞争性磋商公告[舟山市博琛建设工程管理有限公司]\n类别：排水管网养护、泵站养护\n公告阶段：非招标公告\n地区：舟山 岱山县\n采购人：岱山县市政和园林绿化管理处\n预算：1,300,000 元\n正文提取截止时间：2026/11/26 09:00:00（以最新官方公告为准）\n来源：浙江政府采购网\nhttps://zfcg.czt.zj.gov.cn/site/detail?parentId=600007&articleId=Au6RE4N83sdqE5B%2BHdGVEA%3D%3D\n\n新发现公告：关于余杭区政府大院室外绿化养护服务采购项目中标(成交)结果公告[浙江泛亚工程咨询有限公司]\n类别：绿化养护\n公告阶段：采购结果\n地区：杭州 浙江省杭州市余杭区\n采购人：杭州市余杭区机关事务服务中心\n预算：未明确\n来源：浙江政府采购网\nhttps://zfcg.czt.zj.gov.cn/site/detail?parentId=600007&articleId=pc7YUg0iZj1HnxxWueCpbw%3D%3D\n\n新发现公告：关于玉环市未来新城 NXS051-0201 地块建筑垃圾清运服务项目的公开招标公告[大地工程咨询有限公司]\n类别：环卫保洁\n公告阶段：招标公告\n地区：台州 玉环市\n采购人：玉环市未来新城开发建设中心\n预算：20,000,000 元\n正文提取截止时间：2026/12/4 09:00:00（以最新官方公告为准）\n来源：浙江政府采购网\nhttps://zfcg.czt.zj.gov.cn/site/detail?parentId=600007&articleId=y%2B4%2FwPv%2BFg%2BZaAwL7hEkoA%3D%3D\n\n新发现公告：关于大榭军民友谊隧道维修加固工程中标(成交)结果公告[宁波杜威工程项目管理有限公司]\n类别：市政养护\n公告阶段：采购结果\n地区：宁波 浙江省宁波市北仑区\n采购人：宁波市北仑区人民政府大榭街道办事处\n预算：未明确\n来源：浙江政府采购网\nhttps://zfcg.czt.zj.gov.cn/site/detail?parentId=600007&articleId=BrOehSlyAU54SZfs8Cp8FA%3D%3D\n\n新发现公告：关于海宁市2026年县道桥梁维修加固工程的竞争性磋商公告[嘉兴锦大工程管理咨询有限公司]\n类别：市政养护\n公告阶段：非招标公告\n地区：嘉兴 海宁市\n采购人：海宁市公路与运输管理服务中心\n预算：1,540,179 元\n正文提取截止时间：2026/11/24 14:00:00（以最新官方公告为准）\n来源：浙江政府采购网\nhttps://zfcg.czt.zj.gov.cn/site/detail?parentId=600007&articleId=tDlj5AwwcvIGvRHegGUPVw%3D%3D\n\n新发现公告：长兴县路灯管理中心2026年11月政府采购意向\n类别：市政养护\n公告阶段：采购意向\n地区：湖州 长兴县\n采购人：长兴县路灯管理中心\n预算：3,000,000 元\n来源：浙江政府采购网\nhttps://zfcg.czt.zj.gov.cn/site/detail?parentId=600007&articleId=iKMOV0Qq%2B8KScT78gdSLTg%3D%3D\n\n新发现公告：关于漓渚镇主要道路保洁服务项目的更正公告[浙江景成工程管理有限公司]\n类别：环卫保洁\n公告阶段：更正公告\n地区：绍兴 柯桥区\n采购人：柯桥区漓渚镇人民政府\n预算：1,650,000 元\n来源：浙江政府采购网\nhttps://zfcg.czt.zj.gov.cn/site/detail?parentId=600007&articleId=OUlXTzKfajcdu3sJaRo3PA%3D%3D\n\n新发现公告：关于可回收物、大件垃圾清运处置单位的公开招标公告[杭州恒正造价工程师事务所]\n类别：环卫保洁\n公告阶段：招标公告\n地区：杭州 萧山区\n采购人：杭州市萧山区人民政府闻堰街道办事处\n预算：500,000 元\n正文提取截止时间：2026/12/2 09:30:00（以最新官方公告为准）\n来源：浙江政府采购网\nhttps://zfcg.czt.zj.gov.cn/site/detail?parentId=600007&articleId=o4cZ0LllLECF%2FPzRcQAjjA%3D%3D\n\n新发现公告：诸暨市人民政府暨阳街道办事处2026年11月政府采购意向\n类别：环卫保洁\n公告阶段：采购意向\n地区：绍兴 诸暨市\n采购人：诸暨市人民政府暨阳街道办事处\n预算：1,500,000 元\n来源：浙江政府采购网\nhttps://zfcg.czt.zj.gov.cn/site/detail?parentId=600007&articleId=G9gVcl3iCpfW%2Fqlc93CeMA%3D%3D\n\n新发现公告：关于2026年~2027年度青田县乡镇卫生院污水处理运维服务采购的竞争性磋商公告[浙江凌鼎工程咨询有限公司]\n类别：排水管网养护\n公告阶段：非招标公告\n地区：丽水 青田县\n采购人：青田县卫生健康局\n预算：550,000 元\n正文提取截止时间：2026/11/24 09:00:00（以最新官方公告为准）\n来源：浙江政府采购网\nhttps://zfcg.czt.zj.gov.cn/site/detail?parentId=600007&articleId=w9Mc6vddraY5xAiFm5fM4A%3D%3D\n\n新发现公告：舟山市定海区水利局2026年11月至12月政府采购意向\n类别：绿化养护\n公告阶段：采购意向\n地区：舟山 定海区\n采购人：舟山市定海区水利局\n预算：2,400,000 元\n来源：浙江政府采购网\nhttps://zfcg.czt.zj.gov.cn/site/detail?parentId=600007&articleId=IcVg03jzDtGrMz7ZCitbxA%3D%3D\n\n新发现公告：温岭市泽国镇人民政府2026年11月河道保洁政府采购意向\n类别：河道养护\n公告阶段：采购意向\n地区：台州 温岭市\n采购人：温岭市泽国镇人民政府\n预算：2,720,000 元\n来源：浙江政府采购网\nhttps://zfcg.czt.zj.gov.cn/site/detail?parentId=600007&articleId=BLxyR8xEReDYcuuhlJTucQ%3D%3D\n\n新发现公告：关于新城公共绿化维护Ⅲ标段（千岛路以西、东西快速路、长峙岛）的公开招标公告[舟山建银工程造价审查中心有限公司]\n类别：绿化养护\n公告阶段：招标公告\n地区：舟山 舟山市\n采购人：舟山市新城公用事业管理中心\n预算：11,159,721 元\n正文提取截止时间：2026/12/2 09:00:00（以最新官方公告为准）\n来源：浙江政府采购网\nhttps://zfcg.czt.zj.gov.cn/site/detail?parentId=600007&articleId=kXa%2B5KTnM0xhXVdcerq11g%3D%3D\n\n新发现公告：关于新城“打开围墙”地块环境整治及绿化养护项目的公开招标公告[舟山建银工程造价审查中心有限公司]\n类别：绿化养护\n公告阶段：招标公告\n地区：舟山 舟山市\n采购人：舟山市新城公用事业管理中心\n预算：3,950,535 元\n正文提取截止时间：2026/12/2 09:00:00（以最新官方公告为准）\n来源：浙江政府采购网\nhttps://zfcg.czt.zj.gov.cn/site/detail?parentId=600007&articleId=RcPBPLUT06bqeNoz1b6yiA%3D%3D\n\n新发现公告：关于02省道南侧绿化管养服务中标(成交)结果公告[耀华建设管理有限公司]\n类别：绿化养护\n公告阶段：采购结果\n地区：杭州 浙江省杭州市余杭区\n采购人：杭州市余杭区人民政府中泰街道办事处\n预算：未明确\n来源：浙江政府采购网\nhttps://zfcg.czt.zj.gov.cn/site/detail?parentId=600007&articleId=A6OJeIm7agMsjzSebMHNoQ%3D%3D\n\n新发现公告：关于新城公共绿化维护 Ⅰ标段（海天大道、千岛路、临长路）的公开招标公告[浙江天隆工程管理有限公司]\n类别：绿化养护\n公告阶段：招标公告\n地区：舟山 舟山市\n采购人：舟山市新城公用事业管理中心\n预算：12,258,030 元\n正文提取截止时间：2026/12/3 09:00:00（以最新官方公告为准）\n来源：浙江政府采购网\nhttps://zfcg.czt.zj.gov.cn/site/detail?parentId=600007&articleId=fS0AfK00njX2XeT01lKL4Q%3D%3D\n\n新发现公告：关于新城公共绿化维护Ⅱ标段（千岛路以东、小干岛）的公开招标公告[浙江天隆工程管理有限公司]\n类别：绿化养护\n公告阶段：招标公告\n地区：舟山 舟山市\n采购人：舟山市新城公用事业管理中心\n预算：12,661,572 元\n正文提取截止时间：2026/12/3 14:30:00（以最新官方公告为准）\n来源：浙江政府采购网\nhttps://zfcg.czt.zj.gov.cn/site/detail?parentId=600007&articleId=flvJq2gBiivJ2niDrYRKPA%3D%3D\n\n新发现公告：浙江龙泉经济开发区管理委员会2026年11月至12月政府采购意向\n类别：管网检测修复\n公告阶段：采购意向\n地区：丽水 龙泉市\n采购人：浙江龙泉经济开发区管理委员会\n预算：1,482,000 元\n来源：浙江政府采购网\nhttps://zfcg.czt.zj.gov.cn/site/detail?parentId=600007&articleId=Yl4b%2F9wsKQgHJZJikupBYQ%3D%3D\n\n新发现公告：关于2026-2028年度瓯海区梧田、潘桥、新桥景山、泽雅镇环卫一体化项目的更正公告[浙江巨合建设项目管理有限公司]\n类别：环卫保洁\n公告阶段：更正公告\n地区：温州 瓯海区\n采购人：温州市瓯海区综合行政执法局\n预算：69,793,429 元\n来源：浙江政府采购网\nhttps://zfcg.czt.zj.gov.cn/site/detail?parentId=600007&articleId=s0eKGjuFjvquLeBjlnNs%2Fg%3D%3D\n\n新发现公告：关于2026-2028年鳌江镇十里梅林绿化养护服务项目中标(成交)结果公告[浙江首信工程项目管理有限公司]\n类别：绿化养护\n公告阶段：采购结果\n地区：温州 浙江省温州市平阳县\n采购人：平阳县鳌江镇人民政府\n预算：未明确\n来源：浙江政府采购网\nhttps://zfcg.czt.zj.gov.cn/site/detail?parentId=600007&articleId=yWTqg04lMwQol24HWKYjgw%3D%3D\n\n"
     }
   ],
   "previous": {
     "records": [
+      {
+        "id": "Au6RE4N83sdqE5B+HdGVEA==",
+        "source": "zj",
+        "title": "关于2027年度岱山县高亭城区市政雨污水管网及污水泵站一体化运维服务项目的竞争性磋商公告[舟山市博琛建设工程管理有限公司]",
+        "project": "2027年度岱山县高亭城区市政雨污水管网及污水泵站一体化运维服务项目",
+        "type": "非招标公告",
+        "tags": [
+          "排水管网养护",
+          "泵站养护"
+        ],
+        "published": 1794388191000,
+        "deadline": 1795654800000,
+        "projectCode": "330921263400020000015-ZSBC-2026-122",
+        "categoryCode": "110-511933"
+      },
+      {
+        "id": "y+4/wPv+Fg+ZaAwL7hEkoA==",
+        "source": "zj",
+        "title": "关于玉环市未来新城 NXS051-0201 地块建筑垃圾清运服务项目的公开招标公告[大地工程咨询有限公司]",
+        "project": "玉环市未来新城 NXS051-0201 地块建筑垃圾清运服务项目",
+        "type": "招标公告",
+        "tags": [
+          "环卫保洁"
+        ],
+        "published": 1794387509000,
+        "deadline": 1796346000000,
+        "projectCode": "331083262380010000002",
+        "categoryCode": "110-684034"
+      },
+      {
+        "id": "tDlj5AwwcvIGvRHegGUPVw==",
+        "source": "zj",
+        "title": "关于海宁市2026年县道桥梁维修加固工程的竞争性磋商公告[嘉兴锦大工程管理咨询有限公司]",
+        "project": "海宁市2026年县道桥梁维修加固工程",
+        "type": "非招标公告",
+        "tags": [
+          "市政养护"
+        ],
+        "published": 1794386470000,
+        "deadline": 1795500000000,
+        "projectCode": "330481261370040000043-JDCG2026032",
+        "categoryCode": "110-511933"
+      },
+      {
+        "id": "o4cZ0LllLECF/PzRcQAjjA==",
+        "source": "zj",
+        "title": "关于可回收物、大件垃圾清运处置单位的公开招标公告[杭州恒正造价工程师事务所]",
+        "project": "可回收物、大件垃圾清运处置单位",
+        "type": "招标公告",
+        "tags": [
+          "环卫保洁"
+        ],
+        "published": 1794385617000,
+        "deadline": 1796175000000,
+        "projectCode": "330109269050010000032-HZHZ20261111",
+        "categoryCode": "110-684034"
+      },
+      {
+        "id": "w9Mc6vddraY5xAiFm5fM4A==",
+        "source": "zj",
+        "title": "关于2026年~2027年度青田县乡镇卫生院污水处理运维服务采购的竞争性磋商公告[浙江凌鼎工程咨询有限公司]",
+        "project": "2026年~2027年度青田县乡镇卫生院污水处理运维服务采购",
+        "type": "非招标公告",
+        "tags": [
+          "排水管网养护"
+        ],
+        "published": 1794384368000,
+        "deadline": 1795482000000,
+        "projectCode": "331121263210010000008-QTFSCG2026-207",
+        "categoryCode": "110-511933"
+      },
+      {
+        "id": "kXa+5KTnM0xhXVdcerq11g==",
+        "source": "zj",
+        "title": "关于新城公共绿化维护Ⅲ标段（千岛路以西、东西快速路、长峙岛）的公开招标公告[舟山建银工程造价审查中心有限公司]",
+        "project": "新城公共绿化维护Ⅲ标段（千岛路以西、东西快速路、长峙岛）",
+        "type": "招标公告",
+        "tags": [
+          "绿化养护"
+        ],
+        "published": 1794375066000,
+        "deadline": 1796173200000,
+        "projectCode": "330900265032040000047-ZSJY2026-ZFCG-323",
+        "categoryCode": "110-684034"
+      },
+      {
+        "id": "RcPBPLUT06bqeNoz1b6yiA==",
+        "source": "zj",
+        "title": "关于新城“打开围墙”地块环境整治及绿化养护项目的公开招标公告[舟山建银工程造价审查中心有限公司]",
+        "project": "新城“打开围墙”地块环境整治及绿化养护项目",
+        "type": "招标公告",
+        "tags": [
+          "绿化养护"
+        ],
+        "published": 1794375052000,
+        "deadline": 1796173200000,
+        "projectCode": "330900265032040000045-ZSJY2026-ZFCG-322",
+        "categoryCode": "110-684034"
+      },
+      {
+        "id": "fS0AfK00njX2XeT01lKL4Q==",
+        "source": "zj",
+        "title": "关于新城公共绿化维护 Ⅰ标段（海天大道、千岛路、临长路）的公开招标公告[浙江天隆工程管理有限公司]",
+        "project": "新城公共绿化维护 Ⅰ标段（海天大道、千岛路、临长路）",
+        "type": "招标公告",
+        "tags": [
+          "绿化养护"
+        ],
+        "published": 1794370041000,
+        "deadline": 1796259600000,
+        "projectCode": "330900265032040000048-TLZB-2026-470",
+        "categoryCode": "110-684034"
+      },
+      {
+        "id": "flvJq2gBiivJ2niDrYRKPA==",
+        "source": "zj",
+        "title": "关于新城公共绿化维护Ⅱ标段（千岛路以东、小干岛）的公开招标公告[浙江天隆工程管理有限公司]",
+        "project": "新城公共绿化维护Ⅱ标段（千岛路以东、小干岛）",
+        "type": "招标公告",
+        "tags": [
+          "绿化养护"
+        ],
+        "published": 1794370020000,
+        "deadline": 1796279400000,
+        "projectCode": "330900265032040000046-TLZB-2026-472",
+        "categoryCode": "110-684034"
+      },
       {
         "id": "raS9iBHvp/u762ota11NAQ==",
         "source": "zj",
@@ -2325,20 +2511,6 @@
         "deadline": 1795586400000,
         "projectCode": "331081262800010000015-ZJGYZX-2026-2-061-2",
         "categoryCode": "110-684034"
-      },
-      {
-        "id": "7fFU3nrR+Z99mum59ONScA==",
-        "source": "zj",
-        "title": "关于大榭军民友谊隧道维修加固工程的竞争性磋商公告[宁波杜威工程项目管理有限公司]",
-        "project": "大榭军民友谊隧道维修加固工程",
-        "type": "非招标公告",
-        "tags": [
-          "市政养护"
-        ],
-        "published": 1793349387000,
-        "deadline": 1794375000000,
-        "projectCode": "NBDW-202611293",
-        "categoryCode": "110-511933"
       },
       {
         "id": "FkvqjbdgYvLs0WKpvfTWAA==",
@@ -3077,61 +3249,47 @@
         "deadline": 1794447000000,
         "projectCode": "330114264040010000037-1",
         "categoryCode": "110-684034"
-      },
-      {
-        "id": "fFbkxOk4pl1eHkzXMSt3xA==",
-        "source": "zj",
-        "title": "关于余杭区政府大院室外绿化养护服务采购项目的公开招标公告[浙江泛亚工程咨询有限公司]",
-        "project": "余杭区政府大院室外绿化养护服务采购项目",
-        "type": "招标公告",
-        "tags": [
-          "绿化养护"
-        ],
-        "published": 1792561956000,
-        "deadline": 1794376800000,
-        "projectCode": "330110260010010000095-FYZXZBDL-2026-10-121",
-        "categoryCode": "110-684034"
       }
     ]
   },
   "lastCheck": {
-    "at": "2026-11-11T03:09:33.089Z",
+    "at": "2026-11-11T11:10:51.110Z",
     "coverage": [
       {
         "source": "zj",
         "code": "110-600268",
         "complete": true,
-        "scanned": 1970
+        "scanned": 2072
       },
       {
         "source": "zj",
         "code": "110-684034",
         "complete": true,
-        "scanned": 1622
+        "scanned": 1750
       },
       {
         "source": "zj",
         "code": "110-511933",
         "complete": true,
-        "scanned": 611
+        "scanned": 646
       },
       {
         "source": "zj",
         "code": "110-912804",
         "complete": true,
-        "scanned": 561
+        "scanned": 606
       },
       {
         "source": "zj",
         "code": "110-631167",
         "complete": true,
-        "scanned": 306
+        "scanned": 328
       },
       {
         "source": "zj",
         "code": "110-188043",
         "complete": true,
-        "scanned": 2108
+        "scanned": 2282
       },
       {
         "source": "nb",
@@ -3155,7 +3313,7 @@
         "source": "nb",
         "code": "20",
         "complete": true,
-        "scanned": 8
+        "scanned": 9
       },
       {
         "source": "nb",
