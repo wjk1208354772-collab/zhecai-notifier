@@ -1677,9 +1677,10 @@
   "outbox": [
     {
       "id": "49496285bed3e2a5ac4d2c40d394118d26046931e6082e986c9f7c514061eff6",
-      "status": "dispatching",
+      "status": "accepted",
       "summary": "浙采雷达项目更新",
-      "content": "浙采雷达 · 2026/11/11 11:09:33\n新发现公告：关于宁波市客运中心站广场及周边环卫保洁和市容综合管理服务项目中标(成交)结果公告[宁波中基国际招标有限公司]\n类别：环卫保洁\n公告阶段：采购结果\n地区：宁波 浙江省宁波市海曙区\n采购人：宁波市海曙区南站广场区域综合管理中心\n预算：未明确\n来源：浙江政府采购网\nhttps://zfcg.czt.zj.gov.cn/site/detail?parentId=600007&articleId=qsMKJkuT72VEusN51qU76A%3D%3D\n\n新发现公告：宁波市北仑区人民政府大碶街道办事处2026年11月至12月政府采购意向\n类别：环卫保洁\n公告阶段：采购意向\n地区：宁波 北仑区\n采购人：宁波市北仑区人民政府大碶街道办事处\n预算：3,280,486 元\n来源：浙江政府采购网\nhttps://zfcg.czt.zj.gov.cn/site/detail?parentId=600007&articleId=NYl32HKQT3xabEA4Yq8mJQ%3D%3D\n\n新发现公告：关于宁波市海曙区高桥镇望春四季苑等小区管网改造提升工程(CCTV检测)结果公告补充公告[宁波和丰建设项目管理有限公司]\n类别：管网检测修复\n公告阶段：更正公告\n地区：宁波 浙江省宁波市海曙区\n采购人：宁波市海曙区高桥镇人民政府\n预算：632,800 元\n来源：浙江政府采购网\nhttps://zfcg.czt.zj.gov.cn/site/detail?parentId=600007&articleId=FtPpTd2UpMaxi1TPADq88A%3D%3D\n\n新发现公告：德清县新市镇人民政府2026年11月政府采购意向\n类别：市政养护\n公告阶段：采购意向\n地区：湖州 德清县\n采购人：德清县新市镇人民政府\n预算：3,000,000 元\n来源：浙江政府采购网\nhttps://zfcg.czt.zj.gov.cn/site/detail?parentId=600007&articleId=n1f4z7njSilcNHhL4EU3Og%3D%3D\n\n"
+      "content": "浙采雷达 · 2026/11/11 11:09:33\n新发现公告：关于宁波市客运中心站广场及周边环卫保洁和市容综合管理服务项目中标(成交)结果公告[宁波中基国际招标有限公司]\n类别：环卫保洁\n公告阶段：采购结果\n地区：宁波 浙江省宁波市海曙区\n采购人：宁波市海曙区南站广场区域综合管理中心\n预算：未明确\n来源：浙江政府采购网\nhttps://zfcg.czt.zj.gov.cn/site/detail?parentId=600007&articleId=qsMKJkuT72VEusN51qU76A%3D%3D\n\n新发现公告：宁波市北仑区人民政府大碶街道办事处2026年11月至12月政府采购意向\n类别：环卫保洁\n公告阶段：采购意向\n地区：宁波 北仑区\n采购人：宁波市北仑区人民政府大碶街道办事处\n预算：3,280,486 元\n来源：浙江政府采购网\nhttps://zfcg.czt.zj.gov.cn/site/detail?parentId=600007&articleId=NYl32HKQT3xabEA4Yq8mJQ%3D%3D\n\n新发现公告：关于宁波市海曙区高桥镇望春四季苑等小区管网改造提升工程(CCTV检测)结果公告补充公告[宁波和丰建设项目管理有限公司]\n类别：管网检测修复\n公告阶段：更正公告\n地区：宁波 浙江省宁波市海曙区\n采购人：宁波市海曙区高桥镇人民政府\n预算：632,800 元\n来源：浙江政府采购网\nhttps://zfcg.czt.zj.gov.cn/site/detail?parentId=600007&articleId=FtPpTd2UpMaxi1TPADq88A%3D%3D\n\n新发现公告：德清县新市镇人民政府2026年11月政府采购意向\n类别：市政养护\n公告阶段：采购意向\n地区：湖州 德清县\n采购人：德清县新市镇人民政府\n预算：3,000,000 元\n来源：浙江政府采购网\nhttps://zfcg.czt.zj.gov.cn/site/detail?parentId=600007&articleId=n1f4z7njSilcNHhL4EU3Og%3D%3D\n\n",
+      "acceptedAt": "2026-11-11T03:09:37.159Z"
     }
   ],
   "previous": {
