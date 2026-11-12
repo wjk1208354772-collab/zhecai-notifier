@@ -1740,9 +1740,10 @@
   "outbox": [
     {
       "id": "a2b459cf755d2e56d17988db4e9d4dd0aa3290a880eebf831e6e10f41bac745d",
-      "status": "dispatching",
+      "status": "accepted",
       "summary": "浙采雷达项目更新",
-      "content": "浙采雷达 · 2026/11/12 09:05:52\n新发现公告：关于2026年市政养护维修预发包项目中标(成交)结果公告[浙江华耀建设咨询有限公司]\n类别：市政养护\n公告阶段：采购结果\n地区：湖州 浙江省湖州市吴兴区\n采购人：湖州市吴兴区东林镇人民政府\n预算：未明确\n来源：浙江政府采购网\nhttps://zfcg.czt.zj.gov.cn/site/detail?parentId=600007&articleId=zXr%2Fe%2BKC6C0OXDCKYUpOGg%3D%3D\n\n"
+      "content": "浙采雷达 · 2026/11/12 09:05:52\n新发现公告：关于2026年市政养护维修预发包项目中标(成交)结果公告[浙江华耀建设咨询有限公司]\n类别：市政养护\n公告阶段：采购结果\n地区：湖州 浙江省湖州市吴兴区\n采购人：湖州市吴兴区东林镇人民政府\n预算：未明确\n来源：浙江政府采购网\nhttps://zfcg.czt.zj.gov.cn/site/detail?parentId=600007&articleId=zXr%2Fe%2BKC6C0OXDCKYUpOGg%3D%3D\n\n",
+      "acceptedAt": "2026-11-12T01:05:57.712Z"
     }
   ],
   "previous": {
