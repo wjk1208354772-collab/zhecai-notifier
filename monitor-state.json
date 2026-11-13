@@ -1924,15 +1924,7 @@
     "nb:nb:7b594591-5a52-451f-b462-c17dbb74abf0:deadline:1794533400000": true,
     "nb:nb:da996714-26ae-4352-91ae-f3596e9e121d:deadline:1794808800000": true
   },
-  "outbox": [
-    {
-      "id": "3b40e536a8ef1e9b8f9718967be4210b599eb1df1baf98e8dcbfb0ad9611711d",
-      "status": "accepted",
-      "summary": "浙采雷达项目更新",
-      "content": "浙采雷达 · 2026/11/13 19:12:19\n新发现公告：关于2026年新改建排水管网CCTV检测项目竞争性磋商公告[龙泉市住房和城乡建设局]\n类别：管网检测修复\n公告阶段：非招标公告\n地区：丽水 龙泉市\n采购人：龙泉市住房和城乡建设局\n预算：170,000 元\n正文提取截止时间：2026/11/24 15:00:00（以最新官方公告为准）\n来源：浙江政府采购网\nhttps://zfcg.czt.zj.gov.cn/site/detail?parentId=600007&articleId=gC2Vk9U6H7CQrAQB%2FwvAQA%3D%3D\n\n新发现公告：关于淳安县威坪镇污水处理厂及集镇污水管网运维项目的公开招标公告[淳安县建设工程招标代理有限公司]\n类别：排水管网养护\n公告阶段：招标公告\n地区：杭州 淳安县\n采购人：淳安县威坪镇人民政府\n预算：1,200,000 元\n正文提取截止时间：2026/12/3 09:30:00（以最新官方公告为准）\n来源：浙江政府采购网\nhttps://zfcg.czt.zj.gov.cn/site/detail?parentId=600007&articleId=q27fHIRhXLIGJ37Aq%2BJkqw%3D%3D\n\n新发现公告：关于宁波市栎社污水处理厂服务范围水质水量监测及提质增效建设效果评估项目的公开招标公告[宁波中基国际招标有限公司]\n类别：水质监测\n公告阶段：招标公告\n地区：宁波 宁波市\n采购人：宁波市水务设施运行管理中心\n预算：7,500,000 元\n来源：浙江政府采购网\nhttps://zfcg.czt.zj.gov.cn/site/detail?parentId=600007&articleId=JxsJkiqRZpSWj4CdFs09ag%3D%3D\n\n新发现公告：关于建德市寿昌镇人民政府2026年十八桥新城区块、南门广场及部分集镇路段区块保洁服务采购项目的竞争性磋商公告[杭州欣安工程管理有限公司]\n类别：环卫保洁\n公告阶段：非招标公告\n地区：杭州 建德市\n采购人：建德市寿昌镇人民政府\n预算：2,000,000 元\n正文提取截止时间：2026/11/24 14:00:00（以最新官方公告为准）\n来源：浙江政府采购网\nhttps://zfcg.czt.zj.gov.cn/site/detail?parentId=600007&articleId=Tb8VZmUl%2BFVtotf0eUYebQ%3D%3D\n\n新发现公告：关于2026年道路交通安全设施维护项目中标(成交)结果公告[丽水一隆项目管理咨询有限公司]\n类别：市政养护\n公告阶段：采购结果\n地区：丽水 浙江省丽水市缙云县\n采购人：缙云县公安局交通管理大队\n预算：未明确\n来源：浙江政府采购网\nhttps://zfcg.czt.zj.gov.cn/site/detail?parentId=600007&articleId=IECxxIIFKUD5PvBHNFRKuA%3D%3D\n\n新发现公告：关于宁波市中心城区污水专项体检评估、污水设施建设运维统筹及按效付费机制研究项目的公开招标公告[宁波中基国际招标有限公司]\n类别：排水管网养护\n公告阶段：招标公告\n地区：宁波 宁波市\n采购人：宁波市水务设施运行管理中心\n预算：5,000,000 元\n来源：浙江政府采购网\nhttps://zfcg.czt.zj.gov.cn/site/detail?parentId=600007&articleId=6mEuEpX44B3kyEH%2FpfQ96Q%3D%3D\n\n新发现公告：关于新仓镇2027年度区域绿化养护服务采购项目的公开招标公告[嘉兴市弘茂工程咨询有限公司]\n类别：绿化养护\n公告阶段：招标公告\n地区：嘉兴 平湖市\n采购人：平湖市新仓镇人民政府\n预算：3,466,500 元\n正文提取截止时间：2026/12/3 09:00:00（以最新官方公告为准）\n来源：浙江政府采购网\nhttps://zfcg.czt.zj.gov.cn/site/detail?parentId=600007&articleId=6OAP%2FNKNoMQG5cmwBG88cQ%3D%3D\n\n新发现公告：关于2026年鄞州区镇乡污水收集管网及农村生活污水处理设施运行管理服务采购项目中标(成交)结果公告[浙江绿邦招标代理有限公司]\n类别：农村生活污水运维\n公告阶段：采购结果\n地区：宁波 浙江省宁波市鄞州区\n采购人：宁波市鄞州区水利局\n预算：未明确\n来源：浙江政府采购网\nhttps://zfcg.czt.zj.gov.cn/site/detail?parentId=600007&articleId=uIOJbGojKsPuhmAOjqrFQA%3D%3D\n\n新发现公告：关于2027年度瓶窑镇环卫保洁、生活垃圾清运等项目（标项二）的公开招标公告[杭州瑞拓工程咨询有限公司]\n类别：环卫保洁\n公告阶段：招标公告\n地区：杭州 余杭区\n采购人：杭州市余杭区瓶窑镇人民政府\n预算：6,300,000 元\n正文提取截止时间：2026/12/7 12:30:00（以最新官方公告为准）\n来源：浙江政府采购网\nhttps://zfcg.czt.zj.gov.cn/site/detail?parentId=600007&articleId=23QxGdt1BWfCguUNDLJ7TQ%3D%3D\n\n新发现公告：关于2027年度瓶窑镇环卫保洁、生活垃圾清运等项目（标项五）的公开招标公告[德威工程管理咨询有限公司]\n类别：环卫保洁\n公告阶段：招标公告\n地区：杭州 余杭区\n采购人：杭州市余杭区瓶窑镇人民政府\n预算：4,680,000 元\n正文提取截止时间：2026/12/9 09:00:00（以最新官方公告为准）\n来源：浙江政府采购网\nhttps://zfcg.czt.zj.gov.cn/site/detail?parentId=600007&articleId=O3w0GgQNyhK94LRi6%2FpsNQ%3D%3D\n\n新发现公告：关于2027年度瓶窑镇环卫保洁、生活垃圾清运等项目（标项四）的公开招标公告[浙江广通工程咨询有限公司]\n类别：环卫保洁\n公告阶段：招标公告\n地区：杭州 余杭区\n采购人：杭州市余杭区瓶窑镇人民政府\n预算：4,550,000 元\n正文提取截止时间：2026/12/8 12:30:00（以最新官方公告为准）\n来源：浙江政府采购网\nhttps://zfcg.czt.zj.gov.cn/site/detail?parentId=600007&articleId=rLi%2BnAk2JufH%2BtrrQ2p6mA%3D%3D\n\n新发现公告：关于温岭市大溪镇建成区2026年-2027年污水管网日常养护疏通及泵站日常巡检服务项目采购中标(成交)结果公告[浙江冠宇工程咨询有限公司]\n类别：排水管网养护、泵站养护\n公告阶段：采购结果\n地区：台州 浙江省台州市温岭市\n采购人：温岭市大溪镇人民政府\n预算：未明确\n来源：浙江政府采购网\nhttps://zfcg.czt.zj.gov.cn/site/detail?parentId=600007&articleId=xSWdYAEZFBfpIqXtrttAbg%3D%3D\n\n新发现公告：杭州市萧山区人民政府新街街道办事处2026年11月至12月政府采购意向\n类别：河道养护、绿化养护\n公告阶段：采购意向\n地区：杭州 萧山区\n采购人：杭州市萧山区人民政府新街街道办事处\n预算：5,200,000 元\n来源：浙江政府采购网\nhttps://zfcg.czt.zj.gov.cn/site/detail?parentId=600007&articleId=lXtGehojkv%2F5M1Xqg3CWnQ%3D%3D\n\n新发现公告：关于2027年度瓶窑镇环卫保洁、生活垃圾清运等项目（标项六）的公开招标公告[浙江宏顺建设管理有限公司]\n类别：环卫保洁\n公告阶段：招标公告\n地区：杭州 余杭区\n采购人：杭州市余杭区瓶窑镇人民政府\n预算：5,070,000 元\n正文提取截止时间：2026/12/9 12:30:00（以最新官方公告为准）\n来源：浙江政府采购网\nhttps://zfcg.czt.zj.gov.cn/site/detail?parentId=600007&articleId=RVfh4Fo0lW5C84PKXSzwVA%3D%3D\n\n新发现公告：关于2027年度瓶窑镇环卫保洁、生活垃圾清运等项目（标项三）的公开招标公告[杭州聚亿工程咨询有限公司]\n类别：环卫保洁\n公告阶段：招标公告\n地区：杭州 余杭区\n采购人：杭州市余杭区瓶窑镇人民政府\n预算：4,560,000 元\n正文提取截止时间：2026/12/8 09:00:00（以最新官方公告为准）\n来源：浙江政府采购网\nhttps://zfcg.czt.zj.gov.cn/site/detail?parentId=600007&articleId=HCthLS6jNp2e935kmm6xQA%3D%3D\n\n新发现公告：关于2026年宁海县公路与运输管理中心道路清扫车、洒水车采购项目（重）的更正公告[宁波中屹工程管理咨询有限公司]\n类别：环卫保洁\n公告阶段：更正公告\n地区：宁波 浙江省宁波市宁海县\n采购人：宁海县公路与运输管理中心\n预算：1,100,000 元\n来源：浙江政府采购网\nhttps://zfcg.czt.zj.gov.cn/site/detail?parentId=600007&articleId=hqw5SHZDy%2BXS3P7wOk%2FNFw%3D%3D\n\n新发现公告：关于2027年度瓶窑镇环卫保洁、生活垃圾清运等项目（标项一）的公开招标公告[杭州中京工程咨询代理有限公司]\n类别：环卫保洁\n公告阶段：招标公告\n地区：杭州 余杭区\n采购人：杭州市余杭区瓶窑镇人民政府\n预算：6,620,000 元\n正文提取截止时间：2026/12/7 09:00:00（以最新官方公告为准）\n来源：浙江政府采购网\nhttps://zfcg.czt.zj.gov.cn/site/detail?parentId=600007&articleId=0oK%2B8pVyf%2Bu11JGO37clJg%3D%3D\n\n新发现公告：金华市生活垃圾卫生填埋场场区绿化养护、有机肥处理中心运营、除臭灭四害、覆膜作业项目中标结果公告\n类别：绿化养护\n公告阶段：采购结果\n地区：金华 金华市\n采购人：金华市环卫服务中心\n预算：未明确\n来源：浙江政府采购网\nhttps://zfcg.czt.zj.gov.cn/site/detail?parentId=600007&articleId=WfSULo8DhEJEtNap1xCUOw%3D%3D\n\n新发现公告：关于2026-2028年朗霞街道绿化养护项目（重发）中标(成交)结果公告[宁波甬达工程造价咨询有限公司]\n类别：绿化养护\n公告阶段：采购结果\n地区：宁波 浙江省宁波市余姚市\n采购人：余姚市人民政府朗霞街道办事处\n预算：未明确\n来源：浙江政府采购网\nhttps://zfcg.czt.zj.gov.cn/site/detail?parentId=600007&articleId=8mFT08LaQuLVzg5stO24qw%3D%3D\n\n新发现公告：宁波市奉化区人民政府西坞街道办事处2026年12月政府采购意向\n类别：排水管网养护、泵站养护\n公告阶段：采购意向\n地区：宁波 奉化区\n采购人：宁波市奉化区人民政府西坞街道办事处\n预算：938,300 元\n来源：浙江政府采购网\nhttps://zfcg.czt.zj.gov.cn/site/detail?parentId=600007&articleId=K%2FDPWL5DJlGuKpORlIKHfQ%3D%3D\n\n新发现公告：关于林业草原支撑保障体系支出（森林防火道路维护）中标(成交)结果公告[浙江大兴建设项目管理咨询有限公司]\n类别：市政养护\n公告阶段：采购结果\n地区：丽水 浙江省丽水市庆元县\n采购人：庆元林场\n预算：未明确\n来源：浙江政府采购网\nhttps://zfcg.czt.zj.gov.cn/site/detail?parentId=600007&articleId=KlyuwodffHPK4Ey1Y0y5cQ%3D%3D\n\n新发现公告：诸暨市农业农村局2026年11月至12月政府采购意向\n类别：水质监测\n公告阶段：采购意向\n地区：绍兴 诸暨市\n采购人：诸暨市农业农村局\n预算：160,000 元\n来源：浙江政府采购网\nhttps://zfcg.czt.zj.gov.cn/site/detail?parentId=600007&articleId=fUFTKdvbaOqhCmalAGlrMw%3D%3D\n\n新发现公告：关于新市镇市政及农村道路管理和养护服务的竞争性磋商公告[浙江金业管理咨询有限公司]\n类别：市政养护\n公告阶段：非招标公告\n地区：湖州 德清县\n采购人：德清县新市镇人民政府\n预算：3,000,000 元\n正文提取截止时间：2026/11/25 09:30:00（以最新官方公告为准）\n来源：浙江政府采购网\nhttps://zfcg.czt.zj.gov.cn/site/detail?parentId=600007&articleId=sPFmaXPM7GcWZBFOfqc%2FuQ%3D%3D\n\n新发现公告：2026年-2029年度望春工业园区道路路灯养护服务项目采购结果公告\n类别：市政养护\n公告阶段：采购结果\n地区：宁波 区域未细分\n采购人：宁波望春工业发展有限公司 联系\n预算：未明确\n来源：宁波阳光采购服务平台\nhttps://ygcg.nbcqjy.org/detail?bulletinId=6f477b62-d3c8-4d77-ac01-dd63885179e0\n\n新发现公告：镇新西路（机场路-金钻路）工程CCTV检测中标候选人公示\n类别：管网检测修复\n公告阶段：采购结果\n地区：宁波 区域未细分\n采购人：未明确\n预算：未明确\n来源：宁波阳光采购服务平台\nhttps://ygcg.nbcqjy.org/detail?bulletinId=8a4058b7-a2b1-471d-a630-22d5c594b75b\n\n3天内截止提醒：2026年二次供水智慧泵房标准化建设与无人化运维技术应用项目招标公告\n类别：泵站养护\n公告阶段：采购公告\n地区：宁波 区域未细分\n采购人：宁波市水务环境集团股份有限公司\n预算：未明确\n正文提取截止时间：2026/11/16 14:00:00（以最新官方公告为准）\n来源：宁波阳光采购服务平台\nhttps://ygcg.nbcqjy.org/detail?bulletinId=da996714-26ae-4352-91ae-f3596e9e121d\n\n",
-      "acceptedAt": "2026-11-13T11:12:23.818Z"
-    }
-  ],
+  "outbox": [],
   "previous": {
     "records": [
       {
@@ -3458,49 +3450,49 @@
     ]
   },
   "lastCheck": {
-    "at": "2026-11-13T11:12:19.285Z",
+    "at": "2026-11-13T18:36:12.091Z",
     "coverage": [
       {
         "source": "zj",
         "code": "110-600268",
         "complete": true,
-        "scanned": 1940
+        "scanned": 1925
       },
       {
         "source": "zj",
         "code": "110-684034",
         "complete": true,
-        "scanned": 1776
+        "scanned": 1798
       },
       {
         "source": "zj",
         "code": "110-511933",
         "complete": true,
-        "scanned": 620
+        "scanned": 629
       },
       {
         "source": "zj",
         "code": "110-912804",
         "complete": true,
-        "scanned": 582
+        "scanned": 590
       },
       {
         "source": "zj",
         "code": "110-631167",
         "complete": true,
-        "scanned": 318
+        "scanned": 319
       },
       {
         "source": "zj",
         "code": "110-188043",
         "complete": true,
-        "scanned": 2343
+        "scanned": 2345
       },
       {
         "source": "nb",
         "code": "21",
         "complete": true,
-        "scanned": 350
+        "scanned": 300
       },
       {
         "source": "nb",
@@ -3518,7 +3510,7 @@
         "source": "nb",
         "code": "20",
         "complete": true,
-        "scanned": 8
+        "scanned": 7
       },
       {
         "source": "nb",
