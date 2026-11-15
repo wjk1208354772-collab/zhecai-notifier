@@ -1925,15 +1925,7 @@
     "nb:nb:da996714-26ae-4352-91ae-f3596e9e121d:deadline:1794808800000": true,
     "health:nb:2026-11-15": true
   },
-  "outbox": [
-    {
-      "id": "7863934cb3c48441430b38dc5261a1adf95aab09260486ce6628955d3c756485",
-      "status": "accepted",
-      "summary": "浙采雷达项目更新",
-      "content": "浙采雷达 · 2026/11/15 07:06:31\n核查异常：宁波阳光采购服务平台\n本轮检索未完成，不能视为没有新项目。请查看 GitHub Actions 运行记录或官方来源。\n\n",
-      "acceptedAt": "2026-11-14T23:06:35.556Z"
-    }
-  ],
+  "outbox": [],
   "previous": {
     "records": [
       {
@@ -3459,7 +3451,7 @@
     ]
   },
   "lastCheck": {
-    "at": "2026-11-14T23:06:31.434Z",
+    "at": "2026-11-15T02:49:20.059Z",
     "coverage": [
       {
         "source": "zj",
@@ -3512,14 +3504,14 @@
       {
         "source": "nb",
         "code": "22",
-        "complete": false,
-        "scanned": 0
+        "complete": true,
+        "scanned": 300
       },
       {
         "source": "nb",
         "code": "20",
-        "complete": true,
-        "scanned": 7
+        "complete": false,
+        "scanned": 0
       },
       {
         "source": "nb",
