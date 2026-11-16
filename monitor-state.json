@@ -1938,7 +1938,7 @@
   "outbox": [
     {
       "id": "eb40d9ab2e3e8cf206f21f707fe4f36898c77e8fd53e1bcfd3451df312b8e3c7",
-      "status": "pending",
+      "status": "dispatching",
       "summary": "浙采雷达项目更新",
       "content": "浙采雷达 · 2026/11/16 17:55:03\n核查异常：浙江政府采购网\n本轮检索未完成，不能视为没有新项目。请查看 GitHub Actions 运行记录或官方来源。\n\n新发现公告：2026年二次供水智慧泵房标准化建设与无人化运维技术应用项目中标候选公示\n类别：泵站养护\n公告阶段：采购结果\n地区：宁波 区域未细分\n采购人：宁波市水务环境集团股份有限公司\n预算：未明确\n来源：宁波阳光采购服务平台\nhttps://ygcg.nbcqjy.org/detail?bulletinId=6879fc4c-9fad-4792-9a2f-5fd9d4ad7ac3\n\n"
     }
