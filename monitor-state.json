@@ -1912,6 +1912,12 @@
     },
     "nb:nb:8a4058b7-a2b1-471d-a630-22d5c594b75b": {
       "fingerprint": "39afc97f32da3700efa3bafb3639d388d84e87e85266fac2de27bb244fcfe268"
+    },
+    "zj:stK5EaM9WYLC34MdXoKXLw==": {
+      "fingerprint": "29eb8defca1e4111e70c7ba08862633de5b6f8fbeee37295fce578d0f10be53e"
+    },
+    "zj:UkaxTgMBa0evE/T0envtUg==": {
+      "fingerprint": "9d201afc783793480e22ad0f9a132f05e23761dd417d9c0ac7b247b1a86cfbbe"
     }
   },
   "reminders": {
@@ -1925,9 +1931,30 @@
     "nb:nb:da996714-26ae-4352-91ae-f3596e9e121d:deadline:1794808800000": true,
     "health:nb:2026-11-15": true
   },
-  "outbox": [],
+  "outbox": [
+    {
+      "id": "b54a46b51d9f4280f363f91100291d4aa3d31fad1ee2248ba0a568df32b12d1b",
+      "status": "pending",
+      "summary": "浙采雷达项目更新",
+      "content": "浙采雷达 · 2026/11/16 10:16:45\n新发现公告：关于2027园林绿化养护服务及工具项目的公开招标公告[东方经纬项目管理有限公司]\n类别：绿化养护\n公告阶段：招标公告\n地区：杭州 西湖风景名胜区\n采购人：杭州植物园（杭州西湖园林科学研究院）\n预算：3,928,700 元\n正文提取截止时间：2026/12/8 14:00:00（以最新官方公告为准）\n来源：浙江政府采购网\nhttps://zfcg.czt.zj.gov.cn/site/detail?parentId=600007&articleId=stK5EaM9WYLC34MdXoKXLw%3D%3D\n\n新发现公告：姜山镇零星污水管道养护项目宁波市鄞州区姜山镇人民政府2026年11月政府采购意向\n类别：排水管网养护\n公告阶段：采购意向\n地区：宁波 鄞州区\n采购人：宁波市鄞州区姜山镇人民政府\n预算：400,000 元\n来源：浙江政府采购网\nhttps://zfcg.czt.zj.gov.cn/site/detail?parentId=600007&articleId=UkaxTgMBa0evE%2FT0envtUg%3D%3D\n\n"
+    }
+  ],
   "previous": {
     "records": [
+      {
+        "id": "stK5EaM9WYLC34MdXoKXLw==",
+        "source": "zj",
+        "title": "关于2027园林绿化养护服务及工具项目的公开招标公告[东方经纬项目管理有限公司]",
+        "project": "2027园林绿化养护服务及工具项目",
+        "type": "招标公告",
+        "tags": [
+          "绿化养护"
+        ],
+        "published": 1794793723000,
+        "deadline": 1796709600000,
+        "projectCode": "330116260010160000050-DFJW2026-FJ-073",
+        "categoryCode": "110-684034"
+      },
       {
         "id": "gC2Vk9U6H7CQrAQB/wvAQA==",
         "source": "zj",
@@ -3421,20 +3448,6 @@
         "categoryCode": "110-684034"
       },
       {
-        "id": "vS90Im2ZvZKfM514JMWRJw==",
-        "source": "zj",
-        "title": "关于2026―2027年柯城区城区绿化一体化养护服务项目的公开招标公告[浙江卓宏建设项目管理有限公司]",
-        "project": "2026―2027年柯城区城区绿化一体化养护服务项目",
-        "type": "招标公告",
-        "tags": [
-          "绿化养护"
-        ],
-        "published": 1792975910000,
-        "deadline": 1794790800000,
-        "projectCode": "330802262700010000045-XS20261010",
-        "categoryCode": "110-684034"
-      },
-      {
         "id": "5bIVMIkPYVm22iXjcUxT0A==",
         "source": "zj",
         "title": "关于嘉兴市南湖区综合行政执法局环卫保洁作业人员2026-2027年度人身意外险采购项目的公开招标公告[嘉兴市明扬工程咨询有限公司]",
@@ -3451,43 +3464,43 @@
     ]
   },
   "lastCheck": {
-    "at": "2026-11-15T21:55:27.526Z",
+    "at": "2026-11-16T02:16:45.731Z",
     "coverage": [
       {
         "source": "zj",
         "code": "110-600268",
         "complete": true,
-        "scanned": 1703
+        "scanned": 1733
       },
       {
         "source": "zj",
         "code": "110-684034",
         "complete": true,
-        "scanned": 1650
+        "scanned": 1656
       },
       {
         "source": "zj",
         "code": "110-511933",
         "complete": true,
-        "scanned": 558
+        "scanned": 563
       },
       {
         "source": "zj",
         "code": "110-912804",
         "complete": true,
-        "scanned": 528
+        "scanned": 530
       },
       {
         "source": "zj",
         "code": "110-631167",
         "complete": true,
-        "scanned": 284
+        "scanned": 288
       },
       {
         "source": "zj",
         "code": "110-188043",
         "complete": true,
-        "scanned": 2107
+        "scanned": 2134
       },
       {
         "source": "nb",
