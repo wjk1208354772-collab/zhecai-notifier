@@ -1934,9 +1934,10 @@
   "outbox": [
     {
       "id": "b54a46b51d9f4280f363f91100291d4aa3d31fad1ee2248ba0a568df32b12d1b",
-      "status": "dispatching",
+      "status": "accepted",
       "summary": "浙采雷达项目更新",
-      "content": "浙采雷达 · 2026/11/16 10:16:45\n新发现公告：关于2027园林绿化养护服务及工具项目的公开招标公告[东方经纬项目管理有限公司]\n类别：绿化养护\n公告阶段：招标公告\n地区：杭州 西湖风景名胜区\n采购人：杭州植物园（杭州西湖园林科学研究院）\n预算：3,928,700 元\n正文提取截止时间：2026/12/8 14:00:00（以最新官方公告为准）\n来源：浙江政府采购网\nhttps://zfcg.czt.zj.gov.cn/site/detail?parentId=600007&articleId=stK5EaM9WYLC34MdXoKXLw%3D%3D\n\n新发现公告：姜山镇零星污水管道养护项目宁波市鄞州区姜山镇人民政府2026年11月政府采购意向\n类别：排水管网养护\n公告阶段：采购意向\n地区：宁波 鄞州区\n采购人：宁波市鄞州区姜山镇人民政府\n预算：400,000 元\n来源：浙江政府采购网\nhttps://zfcg.czt.zj.gov.cn/site/detail?parentId=600007&articleId=UkaxTgMBa0evE%2FT0envtUg%3D%3D\n\n"
+      "content": "浙采雷达 · 2026/11/16 10:16:45\n新发现公告：关于2027园林绿化养护服务及工具项目的公开招标公告[东方经纬项目管理有限公司]\n类别：绿化养护\n公告阶段：招标公告\n地区：杭州 西湖风景名胜区\n采购人：杭州植物园（杭州西湖园林科学研究院）\n预算：3,928,700 元\n正文提取截止时间：2026/12/8 14:00:00（以最新官方公告为准）\n来源：浙江政府采购网\nhttps://zfcg.czt.zj.gov.cn/site/detail?parentId=600007&articleId=stK5EaM9WYLC34MdXoKXLw%3D%3D\n\n新发现公告：姜山镇零星污水管道养护项目宁波市鄞州区姜山镇人民政府2026年11月政府采购意向\n类别：排水管网养护\n公告阶段：采购意向\n地区：宁波 鄞州区\n采购人：宁波市鄞州区姜山镇人民政府\n预算：400,000 元\n来源：浙江政府采购网\nhttps://zfcg.czt.zj.gov.cn/site/detail?parentId=600007&articleId=UkaxTgMBa0evE%2FT0envtUg%3D%3D\n\n",
+      "acceptedAt": "2026-11-16T02:16:50.821Z"
     }
   ],
   "previous": {
