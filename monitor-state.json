@@ -2002,6 +2002,18 @@
     },
     "zj:wPWl+LcBmH58uM6wRVFbaw==": {
       "fingerprint": "efc4ab4d5582ac053053dcb2cf1d5e56b611f598fa91c821c5459e2f60e9681e"
+    },
+    "zj:ib6q6iTTxmg8cHtv2UVKfQ==": {
+      "fingerprint": "0253848cd752c4b9498c13c2f3099f3374fc00f32dbded46ebbfeff69a4f3b4b"
+    },
+    "zj:XIMhzHNrvpBDFJyRTXbkrg==": {
+      "fingerprint": "b6138542f9a2d40c12bf4b2928db1757491e2bf60532e2f0819ff760b749fc05"
+    },
+    "zj:jr3E4eauzvhgxfdHHtzuhw==": {
+      "fingerprint": "2d01b867aae1e65867137b068807fd8c71f0b5391d4c88fa7e2f84793beeb94f"
+    },
+    "zj:7GkH7X7pBjbmQbtCBYfafw==": {
+      "fingerprint": "d84c6e62e2431c76d3629bdeab2bdead128139d74ff44abd66edda30a48c6530"
     }
   },
   "reminders": {
@@ -2018,15 +2030,43 @@
   },
   "outbox": [
     {
-      "id": "34029945acbdccba3c94786bc52b5b058109faf75a39c543b8601f82bba4e64b",
-      "status": "accepted",
+      "id": "8e98ec6a7db62fe8f5564d5cdee238b25c283417ff426c766a3681ce3e03abdf",
+      "status": "pending",
       "summary": "浙采雷达项目更新",
-      "content": "浙采雷达 · 2026/11/17 04:34:29\n新发现公告：庆元县竹口镇人民政府2026年12月政府采购意向\n类别：环卫保洁\n公告阶段：采购意向\n地区：丽水 庆元县\n采购人：庆元县竹口镇人民政府\n预算：500,700 元\n来源：浙江政府采购网\nhttps://zfcg.czt.zj.gov.cn/site/detail?parentId=600007&articleId=Nhzv3b2%2FfapnN%2FJIfSGmhg%3D%3D\n\n新发现公告：关于浙江省中医院湖滨院区2027年生活垃圾与化粪池清运处置服务公开招标公告[浙江省国际技术设备招标有限公司]\n类别：环卫保洁\n公告阶段：招标公告\n地区：省本级/其他 浙江\n采购人：浙江省中医院\n预算：620,000 元\n正文提取截止时间：2026/12/7 09:30:00（以最新官方公告为准）\n来源：浙江政府采购网\nhttps://zfcg.czt.zj.gov.cn/site/detail?parentId=600007&articleId=gLPIcnXYhqHJqpeQXQtkxw%3D%3D\n\n新发现公告：关于2027-2028年度海曙区环境卫生服务中心江厦、鼓楼、月湖街道道路保洁市场化服务项目中标(成交)结果公告[宁波中基国际招标有限公司]\n类别：环卫保洁\n公告阶段：采购结果\n地区：宁波 浙江省宁波市海曙区\n采购人：宁波市海曙区环境卫生服务中心\n预算：未明确\n来源：浙江政府采购网\nhttps://zfcg.czt.zj.gov.cn/site/detail?parentId=600007&articleId=dkAMVy78iwa67r2XKG04mg%3D%3D\n\n新发现公告：关于村头镇集镇卫生保洁及有机垃圾处理站运维的竞争性磋商公告[浙江金穗工程项目管理有限公司]\n类别：环卫保洁\n公告阶段：非招标公告\n地区：衢州 开化县\n采购人：开化县村头镇人民政府\n预算：588,276 元\n正文提取截止时间：2026/12/2 09:00:00（以最新官方公告为准）\n来源：浙江政府采购网\nhttps://zfcg.czt.zj.gov.cn/site/detail?parentId=600007&articleId=L%2Bntbc9dP90xtlkEziVJew%3D%3D\n\n新发现公告：关于灵溪镇2026年度农村生活污水管网应急零星修复工程中标(成交)结果公告[浙江首信工程项目管理有限公司]\n类别：管网检测修复\n公告阶段：采购结果\n地区：温州 浙江省温州市苍南县\n采购人：苍南县灵溪镇人民政府\n预算：未明确\n来源：浙江政府采购网\nhttps://zfcg.czt.zj.gov.cn/site/detail?parentId=600007&articleId=FyJV%2F8W4i4e3XybiFsxKWA%3D%3D\n\n新发现公告：关于永康市公路与运输管理中心2026年度公路养护多用途货车采购（第四次）的公开招标公告[浙江浙交工程咨询有限公司]\n类别：市政养护\n公告阶段：招标公告\n地区：金华 永康市\n采购人：永康市公路与运输管理中心\n预算：360,000 元\n正文提取截止时间：2026/12/9 09:30:00（以最新官方公告为准）\n来源：浙江政府采购网\nhttps://zfcg.czt.zj.gov.cn/site/detail?parentId=600007&articleId=A4Is7J%2FGxCvnlmaVHFQkew%3D%3D\n\n新发现公告：遂昌县黄沙腰镇人民政府2026年11月至12月政府采购意向\n类别：环卫保洁\n公告阶段：采购意向\n地区：丽水 遂昌县\n采购人：遂昌县黄沙腰镇人民政府\n预算：660,000 元\n来源：浙江政府采购网\nhttps://zfcg.czt.zj.gov.cn/site/detail?parentId=600007&articleId=kmQWFGdtbmwHQTmdn16n2Q%3D%3D\n\n新发现公告：关于上城笕桥周边区块市政设施长效养护服务项目的公开招标公告[浙江科佳工程咨询有限公司]\n类别：市政养护\n公告阶段：招标公告\n地区：杭州 上城区\n采购人：杭州市上城区综合行政执法局\n预算：16,225,076.95 元\n正文提取截止时间：2026/12/7 09:00:00（以最新官方公告为准）\n来源：浙江政府采购网\nhttps://zfcg.czt.zj.gov.cn/site/detail?parentId=600007&articleId=TOBgeQDRokuRR68McxyCBA%3D%3D\n\n新发现公告：关于上城区丁桥周边区块市政设施长效养护服务项目的公开招标公告[浙江科佳工程咨询有限公司]\n类别：市政养护\n公告阶段：招标公告\n地区：杭州 上城区\n采购人：杭州市上城区综合行政执法局\n预算：16,699,875.78 元\n正文提取截止时间：2026/12/7 14:00:00（以最新官方公告为准）\n来源：浙江政府采购网\nhttps://zfcg.czt.zj.gov.cn/site/detail?parentId=600007&articleId=Pyu2XhVbADXRLTmeqeqe3w%3D%3D\n\n新发现公告：关于东阳市佐村镇农村公路保洁养护项目（第二次）中标(成交)结果公告[金华市海晟建设管理有限公司]\n类别：市政养护、环卫保洁\n公告阶段：采购结果\n地区：金华 浙江省金华市东阳市\n采购人：东阳市佐村镇人民政府\n预算：未明确\n来源：浙江政府采购网\nhttps://zfcg.czt.zj.gov.cn/site/detail?parentId=600007&articleId=tKg1bgGmPj6qAp54dqgFIw%3D%3D\n\n新发现公告：关于郭巨街道华峙洋涨村安置地块生活污水处理设备运维项目的公开招标公告[宁波秉欣工程项目管理有限公司]\n类别：排水管网养护\n公告阶段：招标公告\n地区：宁波 浙江省宁波市北仑区\n采购人：宁波市北仑区人民政府郭巨街道办事处\n预算：218,000 元\n正文提取截止时间：2026/12/7 09:00:00（以最新官方公告为准）\n来源：浙江政府采购网\nhttps://zfcg.czt.zj.gov.cn/site/detail?parentId=600007&articleId=4aAm%2BVk8PWA6AqIyZW9UtQ%3D%3D\n\n新发现公告：温岭市道路交通安全设施灾后维修工程项目废标公告\n类别：市政养护\n公告阶段：废标公告\n地区：台州 浙江省台州市温岭市\n采购人：温岭市公安局交通管理大队\n预算：9,660,975 元\n来源：浙江政府采购网\nhttps://zfcg.czt.zj.gov.cn/site/detail?parentId=600007&articleId=7%2BD5f4o3VZprNDDA9KDTeQ%3D%3D\n\n新发现公告：宁波市北仑区人民政府梅山街道办事处2026年11月至12月政府采购意向\n类别：市政养护\n公告阶段：采购意向\n地区：宁波 北仑区\n采购人：宁波市北仑区人民政府梅山街道办事处\n预算：700,000 元\n来源：浙江政府采购网\nhttps://zfcg.czt.zj.gov.cn/site/detail?parentId=600007&articleId=LLwT6nXuXEVO%2Fv8dB5omcw%3D%3D\n\n新发现公告：泰顺县罗阳镇人民政府2026年11月政府采购意向\n类别：管网检测修复\n公告阶段：采购意向\n地区：温州 泰顺县\n采购人：泰顺县罗阳镇人民政府\n预算：900,000 元\n来源：浙江政府采购网\nhttps://zfcg.czt.zj.gov.cn/site/detail?parentId=600007&articleId=LdczzxK%2FM2WsIQ1FEA1l%2FQ%3D%3D\n\n新发现公告：杭州市钱塘区人民政府前进街道办事处2026年11月至12月政府采购意向\n类别：环卫保洁\n公告阶段：采购意向\n地区：杭州 钱塘区\n采购人：杭州市钱塘区人民政府前进街道办事处\n预算：1,250,000 元\n来源：浙江政府采购网\nhttps://zfcg.czt.zj.gov.cn/site/detail?parentId=600007&articleId=LBKOQaXwgG%2FyN1P9xXgJqg%3D%3D\n\n新发现公告：开化县村头镇人民政府2026年11月政府采购意向\n类别：市政养护\n公告阶段：采购意向\n地区：衢州 开化县\n采购人：开化县村头镇人民政府\n预算：3,334,195 元\n来源：浙江政府采购网\nhttps://zfcg.czt.zj.gov.cn/site/detail?parentId=600007&articleId=%2FKEhfoWWATylePswefub9A%3D%3D\n\n新发现公告：2026年新改建排水管网CCTV检测项目（非政府采购）终止公告\n类别：管网检测修复\n公告阶段：更正公告\n地区：丽水 龙泉市\n采购人：龙泉市住房和城乡建设局\n预算：未明确\n来源：浙江政府采购网\nhttps://zfcg.czt.zj.gov.cn/site/detail?parentId=600007&articleId=JpIriDpVivUx0waPd1usew%3D%3D\n\n新发现公告：关于2027-2028年度市政道路养护项目的公开招标公告[浙江中诚工程管理科技有限公司]\n类别：市政养护\n公告阶段：招标公告\n地区：舟山 普陀区\n采购人：舟山市普陀区市政管理处\n预算：9,600,000 元\n正文提取截止时间：2026/12/9 10:00:00（以最新官方公告为准）\n来源：浙江政府采购网\nhttps://zfcg.czt.zj.gov.cn/site/detail?parentId=600007&articleId=3lmYu%2FTBsQCJyGQic4cfiQ%3D%3D\n\n新发现公告：开化县林山乡人民政府2026年11月至12月政府采购意向\n类别：市政养护\n公告阶段：采购意向\n地区：衢州 开化县\n采购人：开化县林山乡人民政府\n预算：3,171,862 元\n来源：浙江政府采购网\nhttps://zfcg.czt.zj.gov.cn/site/detail?parentId=600007&articleId=CANI6%2FLJ%2BylAZoKFN6BEpw%3D%3D\n\n新发现公告：关于江南镇路灯维修维护项目的公开招标公告[浙江禾城工程管理有限责任公司]\n类别：市政养护\n公告阶段：招标公告\n地区：杭州 桐庐县\n采购人：桐庐县江南镇人民政府\n预算：2,000,000 元\n正文提取截止时间：2026/12/8 09:00:00（以最新官方公告为准）\n来源：浙江政府采购网\nhttps://zfcg.czt.zj.gov.cn/site/detail?parentId=600007&articleId=yPKfEs7gKWZYYkpufTD5mg%3D%3D\n\n新发现公告：关于新昌县羽林街道生活垃圾清运项目的公开招标公告[新昌县同启项目管理有限公司]\n类别：环卫保洁\n公告阶段：招标公告\n地区：绍兴 新昌县\n采购人：新昌县羽林街道办事处\n预算：1,250,000 元\n正文提取截止时间：2026/12/7 09:30:00（以最新官方公告为准）\n来源：浙江政府采购网\nhttps://zfcg.czt.zj.gov.cn/site/detail?parentId=600007&articleId=pLlzq1OTzIPMlg4ws51JXA%3D%3D\n\n新发现公告：关于海宁市2026年县道桥梁维修加固工程的更正公告[嘉兴锦大工程管理咨询有限公司]\n类别：市政养护\n公告阶段：更正公告\n地区：嘉兴 海宁市\n采购人：海宁市公路与运输管理服务中心\n预算：1,540,179 元\n来源：浙江政府采购网\nhttps://zfcg.czt.zj.gov.cn/site/detail?parentId=600007&articleId=c7qahb9FnMj5MHIwN4WGzw%3D%3D\n\n新发现公告：台州市生态环境局路桥分局2026年11月至12月政府采购意向\n类别：水质监测\n公告阶段：采购意向\n地区：台州 路桥区\n采购人：台州市生态环境局路桥分局\n预算：950,000 元\n来源：浙江政府采购网\nhttps://zfcg.czt.zj.gov.cn/site/detail?parentId=600007&articleId=aiSgBBXUo5rCtLuM2CFMkg%3D%3D\n\n新发现公告：关于苍南县2026年金乡镇绿化养护建设采购项目中标(成交)结果公告[中纬工程管理咨询有限公司]\n类别：绿化养护\n公告阶段：采购结果\n地区：温州 浙江省温州市苍南县\n采购人：苍南县金乡镇人民政府\n预算：未明确\n来源：浙江政府采购网\nhttps://zfcg.czt.zj.gov.cn/site/detail?parentId=600007&articleId=l1lLooTZGKdFp5JRgYuiLw%3D%3D\n\n新发现公告：关于千岛街道河道及小微水体保洁项目的更正公告[浙江天隆工程管理有限公司]\n类别：河道养护\n公告阶段：更正公告\n地区：舟山 舟山市\n采购人：舟山市定海区人民政府千岛街道办事处\n预算：2,160,000 元\n来源：浙江政府采购网\nhttps://zfcg.czt.zj.gov.cn/site/detail?parentId=600007&articleId=JDgABo30XekETgwkoz%2BbFw%3D%3D\n\n新发现公告：澥浦大闸、新泓口泵站、新泓口大闸及海塘运维项目中标(成交)结果公告\n类别：排水管网养护、泵站养护\n公告阶段：采购结果\n地区：宁波 浙江省宁波市镇海区\n采购人：宁波市镇海区农业农村局\n预算：未明确\n来源：浙江政府采购网\nhttps://zfcg.czt.zj.gov.cn/site/detail?parentId=600007&articleId=bCtsUnDn8p%2B5uqaJmxBETA%3D%3D\n\n新发现公告：瑞安市环境监测站2026年11月政府采购意向\n类别：水质监测\n公告阶段：采购意向\n地区：温州 瑞安市\n采购人：瑞安市环境监测站\n预算：340,000 元\n来源：浙江政府采购网\nhttps://zfcg.czt.zj.gov.cn/site/detail?parentId=600007&articleId=wPWl%2BLcBmH58uM6wRVFbaw%3D%3D\n\n",
-      "acceptedAt": "2026-11-16T20:34:34.201Z"
+      "content": "浙采雷达 · 2026/11/17 11:15:34\n新发现公告：关于永康市西城街道原城西新区19个行政村农村生活垃圾清运服务和(夏作自然村、东家园自然村、龙湖西苑小区清扫清运)项目的公开招标公告[浙江致远工程管理有限公司]\n类别：环卫保洁\n公告阶段：招标公告\n地区：金华 永康市\n采购人：永康市人民政府西城街道办事处\n预算：1,980,000 元\n正文提取截止时间：2026/12/9 09:00:00（以最新官方公告为准）\n来源：浙江政府采购网\nhttps://zfcg.czt.zj.gov.cn/site/detail?parentId=600007&articleId=ib6q6iTTxmg8cHtv2UVKfQ%3D%3D\n\n新发现公告：关于2026年永嘉县金溪镇环境卫生清扫保洁外包服务废标公告[温州虹希工程项目管理有限公司]\n类别：环卫保洁\n公告阶段：废标公告\n地区：温州 浙江省温州市永嘉县\n采购人：永嘉县金溪镇人民政府\n预算：899,300 元\n来源：浙江政府采购网\nhttps://zfcg.czt.zj.gov.cn/site/detail?parentId=600007&articleId=XIMhzHNrvpBDFJyRTXbkrg%3D%3D\n\n新发现公告：关于温岭市滨海镇2026-2028年污水管网日常养护疏通及泵站维护服务采购项目的公开招标公告[台州铭诚工程咨询有限公司]\n类别：排水管网养护、泵站养护\n公告阶段：招标公告\n地区：台州 温岭市\n采购人：温岭市滨海镇人民政府\n预算：1,500,000 元\n正文提取截止时间：2026/12/8 14:00:00（以最新官方公告为准）\n来源：浙江政府采购网\nhttps://zfcg.czt.zj.gov.cn/site/detail?parentId=600007&articleId=jr3E4eauzvhgxfdHHtzuhw%3D%3D\n\n新发现公告：关于2026―2027年柯城区城区绿化一体化养护服务项目中标(成交)结果公告[浙江卓宏建设项目管理有限公司]\n类别：绿化养护\n公告阶段：采购结果\n地区：衢州 浙江省衢州市柯城区\n采购人：衢州市柯城区住房和城乡建设局\n预算：未明确\n来源：浙江政府采购网\nhttps://zfcg.czt.zj.gov.cn/site/detail?parentId=600007&articleId=7GkH7X7pBjbmQbtCBYfafw%3D%3D\n\n"
     }
   ],
   "previous": {
     "records": [
+      {
+        "id": "ib6q6iTTxmg8cHtv2UVKfQ==",
+        "source": "zj",
+        "title": "关于永康市西城街道原城西新区19个行政村农村生活垃圾清运服务和(夏作自然村、东家园自然村、龙湖西苑小区清扫清运)项目的公开招标公告[浙江致远工程管理有限公司]",
+        "project": "永康市西城街道原城西新区19个行政村农村生活垃圾清运服务和(夏作自然村、东家园自然村、龙湖西苑小区清扫清运)项目",
+        "type": "招标公告",
+        "tags": [
+          "环卫保洁"
+        ],
+        "published": 1794883539000,
+        "deadline": 1796778000000,
+        "projectCode": "330784261810010000013-ZYCG-2026035",
+        "categoryCode": "110-684034"
+      },
+      {
+        "id": "jr3E4eauzvhgxfdHHtzuhw==",
+        "source": "zj",
+        "title": "关于温岭市滨海镇2026-2028年污水管网日常养护疏通及泵站维护服务采购项目的公开招标公告[台州铭诚工程咨询有限公司]",
+        "project": "温岭市滨海镇2026-2028年污水管网日常养护疏通及泵站维护服务采购项目",
+        "type": "招标公告",
+        "tags": [
+          "排水管网养护",
+          "泵站养护"
+        ],
+        "published": 1794876965000,
+        "deadline": 1796709600000,
+        "projectCode": "331081262800010000016-TZMCCG-2026-107",
+        "categoryCode": "110-684034"
+      },
       {
         "id": "gLPIcnXYhqHJqpeQXQtkxw==",
         "source": "zj",
@@ -2847,20 +2887,6 @@
         "categoryCode": "110-684034"
       },
       {
-        "id": "YfVrkwlGEsXWb7/zGkuReQ==",
-        "source": "zj",
-        "title": "关于惠民街道石牌泾港桥及接坡道路维修改造工程的竞争性磋商公告[浙江省工程咨询有限公司]",
-        "project": "惠民街道石牌泾港桥及接坡道路维修改造工程",
-        "type": "非招标公告",
-        "tags": [
-          "市政养护"
-        ],
-        "published": 1793948836000,
-        "deadline": 1794879000000,
-        "projectCode": "330421267030010000035",
-        "categoryCode": "110-511933"
-      },
-      {
         "id": "zGNvSSyAWphJ/bIrrQP9nw==",
         "source": "zj",
         "title": "关于2026年-2028年盈丰街道建成区道路路灯及景观灯养护项目的公开招标公告[浙江华夏工程管理有限公司]",
@@ -3390,34 +3416,6 @@
         "categoryCode": "110-684034"
       },
       {
-        "id": "PDKFjPyf2o0X19m3mZpOQw==",
-        "source": "zj",
-        "title": "关于迪荡街道辖区水域河道保洁服务（2026-2029）采购项目的公开招标公告[绍兴市国控工程咨询有限公司]",
-        "project": "迪荡街道辖区水域河道保洁服务（2026-2029）采购项目",
-        "type": "招标公告",
-        "tags": [
-          "河道养护"
-        ],
-        "published": 1793102026000,
-        "deadline": 1794879000000,
-        "projectCode": "330602266610010000041-SXKY-2026-024",
-        "categoryCode": "110-684034"
-      },
-      {
-        "id": "IRxJJy3CC/BP6dLsu4pIxA==",
-        "source": "zj",
-        "title": "关于越城区水质自动监测站运维项目的公开招标公告[绍兴市建新造价咨询事务所有限公司]",
-        "project": "越城区水质自动监测站运维项目",
-        "type": "招标公告",
-        "tags": [
-          "水质监测"
-        ],
-        "published": 1793096043000,
-        "deadline": 1794877200000,
-        "projectCode": "330602261240010000012-JXCG2026025",
-        "categoryCode": "110-684034"
-      },
-      {
         "id": "SPfNJfHmgdIFdjQ4pxQqHA==",
         "source": "zj",
         "title": "关于2027-2028年度缙云县城区公共绿地养护服务采购项目的公开招标公告[浙江鼎峰工程咨询有限公司]",
@@ -3429,34 +3427,6 @@
         "published": 1793093724000,
         "deadline": 1794963600000,
         "projectCode": "331122263140010000027-JY分散公开2026-33",
-        "categoryCode": "110-684034"
-      },
-      {
-        "id": "o5i5y9oF7OrzuiT5Iy8jXA==",
-        "source": "zj",
-        "title": "关于天台县2026年度始丰、赤城、福溪三区块绿化养护服务项目的公开招标公告[浙江祥泽招标代理有限公司]",
-        "project": "天台县2026年度始丰、赤城、福溪三区块绿化养护服务项目",
-        "type": "招标公告",
-        "tags": [
-          "绿化养护"
-        ],
-        "published": 1793089706000,
-        "deadline": 1794877200000,
-        "projectCode": "331023265080010000012-xzcg-2026-051(招)",
-        "categoryCode": "110-684034"
-      },
-      {
-        "id": "poIzpG+Qg3FGzVJT3ePXAQ==",
-        "source": "zj",
-        "title": "关于湖州市第四中学教育集团校园卫生保洁、绿化养护服务采购项目的公开招标公告[湖州市公共资源交易中心]",
-        "project": "湖州市第四中学教育集团校园卫生保洁、绿化养护服务采购项目",
-        "type": "招标公告",
-        "tags": [
-          "绿化养护"
-        ],
-        "published": 1793089132000,
-        "deadline": 1794877200000,
-        "projectCode": "330502262160020000027-HZGZ2026-45",
         "categoryCode": "110-684034"
       },
       {
@@ -3474,20 +3444,6 @@
         "categoryCode": "110-684034"
       },
       {
-        "id": "mzkZhYpwXsvdBH8LyH3hww==",
-        "source": "zj",
-        "title": "关于2026-2029年兴宁路道路保洁项目的公开招标公告[中冠工程管理咨询有限公司]",
-        "project": "2026-2029年兴宁路道路保洁项目",
-        "type": "招标公告",
-        "tags": [
-          "环卫保洁"
-        ],
-        "published": 1793085294000,
-        "deadline": 1794877200000,
-        "projectCode": "ZGZB2026-466",
-        "categoryCode": "110-684034"
-      },
-      {
         "id": "PtdMkwSk6v/aorbRALwUYg==",
         "source": "zj",
         "title": "关于柯城区白云街道2026-2027年度农村环境卫生保洁整治项目的公开招标公告[温州市伟业造价师事务所（普通合伙）]",
@@ -3499,20 +3455,6 @@
         "published": 1793081336000,
         "deadline": 1794983400000,
         "projectCode": "330802268070010000027-WZWY-QZZG2026033",
-        "categoryCode": "110-684034"
-      },
-      {
-        "id": "WCluTbkyiq2kkL9L3QVhEg==",
-        "source": "zj",
-        "title": "关于2027-2028年度校园垃圾清运服务公开招标公告[华诚工程咨询集团有限公司]",
-        "project": "2027-2028年度校园垃圾清运服务",
-        "type": "招标公告",
-        "tags": [
-          "环卫保洁"
-        ],
-        "published": 1793008758000,
-        "deadline": 1794879000000,
-        "projectCode": "330000263030250000320-HCZX-ZC-[2026]1468",
         "categoryCode": "110-684034"
       },
       {
@@ -3559,20 +3501,6 @@
         "categoryCode": "110-684034"
       },
       {
-        "id": "aMT8oZjyw4f/XPJe759bXA==",
-        "source": "zj",
-        "title": "关于拱墅区综合行政执法局2027年环城北路等21条道路保洁项目的公开招标公告[欧邦工程管理集团有限公司]",
-        "project": "拱墅区综合行政执法局2027年环城北路等21条道路保洁项目",
-        "type": "招标公告",
-        "tags": [
-          "环卫保洁"
-        ],
-        "published": 1792998144000,
-        "deadline": 1794879000000,
-        "projectCode": "330105263220010000067",
-        "categoryCode": "110-684034"
-      },
-      {
         "id": "KyFgqMjI7x48G9xIrckfpQ==",
         "source": "zj",
         "title": "关于拱墅区综合行政执法局2027年河东路等27条道路保洁项目的公开招标公告[欧邦工程管理集团有限公司]",
@@ -3589,43 +3517,43 @@
     ]
   },
   "lastCheck": {
-    "at": "2026-11-16T20:34:29.991Z",
+    "at": "2026-11-17T03:15:34.408Z",
     "coverage": [
       {
         "source": "zj",
         "code": "110-600268",
         "complete": true,
-        "scanned": 1678
+        "scanned": 1720
       },
       {
         "source": "zj",
         "code": "110-684034",
         "complete": true,
-        "scanned": 1620
+        "scanned": 1639
       },
       {
         "source": "zj",
         "code": "110-511933",
         "complete": true,
-        "scanned": 545
+        "scanned": 549
       },
       {
         "source": "zj",
         "code": "110-912804",
         "complete": true,
-        "scanned": 505
+        "scanned": 518
       },
       {
         "source": "zj",
         "code": "110-631167",
         "complete": true,
-        "scanned": 283
+        "scanned": 297
       },
       {
         "source": "zj",
         "code": "110-188043",
         "complete": true,
-        "scanned": 2121
+        "scanned": 2177
       },
       {
         "source": "nb",
