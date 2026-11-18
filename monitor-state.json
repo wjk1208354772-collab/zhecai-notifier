@@ -2110,9 +2110,10 @@
   "outbox": [
     {
       "id": "62018c43627a9287d706ebef8c9da398001dadb3185c947ae85416eef818d73d",
-      "status": "dispatching",
+      "status": "accepted",
       "summary": "浙采雷达项目更新",
-      "content": "浙采雷达 · 2026/11/18 10:58:34\n新发现公告：衢州市园林绿化管理服务中心2026年11月至12月政府采购意向\n类别：绿化养护\n公告阶段：采购意向\n地区：衢州 衢州市\n采购人：衢州市园林绿化管理服务中心\n预算：2,830,000 元\n来源：浙江政府采购网\nhttps://zfcg.czt.zj.gov.cn/site/detail?parentId=600007&articleId=1OMvgcRs%2BzO3jW%2BVtcVuUw%3D%3D\n\n新发现公告：关于2026年东林镇路灯应急养护项目废标公告[湖州昕晖工程造价咨询有限公司]\n类别：市政养护\n公告阶段：废标公告\n地区：湖州 浙江省湖州市吴兴区\n采购人：湖州市吴兴区东林镇人民政府\n预算：500,000 元\n来源：浙江政府采购网\nhttps://zfcg.czt.zj.gov.cn/site/detail?parentId=600007&articleId=zrHzvtCdmH8rWTDErf8IIw%3D%3D\n\n新发现公告：浙江大学医学院附属第一医院全院花卉租摆及室外绿化养护公开招标公告\n类别：绿化养护\n公告阶段：招标公告\n地区：省本级/其他 浙江\n采购人：浙江大学医学院附属第一医院\n预算：2,457,000 元\n正文提取截止时间：2026/12/9 14:00:00（以最新官方公告为准）\n来源：浙江政府采购网\nhttps://zfcg.czt.zj.gov.cn/site/detail?parentId=600007&articleId=AKoBYJ3AZogFcP5uKBk2ww%3D%3D\n\n"
+      "content": "浙采雷达 · 2026/11/18 10:58:34\n新发现公告：衢州市园林绿化管理服务中心2026年11月至12月政府采购意向\n类别：绿化养护\n公告阶段：采购意向\n地区：衢州 衢州市\n采购人：衢州市园林绿化管理服务中心\n预算：2,830,000 元\n来源：浙江政府采购网\nhttps://zfcg.czt.zj.gov.cn/site/detail?parentId=600007&articleId=1OMvgcRs%2BzO3jW%2BVtcVuUw%3D%3D\n\n新发现公告：关于2026年东林镇路灯应急养护项目废标公告[湖州昕晖工程造价咨询有限公司]\n类别：市政养护\n公告阶段：废标公告\n地区：湖州 浙江省湖州市吴兴区\n采购人：湖州市吴兴区东林镇人民政府\n预算：500,000 元\n来源：浙江政府采购网\nhttps://zfcg.czt.zj.gov.cn/site/detail?parentId=600007&articleId=zrHzvtCdmH8rWTDErf8IIw%3D%3D\n\n新发现公告：浙江大学医学院附属第一医院全院花卉租摆及室外绿化养护公开招标公告\n类别：绿化养护\n公告阶段：招标公告\n地区：省本级/其他 浙江\n采购人：浙江大学医学院附属第一医院\n预算：2,457,000 元\n正文提取截止时间：2026/12/9 14:00:00（以最新官方公告为准）\n来源：浙江政府采购网\nhttps://zfcg.czt.zj.gov.cn/site/detail?parentId=600007&articleId=AKoBYJ3AZogFcP5uKBk2ww%3D%3D\n\n",
+      "acceptedAt": "2026-11-18T02:58:39.526Z"
     }
   ],
   "previous": {
