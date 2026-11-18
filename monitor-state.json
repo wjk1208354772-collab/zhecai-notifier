@@ -2083,6 +2083,15 @@
     },
     "zj:Uxj1AmM8rv9oNN92pd6pjw==": {
       "fingerprint": "e28d2da68030651934fa22c3527ccbbb16e80f0f5af1216bee987573cf0eca56"
+    },
+    "zj:1OMvgcRs+zO3jW+VtcVuUw==": {
+      "fingerprint": "b6f9ec7ca6d074da16f9a532da1b0a1d9e92d4dc7f43b9118bcb49140a370f6f"
+    },
+    "zj:zrHzvtCdmH8rWTDErf8IIw==": {
+      "fingerprint": "3d230bd6d4aadafd4940ad5f77db39e75dcbbcff8adf4c0057106a768a02be0f"
+    },
+    "zj:AKoBYJ3AZogFcP5uKBk2ww==": {
+      "fingerprint": "21cb4476ac2f08b4ae64cf6e5385eb32a6bc727d9d8233980bbdaf2ce3ca257b"
     }
   },
   "reminders": {
@@ -2098,9 +2107,30 @@
     "health:zj:2026-11-16": true,
     "nb:nb:60214976-9488-4919-ad14-afeed071e32b:deadline:1795154400000": true
   },
-  "outbox": [],
+  "outbox": [
+    {
+      "id": "62018c43627a9287d706ebef8c9da398001dadb3185c947ae85416eef818d73d",
+      "status": "pending",
+      "summary": "浙采雷达项目更新",
+      "content": "浙采雷达 · 2026/11/18 10:58:34\n新发现公告：衢州市园林绿化管理服务中心2026年11月至12月政府采购意向\n类别：绿化养护\n公告阶段：采购意向\n地区：衢州 衢州市\n采购人：衢州市园林绿化管理服务中心\n预算：2,830,000 元\n来源：浙江政府采购网\nhttps://zfcg.czt.zj.gov.cn/site/detail?parentId=600007&articleId=1OMvgcRs%2BzO3jW%2BVtcVuUw%3D%3D\n\n新发现公告：关于2026年东林镇路灯应急养护项目废标公告[湖州昕晖工程造价咨询有限公司]\n类别：市政养护\n公告阶段：废标公告\n地区：湖州 浙江省湖州市吴兴区\n采购人：湖州市吴兴区东林镇人民政府\n预算：500,000 元\n来源：浙江政府采购网\nhttps://zfcg.czt.zj.gov.cn/site/detail?parentId=600007&articleId=zrHzvtCdmH8rWTDErf8IIw%3D%3D\n\n新发现公告：浙江大学医学院附属第一医院全院花卉租摆及室外绿化养护公开招标公告\n类别：绿化养护\n公告阶段：招标公告\n地区：省本级/其他 浙江\n采购人：浙江大学医学院附属第一医院\n预算：2,457,000 元\n正文提取截止时间：2026/12/9 14:00:00（以最新官方公告为准）\n来源：浙江政府采购网\nhttps://zfcg.czt.zj.gov.cn/site/detail?parentId=600007&articleId=AKoBYJ3AZogFcP5uKBk2ww%3D%3D\n\n"
+    }
+  ],
   "previous": {
     "records": [
+      {
+        "id": "AKoBYJ3AZogFcP5uKBk2ww==",
+        "source": "zj",
+        "title": "浙江大学医学院附属第一医院全院花卉租摆及室外绿化养护公开招标公告",
+        "project": "浙江大学医学院附属第一医院全院花卉租摆及室外绿化养护",
+        "type": "招标公告",
+        "tags": [
+          "绿化养护"
+        ],
+        "published": 1794961912000,
+        "deadline": 1796796000000,
+        "projectCode": "330000263210150000732-0625-26217J36",
+        "categoryCode": "110-684034"
+      },
       {
         "id": "jk8eJdZLkf5Ii4daV6PNnQ==",
         "source": "zj",
@@ -3263,20 +3293,6 @@
         "categoryCode": "110-684034"
       },
       {
-        "id": "4rnUlfNXnnlU9FDxqCvXhQ==",
-        "source": "zj",
-        "title": "关于2026年东林镇路灯应急养护项目的竞争性磋商公告[湖州昕晖工程造价咨询有限公司]",
-        "project": "2026年东林镇路灯应急养护项目",
-        "type": "非招标公告",
-        "tags": [
-          "市政养护"
-        ],
-        "published": 1793606524000,
-        "deadline": 1794963600000,
-        "projectCode": "330502262960050000072-2026XH006",
-        "categoryCode": "110-511933"
-      },
-      {
         "id": "nb:7921944a-a67a-4860-b3aa-6824d9ff6c97",
         "source": "nb",
         "title": "宁波文化广场2027年度、2028年度绿化养护项目采购公告",
@@ -3450,20 +3466,6 @@
         "categoryCode": "110-684034"
       },
       {
-        "id": "P3zZz4AQowms+A0gsLtcBg==",
-        "source": "zj",
-        "title": "关于余杭街道开放式小区雨污管网、市政道路污水管网支管长效运维服务采购项目的公开招标公告[杭州泓策科技咨询有限公司]",
-        "project": "余杭街道开放式小区雨污管网、市政道路污水管网支管长效运维服务采购项目",
-        "type": "招标公告",
-        "tags": [
-          "排水管网养护"
-        ],
-        "published": 1793244848000,
-        "deadline": 1794965400000,
-        "projectCode": "330110265100110000099-HCZFCG2026-005",
-        "categoryCode": "110-684034"
-      },
-      {
         "id": "b9DiLno2V69qXXP5ymkP3Q==",
         "source": "zj",
         "title": "关于衢江区城区地下管网有机更新工程-主城区雨水管道修复工程（标段二）的公开招标公告[浙江建友工程咨询有限公司]",
@@ -3475,48 +3477,6 @@
         "published": 1793239659000,
         "deadline": 1795051800000,
         "projectCode": "330803267160010000045-ZJJYQZ2026027",
-        "categoryCode": "110-684034"
-      },
-      {
-        "id": "/sghJCQGnUhhJFp8Po4Awg==",
-        "source": "zj",
-        "title": "关于2026年兰溪市兰江街道农村垃圾集中清运服务项目的公开招标公告[浙江中兰工程项目管理有限公司]",
-        "project": "2026年兰溪市兰江街道农村垃圾集中清运服务项目",
-        "type": "招标公告",
-        "tags": [
-          "环卫保洁"
-        ],
-        "published": 1793185315000,
-        "deadline": 1794967200000,
-        "projectCode": "330781260010000000011-ZJZLZC2026095",
-        "categoryCode": "110-684034"
-      },
-      {
-        "id": "jHyRe/fSsf2PSeYjAwCQNQ==",
-        "source": "zj",
-        "title": "浙江省公路与运输管理中心2026年普通国道公路养护工程竣工决算审计服务项目公开招标公告",
-        "project": "浙江省公路与运输管理中心2026年普通国道公路养护工程竣工决算审计服务项目",
-        "type": "招标公告",
-        "tags": [
-          "市政养护"
-        ],
-        "published": 1793179063000,
-        "deadline": 1794963600000,
-        "projectCode": "330000263150070000110-ZZCG2026X-GK-176",
-        "categoryCode": "110-684034"
-      },
-      {
-        "id": "XPV/0mlwr7SMCehl/M5Mlw==",
-        "source": "zj",
-        "title": "关于衢江区城区地下管网有机更新工程-主城区雨水管道修复工程（标段一）的公开招标公告[浙江建友工程咨询有限公司]",
-        "project": "衢江区城区地下管网有机更新工程-主城区雨水管道修复工程（标段一）",
-        "type": "招标公告",
-        "tags": [
-          "管网检测修复"
-        ],
-        "published": 1793178154000,
-        "deadline": 1794965400000,
-        "projectCode": "330803267160010000044-ZJJYQZ2026023",
         "categoryCode": "110-684034"
       },
       {
@@ -3534,21 +3494,6 @@
         "categoryCode": "110-684034"
       },
       {
-        "id": "1mhyd+QZI1m+yVyLu+WgbA==",
-        "source": "zj",
-        "title": "关于2026-2029年衢江区农村生活污水处理设施运行维护服务项目的公开招标公告[浙江信达工程咨询有限公司]",
-        "project": "2026-2029年衢江区农村生活污水处理设施运行维护服务项目",
-        "type": "招标公告",
-        "tags": [
-          "排水管网养护",
-          "农村生活污水运维"
-        ],
-        "published": 1793170664000,
-        "deadline": 1794965400000,
-        "projectCode": "330803267160010000043-ZJXD（Q）2026031",
-        "categoryCode": "110-684034"
-      },
-      {
         "id": "VYCRjEFLG094BjFNKNN/nA==",
         "source": "zj",
         "title": "关于瓜沥镇杭甬高速公路瓜沥段、坎山段两侧绿化带养护项目的公开招标公告[浙江华耀建设咨询有限公司]",
@@ -3560,34 +3505,6 @@
         "published": 1793168373000,
         "deadline": 1795051800000,
         "projectCode": "330109269170010000044-GZCG2026GKDL-40",
-        "categoryCode": "110-684034"
-      },
-      {
-        "id": "VIluX200igcJw3RrRsiHAw==",
-        "source": "zj",
-        "title": "关于2026-2027年度柯城区乡镇水质自动监测站运维服务项目的公开招标公告",
-        "project": "2026-2027年度柯城区乡镇水质自动监测站运维服务项目",
-        "type": "招标公告",
-        "tags": [
-          "水质监测"
-        ],
-        "published": 1793156794000,
-        "deadline": 1794965400000,
-        "projectCode": "330802262870010000010-ZJZH20260907",
-        "categoryCode": "110-684034"
-      },
-      {
-        "id": "SPfNJfHmgdIFdjQ4pxQqHA==",
-        "source": "zj",
-        "title": "关于2027-2028年度缙云县城区公共绿地养护服务采购项目的公开招标公告[浙江鼎峰工程咨询有限公司]",
-        "project": "2027-2028年度缙云县城区公共绿地养护服务采购项目",
-        "type": "招标公告",
-        "tags": [
-          "绿化养护"
-        ],
-        "published": 1793093724000,
-        "deadline": 1794963600000,
-        "projectCode": "331122263140010000027-JY分散公开2026-33",
         "categoryCode": "110-684034"
       },
       {
@@ -3605,20 +3522,6 @@
         "categoryCode": "110-684034"
       },
       {
-        "id": "qO+aH7xqdzEUelhQ4OBklA==",
-        "source": "zj",
-        "title": "关于拱墅区综合行政执法局2027年杭玻路等17条道路保洁项目的公开招标公告[五洲工程顾问集团有限公司]",
-        "project": "拱墅区综合行政执法局2027年杭玻路等17条道路保洁项目",
-        "type": "招标公告",
-        "tags": [
-          "环卫保洁"
-        ],
-        "published": 1793002098000,
-        "deadline": 1794965400000,
-        "projectCode": "330105263220010000066",
-        "categoryCode": "110-684034"
-      },
-      {
         "id": "UBylz8EWhBEKPfyggSEqLA==",
         "source": "zj",
         "title": "关于拱墅区综合行政执法局2027年登云路等17条道路保洁项目的公开招标公告[五洲工程顾问集团有限公司]",
@@ -3630,21 +3533,6 @@
         "published": 1793002073000,
         "deadline": 1795138200000,
         "projectCode": "330105263220010000065",
-        "categoryCode": "110-684034"
-      },
-      {
-        "id": "pHTeSpjc24EENyOsxkrviw==",
-        "source": "zj",
-        "title": "关于镇海区生态林带及主要河道绿化养护服务项目（2027—2029年）的公开招标公告[宁波市镇海国泰工程建设投资管理咨询有限公司]",
-        "project": "镇海区生态林带及主要河道绿化养护服务项目（2027—2029年）",
-        "type": "招标公告",
-        "tags": [
-          "河道养护",
-          "绿化养护"
-        ],
-        "published": 1792999697000,
-        "deadline": 1794963600000,
-        "projectCode": "GTCG2026068",
         "categoryCode": "110-684034"
       },
       {
@@ -3664,43 +3552,43 @@
     ]
   },
   "lastCheck": {
-    "at": "2026-11-17T21:03:54.649Z",
+    "at": "2026-11-18T02:58:34.359Z",
     "coverage": [
       {
         "source": "zj",
         "code": "110-600268",
         "complete": true,
-        "scanned": 1630
+        "scanned": 1673
       },
       {
         "source": "zj",
         "code": "110-684034",
         "complete": true,
-        "scanned": 1629
+        "scanned": 1643
       },
       {
         "source": "zj",
         "code": "110-511933",
         "complete": true,
-        "scanned": 541
+        "scanned": 547
       },
       {
         "source": "zj",
         "code": "110-912804",
         "complete": true,
-        "scanned": 512
+        "scanned": 517
       },
       {
         "source": "zj",
         "code": "110-631167",
         "complete": true,
-        "scanned": 310
+        "scanned": 316
       },
       {
         "source": "zj",
         "code": "110-188043",
         "complete": true,
-        "scanned": 2203
+        "scanned": 2240
       },
       {
         "source": "nb",
@@ -3724,7 +3612,7 @@
         "source": "nb",
         "code": "20",
         "complete": true,
-        "scanned": 2
+        "scanned": 3
       },
       {
         "source": "nb",
