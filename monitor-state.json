@@ -2182,9 +2182,10 @@
   "outbox": [
     {
       "id": "b4da00e7cfaaae11b3261d44afd551146e930c6bd80d1e83d4f8055d86618452",
-      "status": "dispatching",
+      "status": "accepted",
       "summary": "浙采雷达项目更新",
-      "content": "浙采雷达 · 2026/11/19 04:41:24\n新发现公告：关于杭州市生态环境局建德分局2026-2028年建德市农村生活污水处理设施及水环境检测采购项目的终止公告[杭州市生态环境局建德分局]\n类别：水质监测\n公告阶段：更正公告\n地区：杭州 浙江省杭州市建德市\n采购人：杭州市生态环境局建德分局\n预算：4,500,000 元\n来源：浙江政府采购网\nhttps://zfcg.czt.zj.gov.cn/site/detail?parentId=600007&articleId=Rmz0LUvhhpwoniXH8ed06w%3D%3D\n\n"
+      "content": "浙采雷达 · 2026/11/19 04:41:24\n新发现公告：关于杭州市生态环境局建德分局2026-2028年建德市农村生活污水处理设施及水环境检测采购项目的终止公告[杭州市生态环境局建德分局]\n类别：水质监测\n公告阶段：更正公告\n地区：杭州 浙江省杭州市建德市\n采购人：杭州市生态环境局建德分局\n预算：4,500,000 元\n来源：浙江政府采购网\nhttps://zfcg.czt.zj.gov.cn/site/detail?parentId=600007&articleId=Rmz0LUvhhpwoniXH8ed06w%3D%3D\n\n",
+      "acceptedAt": "2026-11-18T20:41:27.970Z"
     }
   ],
   "previous": {
