@@ -2161,6 +2161,9 @@
     },
     "nb:nb:fbad82ae-0f6d-4d5d-bc86-281c33e53eae": {
       "fingerprint": "537fdc34df443f99aa7fbd436909b54a09988d3ff5ccd49de516d38149d94339"
+    },
+    "zj:Rmz0LUvhhpwoniXH8ed06w==": {
+      "fingerprint": "a2ae8650acda7aef9b79da5efabd783b7357a55d595a74fb377cfabbaf81200b"
     }
   },
   "reminders": {
@@ -2178,11 +2181,10 @@
   },
   "outbox": [
     {
-      "id": "601e18d767d913b4a724f05e252178ed7e858bcf3582e7266f0c6614729f55af",
-      "status": "accepted",
+      "id": "b4da00e7cfaaae11b3261d44afd551146e930c6bd80d1e83d4f8055d86618452",
+      "status": "pending",
       "summary": "浙采雷达项目更新",
-      "content": "浙采雷达 · 2026/11/18 19:55:58\n新发现公告：丽水市市政设施管理中心（丽水市节约用水管理中心）2026年11月至12月政府采购意向\n类别：市政养护\n公告阶段：采购意向\n地区：丽水 丽水市\n采购人：丽水市市政设施管理中心（丽水市节约用水管理中心）\n预算：22,000,000 元\n来源：浙江政府采购网\nhttps://zfcg.czt.zj.gov.cn/site/detail?parentId=600007&articleId=RwHtRWY1Qhmt9T3JW6peDw%3D%3D\n\n新发现公告：关于中药材成分筛查与水质、新污染物检测系统的公开招标公告[浙江豪圣建设项目管理有限公司]\n类别：水质监测\n公告阶段：招标公告\n地区：杭州 杭州市\n采购人：杭州师范大学\n预算：1,800,000 元\n正文提取截止时间：2026/12/9 09:00:00（以最新官方公告为准）\n来源：浙江政府采购网\nhttps://zfcg.czt.zj.gov.cn/site/detail?parentId=600007&articleId=Y9n1z4dMofqUW8%2BHys%2FtGw%3D%3D\n\n新发现公告：关于2027-2028年度缙云县城区公共绿地养护服务采购项目中标(成交)结果公告[浙江鼎峰工程咨询有限公司]\n类别：绿化养护\n公告阶段：采购结果\n地区：丽水 浙江省丽水市缙云县\n采购人：缙云县住房和城乡建设局\n预算：未明确\n来源：浙江政府采购网\nhttps://zfcg.czt.zj.gov.cn/site/detail?parentId=600007&articleId=PkJCzFlXdH4KqZqgsjH0CA%3D%3D\n\n新发现公告：关于衢江区城区地下管网有机更新工程-主城区雨水管道修复工程（标段一）中标(成交)结果公告[浙江建友工程咨询有限公司]\n类别：管网检测修复\n公告阶段：采购结果\n地区：衢州 浙江省衢州市衢江区\n采购人：衢州市衢江区住房和城乡建设局\n预算：未明确\n来源：浙江政府采购网\nhttps://zfcg.czt.zj.gov.cn/site/detail?parentId=600007&articleId=d5vyqA5a%2F4e75GvuTodQFQ%3D%3D\n\n新发现公告：关于2026-2027年度柯城区乡镇水质自动监测站运维服务项目废标公告\n类别：水质监测\n公告阶段：废标公告\n地区：衢州 浙江省衢州市柯城区\n采购人：衢州市生态环境局柯城分局\n预算：1,988,000 元\n来源：浙江政府采购网\nhttps://zfcg.czt.zj.gov.cn/site/detail?parentId=600007&articleId=sc7y6GQLE%2BUZO0eB3UafSw%3D%3D\n\n新发现公告：关于2027-2028年河道水体保洁及水生植物养护项目的更正公告[浙江天隆工程管理有限公司]\n类别：河道养护\n公告阶段：更正公告\n地区：舟山 舟山市\n采购人：舟山市新城公用事业管理中心\n预算：3,259,000 元\n来源：浙江政府采购网\nhttps://zfcg.czt.zj.gov.cn/site/detail?parentId=600007&articleId=ygeO3oRdALhkBZd4UKy8og%3D%3D\n\n新发现公告：关于上城区九堡周边区块市政设施长效养护服务项目的公开招标公告[浙江科佳工程咨询有限公司]\n类别：市政养护\n公告阶段：招标公告\n地区：杭州 上城区\n采购人：杭州市上城区综合行政执法局\n预算：12,133,367.37 元\n正文提取截止时间：2026/12/9 14:00:00（以最新官方公告为准）\n来源：浙江政府采购网\nhttps://zfcg.czt.zj.gov.cn/site/detail?parentId=600007&articleId=RgNFbDMCcu3lkYV6%2Bj8Plg%3D%3D\n\n新发现公告：关于上城区望江周边区块市政设施长效养护服务项目的公开招标公告[浙江科佳工程咨询有限公司]\n类别：市政养护\n公告阶段：招标公告\n地区：杭州 上城区\n采购人：杭州市上城区综合行政执法局\n预算：17,099,879.28 元\n正文提取截止时间：2026/12/9 09:00:00（以最新官方公告为准）\n来源：浙江政府采购网\nhttps://zfcg.czt.zj.gov.cn/site/detail?parentId=600007&articleId=PpxH%2BFdcY0ufdd6MNvv3Dg%3D%3D\n\n新发现公告：关于萧山区城厢幼儿园2027年校园安保及绿化养护服务政府采购项目的公开招标公告\n类别：绿化养护\n公告阶段：招标公告\n地区：杭州 萧山区\n采购人：萧山区城厢幼儿园\n预算：735,000 元\n正文提取截止时间：2026/12/10 09:00:00（以最新官方公告为准）\n来源：浙江政府采购网\nhttps://zfcg.czt.zj.gov.cn/site/detail?parentId=600007&articleId=AEtOTyQe%2F%2B%2Bco2yIrmyETw%3D%3D\n\n新发现公告：关于2026年永嘉县金溪镇环境卫生清扫保洁外包服务（第二次）的竞争性磋商公告[温州虹希工程项目管理有限公司]\n类别：环卫保洁\n公告阶段：非招标公告\n地区：温州 永嘉县\n采购人：永嘉县金溪镇人民政府\n预算：899,300 元\n来源：浙江政府采购网\nhttps://zfcg.czt.zj.gov.cn/site/detail?parentId=600007&articleId=oMiTiLWy8V68%2Bu3pGlg7rA%3D%3D\n\n新发现公告：2027-2028年市管道路一体化养护项目的公开招标公告\n类别：市政养护、排水管网养护\n公告阶段：招标公告\n地区：宁波 宁波市\n采购人：宁波市市政设施中心(1),宁波市市容环境卫生指导中心(2),宁波市园林绿化中心(3)\n预算：51,707,612 元\n正文提取截止时间：2026/12/8 09:00:00（以最新官方公告为准）\n来源：浙江政府采购网\nhttps://zfcg.czt.zj.gov.cn/site/detail?parentId=600007&articleId=TNtcxeRJJsUsFCHN9h8HCw%3D%3D\n\n新发现公告：关于天台县2026年度始丰、赤城、福溪三区块绿化养护服务项目中标(成交)结果公告[浙江祥泽招标代理有限公司]\n类别：绿化养护\n公告阶段：采购结果\n地区：台州 浙江省台州市天台县\n采购人：天台县综合行政执法局\n预算：未明确\n来源：浙江政府采购网\nhttps://zfcg.czt.zj.gov.cn/site/detail?parentId=600007&articleId=MJwFRr38aG101xaKcfdhNA%3D%3D\n\n新发现公告：关于义乌市人民政府福田街道诚信社区等社区两定四分点垃圾清运项目的公开招标公告[浙江至诚工程咨询有限责任公司]\n类别：环卫保洁\n公告阶段：招标公告\n地区：金华 义乌市\n采购人：义乌市人民政府福田街道办事处\n预算：1,215,000 元\n正文提取截止时间：2026/12/11 11:30:00（以最新官方公告为准）\n来源：浙江政府采购网\nhttps://zfcg.czt.zj.gov.cn/site/detail?parentId=600007&articleId=ZLuWLqKrCxe00nop7JdNyQ%3D%3D\n\n新发现公告：关于义乌市人民政府福田街道河道保洁项目的公开招标公告[浙江至诚工程咨询有限责任公司]\n类别：河道养护\n公告阶段：招标公告\n地区：金华 义乌市\n采购人：义乌市人民政府福田街道办事处\n预算：1,201,711 元\n正文提取截止时间：2026/12/11 09:30:00（以最新官方公告为准）\n来源：浙江政府采购网\nhttps://zfcg.czt.zj.gov.cn/site/detail?parentId=600007&articleId=EvD1g%2FWAe%2F%2Byt5vs5z5vDg%3D%3D\n\n新发现公告：关于2027年笕桥街道辖区71座公厕保洁服务项目标项二的公开招标公告[浙江省建设工程设备招标有限公司]\n类别：环卫保洁\n公告阶段：招标公告\n地区：杭州 上城区\n采购人：杭州市上城区笕桥街道社区治理服务中心\n预算：1,952,000 元\n正文提取截止时间：2026/12/10 14:00:00（以最新官方公告为准）\n来源：浙江政府采购网\nhttps://zfcg.czt.zj.gov.cn/site/detail?parentId=600007&articleId=YBV6gLuP3apTi13UUSTLoQ%3D%3D\n\n新发现公告：关于义乌市赤岸镇2026年度绿化养护服务采购项目中标(成交)结果公告[浙江至诚工程咨询有限责任公司]\n类别：绿化养护\n公告阶段：采购结果\n地区：金华 浙江省金华市义乌市\n采购人：义乌市赤岸镇人民政府\n预算：未明确\n来源：浙江政府采购网\nhttps://zfcg.czt.zj.gov.cn/site/detail?parentId=600007&articleId=v7kfT9jfFRpg8e5WCVcIjg%3D%3D\n\n新发现公告：关于越城区水质自动监测站运维项目中标(成交)结果公告[绍兴市建新造价咨询事务所有限公司]\n类别：水质监测\n公告阶段：采购结果\n地区：绍兴 浙江省绍兴市越城区\n采购人：绍兴市生态环境局越城分局\n预算：未明确\n来源：浙江政府采购网\nhttps://zfcg.czt.zj.gov.cn/site/detail?parentId=600007&articleId=cgbuaRdZxQxuk%2F5tZUGISA%3D%3D\n\n新发现公告：宁波市海曙区堤防管理所2026年11月至12月政府采购意向\n类别：绿化养护\n公告阶段：采购意向\n地区：宁波 海曙区\n采购人：宁波市海曙区堤防管理所\n预算：5,000,000 元\n来源：浙江政府采购网\nhttps://zfcg.czt.zj.gov.cn/site/detail?parentId=600007&articleId=rC%2FXxaSd9U3MU%2BYFqIIIyQ%3D%3D\n\n新发现公告：关于2027年笕桥街道辖区71座公厕保洁服务项目标项四的公开招标公告[浙江和源项目管理有限公司]\n类别：环卫保洁\n公告阶段：招标公告\n地区：杭州 上城区\n采购人：杭州市上城区笕桥街道社区治理服务中心\n预算：1,960,000 元\n正文提取截止时间：2026/12/10 09:00:00（以最新官方公告为准）\n来源：浙江政府采购网\nhttps://zfcg.czt.zj.gov.cn/site/detail?parentId=600007&articleId=jIy0ForXustbeyV3TWwVJg%3D%3D\n\n新发现公告：关于2027年笕桥街道辖区71座公厕保洁服务项目标项一的公开招标公告[浙江华耀建设咨询有限公司]\n类别：环卫保洁\n公告阶段：招标公告\n地区：杭州 上城区\n采购人：杭州市上城区笕桥街道社区治理服务中心\n预算：1,848,000 元\n正文提取截止时间：2026/12/9 14:00:00（以最新官方公告为准）\n来源：浙江政府采购网\nhttps://zfcg.czt.zj.gov.cn/site/detail?parentId=600007&articleId=95tfj0pc%2F25%2BBOPqWUhrSg%3D%3D\n\n新发现公告：关于2027年笕桥街道辖区71座公厕保洁服务项目标项三的公开招标公告[杭州广厦建筑咨询有限公司]\n类别：环卫保洁\n公告阶段：招标公告\n地区：杭州 上城区\n采购人：杭州市上城区笕桥街道社区治理服务中心\n预算：2,088,000 元\n正文提取截止时间：2026/12/9 09:00:00（以最新官方公告为准）\n来源：浙江政府采购网\nhttps://zfcg.czt.zj.gov.cn/site/detail?parentId=600007&articleId=1oybkL6q1PFyeoxbnIk1kg%3D%3D\n\n新发现公告：安吉县综合行政执法局2026年11月政府采购意向\n类别：市政养护\n公告阶段：采购意向\n地区：湖州 安吉县\n采购人：安吉县综合行政执法局\n预算：800,291 元\n来源：浙江政府采购网\nhttps://zfcg.czt.zj.gov.cn/site/detail?parentId=600007&articleId=JzUM7UM5RoSxw%2BZXuL81wA%3D%3D\n\n新发现公告：宁波市公共交通场站经营有限责任公司2027年度公交首末站公厕保洁服务项目招标公告\n类别：环卫保洁\n公告阶段：采购公告\n地区：宁波 区域未细分\n采购人：名 称\n预算：未明确\n来源：宁波阳光采购服务平台\nhttps://ygcg.nbcqjy.org/detail?bulletinId=fbad82ae-0f6d-4d5d-bc86-281c33e53eae\n\n",
-      "acceptedAt": "2026-11-18T11:56:02.418Z"
+      "content": "浙采雷达 · 2026/11/19 04:41:24\n新发现公告：关于杭州市生态环境局建德分局2026-2028年建德市农村生活污水处理设施及水环境检测采购项目的终止公告[杭州市生态环境局建德分局]\n类别：水质监测\n公告阶段：更正公告\n地区：杭州 浙江省杭州市建德市\n采购人：杭州市生态环境局建德分局\n预算：4,500,000 元\n来源：浙江政府采购网\nhttps://zfcg.czt.zj.gov.cn/site/detail?parentId=600007&articleId=Rmz0LUvhhpwoniXH8ed06w%3D%3D\n\n"
     }
   ],
   "previous": {
@@ -3763,49 +3765,49 @@
     ]
   },
   "lastCheck": {
-    "at": "2026-11-18T11:55:58.209Z",
+    "at": "2026-11-18T20:41:24.288Z",
     "coverage": [
       {
         "source": "zj",
         "code": "110-600268",
         "complete": true,
-        "scanned": 1812
+        "scanned": 1655
       },
       {
         "source": "zj",
         "code": "110-684034",
         "complete": true,
-        "scanned": 1801
+        "scanned": 1619
       },
       {
         "source": "zj",
         "code": "110-511933",
         "complete": true,
-        "scanned": 587
+        "scanned": 533
       },
       {
         "source": "zj",
         "code": "110-912804",
         "complete": true,
-        "scanned": 556
+        "scanned": 501
       },
       {
         "source": "zj",
         "code": "110-631167",
         "complete": true,
-        "scanned": 340
+        "scanned": 312
       },
       {
         "source": "zj",
         "code": "110-188043",
         "complete": true,
-        "scanned": 2466
+        "scanned": 2261
       },
       {
         "source": "nb",
         "code": "21",
         "complete": true,
-        "scanned": 350
+        "scanned": 300
       },
       {
         "source": "nb",
