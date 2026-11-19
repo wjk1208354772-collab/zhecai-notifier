@@ -2251,6 +2251,9 @@
     },
     "zj:ICiQjxZ52Q3Orci9oUrhoQ==": {
       "fingerprint": "5869e183daa0cb8e38f3e76aee314de1ccdcfb1546d3d7667959532b1fb2038b"
+    },
+    "zj:3xV7Hfv/qZwOA6LA5K5udg==": {
+      "fingerprint": "b7b34fcd0c76959409b0775d41f259d53d865aae5b7b2dc0f9ea406f9e2fd023"
     }
   },
   "reminders": {
@@ -2268,15 +2271,28 @@
   },
   "outbox": [
     {
-      "id": "231cd4ff445576e87c1c135fcd1960187175ed41512d0abeca39395d1c9b5429",
-      "status": "accepted",
+      "id": "8c0f71d18172acc5d0423740f313e79795847bb085ef7486d88faf8070ba294f",
+      "status": "pending",
       "summary": "浙采雷达项目更新",
-      "content": "浙采雷达 · 2026/11/19 18:29:55\n新发现公告：关于上城区湖滨周边区块市政设施长效养护服务项目的公开招标公告[浙江科佳工程咨询有限公司]\n类别：市政养护\n公告阶段：招标公告\n地区：杭州 上城区\n采购人：杭州市上城区综合行政执法局\n预算：14,285,038.24 元\n正文提取截止时间：2026/12/10 14:00:00（以最新官方公告为准）\n来源：浙江政府采购网\nhttps://zfcg.czt.zj.gov.cn/site/detail?parentId=600007&articleId=z1poDFO8X%2FItIhTZZsJGIw%3D%3D\n\n新发现公告：关于上城区钱江新城周边区块市政设施长效养护服务项目的公开招标公告[浙江科佳工程咨询有限公司]\n类别：市政养护\n公告阶段：招标公告\n地区：杭州 上城区\n采购人：杭州市上城区综合行政执法局\n预算：20,135,302.27 元\n正文提取截止时间：2026/12/10 09:00:00（以最新官方公告为准）\n来源：浙江政府采购网\nhttps://zfcg.czt.zj.gov.cn/site/detail?parentId=600007&articleId=I9yAQhWUt0yOSux1go%2B8bg%3D%3D\n\n新发现公告：关于2026-2027年度柯城区乡镇水质自动监测站运维服务项目(二次招标）的公开招标公告\n类别：水质监测\n公告阶段：招标公告\n地区：衢州 柯城区\n采购人：衢州市生态环境局柯城分局\n预算：1,988,000 元\n正文提取截止时间：2026/12/10 09:30:00（以最新官方公告为准）\n来源：浙江政府采购网\nhttps://zfcg.czt.zj.gov.cn/site/detail?parentId=600007&articleId=2u0ZvFa7Ew1Mm9XLRxFZIQ%3D%3D\n\n新发现公告：关于磐安县城镇排水管网隐患排查及一张图编制采购项目中标(成交)结果公告[浙江展图工程咨询有限公司]\n类别：管网检测修复\n公告阶段：采购结果\n地区：金华 浙江省金华市磐安县\n采购人：磐安县市政园林所\n预算：未明确\n来源：浙江政府采购网\nhttps://zfcg.czt.zj.gov.cn/site/detail?parentId=600007&articleId=Ms8m5Ru7LWkbq7XmUj%2FSqQ%3D%3D\n\n新发现公告：象山县住房和城乡建设局2026年11月政府采购意向\n类别：绿化养护\n公告阶段：采购意向\n地区：宁波 象山县\n采购人：象山县住房和城乡建设局\n预算：49,000,000 元\n来源：浙江政府采购网\nhttps://zfcg.czt.zj.gov.cn/site/detail?parentId=600007&articleId=8GwVuVUdrfxC%2BIFMT%2FLZ8w%3D%3D\n\n新发现公告：象山县住房和城乡建设局2026年11月政府采购意向\n类别：绿化养护\n公告阶段：采购意向\n地区：宁波 象山县\n采购人：象山县住房和城乡建设局\n预算：37,400,000 元\n来源：浙江政府采购网\nhttps://zfcg.czt.zj.gov.cn/site/detail?parentId=600007&articleId=gRbjfEJJ7PSbVpfJKxNw3w%3D%3D\n\n新发现公告：龙泉市水利局2026年11月政府采购意向\n类别：河道养护\n公告阶段：采购意向\n地区：丽水 龙泉市\n采购人：龙泉市水利局\n预算：2,360,000 元\n来源：浙江政府采购网\nhttps://zfcg.czt.zj.gov.cn/site/detail?parentId=600007&articleId=icIOo1WrJNF5tmKMKGOW2w%3D%3D\n\n新发现公告：关于2027年市政排水设施、一体化设施、翻水泵站等设施设备养护项目中标(成交)结果公告[浙江卓宏建设项目管理有限公司]\n类别：市政养护、排水管网养护、泵站养护\n公告阶段：采购结果\n地区：舟山 舟山市\n采购人：舟山市新城公用事业管理中心\n预算：未明确\n来源：浙江政府采购网\nhttps://zfcg.czt.zj.gov.cn/site/detail?parentId=600007&articleId=Ul116MD6txs%2FLZ4DBp49Tw%3D%3D\n\n新发现公告：关于环卫作业综合保障服务项目的竞争性磋商公告[浙江金业管理咨询有限公司]\n类别：环卫保洁\n公告阶段：非招标公告\n地区：湖州 湖州市\n采购人：湖州市市容环境卫生管理中心\n预算：1,350,000 元\n正文提取截止时间：2026/12/1 09:30:00（以最新官方公告为准）\n来源：浙江政府采购网\nhttps://zfcg.czt.zj.gov.cn/site/detail?parentId=600007&articleId=vQ1gv6INpk6Ml0806gYiyQ%3D%3D\n\n新发现公告：关于镇海区生态林带及主要河道绿化养护服务项目（2027—2029年）中标(成交)结果公告[宁波市镇海国泰工程建设投资管理咨询有限公司]\n类别：河道养护、绿化养护\n公告阶段：采购结果\n地区：宁波 浙江省宁波市镇海区\n采购人：宁波市镇海区农业农村局\n预算：未明确\n来源：浙江政府采购网\nhttps://zfcg.czt.zj.gov.cn/site/detail?parentId=600007&articleId=fqVqe765FFHwDLRmeuPk4A%3D%3D\n\n新发现公告：关于衢江区城区地下管网有机更新工程-主城区雨水管道修复工程（标段二）中标(成交)结果公告[浙江建友工程咨询有限公司]\n类别：管网检测修复\n公告阶段：采购结果\n地区：衢州 浙江省衢州市衢江区\n采购人：衢州市衢江区住房和城乡建设局\n预算：未明确\n来源：浙江政府采购网\nhttps://zfcg.czt.zj.gov.cn/site/detail?parentId=600007&articleId=q%2FirUdFfWKwoSRJyzRQuTg%3D%3D\n\n新发现公告：莲都区碧湖镇人民政府2026年11月政府采购意向\n类别：市政养护、环卫保洁\n公告阶段：采购意向\n地区：丽水 莲都区\n采购人：莲都区碧湖镇人民政府\n预算：65,970,000 元\n来源：浙江政府采购网\nhttps://zfcg.czt.zj.gov.cn/site/detail?parentId=600007&articleId=%2BhOEZ5Z3xkkhqnzC8TTnfw%3D%3D\n\n新发现公告：关于瓜沥镇杭甬高速公路瓜沥段、坎山段两侧绿化带养护项目中标(成交)结果公告[浙江华耀建设咨询有限公司]\n类别：绿化养护\n公告阶段：采购结果\n地区：杭州 浙江省杭州市萧山区\n采购人：杭州市萧山区瓜沥镇人民政府\n预算：未明确\n来源：浙江政府采购网\nhttps://zfcg.czt.zj.gov.cn/site/detail?parentId=600007&articleId=FKXrSlzVuFA6GBT7FTPtqg%3D%3D\n\n新发现公告：关于玉环市大麦屿街道垃圾中转站管理及垃圾清运服务中标(成交)结果公告[台州嘉亿招标代理有限责任公司]\n类别：环卫保洁\n公告阶段：采购结果\n地区：台州 浙江省台州市玉环市\n采购人：玉环市人民政府大麦屿街道办事处\n预算：未明确\n来源：浙江政府采购网\nhttps://zfcg.czt.zj.gov.cn/site/detail?parentId=600007&articleId=QB1i7uZR%2FZtvErLF1%2BxRFg%3D%3D\n\n新发现公告：关于城市桥梁、地下通道、绿道等设施维护养护项目的公开招标公告[浙江天隆工程管理有限公司]\n类别：市政养护\n公告阶段：招标公告\n地区：舟山 舟山市\n采购人：舟山市新城公用事业管理中心\n预算：1,935,000 元\n正文提取截止时间：2026/12/11 09:00:00（以最新官方公告为准）\n来源：浙江政府采购网\nhttps://zfcg.czt.zj.gov.cn/site/detail?parentId=600007&articleId=EYE%2BtCwBUziANnV5F6kfkQ%3D%3D\n\n新发现公告：关于2027年新城道路护栏维修养护项目的公开招标公告[浙江天隆工程管理有限公司]\n类别：市政养护\n公告阶段：招标公告\n地区：舟山 舟山市\n采购人：舟山市新城公用事业管理中心\n预算：900,000 元\n正文提取截止时间：2026/12/10 09:00:00（以最新官方公告为准）\n来源：浙江政府采购网\nhttps://zfcg.czt.zj.gov.cn/site/detail?parentId=600007&articleId=qOrS655y46fuZiE6B1oUOg%3D%3D\n\n新发现公告：龙游县湖镇镇人民政府2026年11月政府采购意向\n类别：市政养护、环卫保洁\n公告阶段：采购意向\n地区：衢州 龙游县\n采购人：龙游县湖镇镇人民政府\n预算：480,000 元\n来源：浙江政府采购网\nhttps://zfcg.czt.zj.gov.cn/site/detail?parentId=600007&articleId=0DdXccU023WC62yMZ2BWLg%3D%3D\n\n新发现公告：关于2027年新城区域路灯照明设施养护项目的公开招标公告[浙江天隆工程管理有限公司]\n类别：市政养护\n公告阶段：招标公告\n地区：舟山 舟山市\n采购人：舟山市新城公用事业管理中心\n预算：2,025,000 元\n正文提取截止时间：2026/12/11 14:30:00（以最新官方公告为准）\n来源：浙江政府采购网\nhttps://zfcg.czt.zj.gov.cn/site/detail?parentId=600007&articleId=t%2BtTukfG4K6S2G0dkiv67Q%3D%3D\n\n新发现公告：关于2026-2027柯城区公路视频监控维护服务项目的公开招标公告[浙江中际工程项目管理有限公司]\n类别：市政养护\n公告阶段：招标公告\n地区：衢州 柯城区\n采购人：衢州市柯城区公路管理中心\n预算：399,664 元\n正文提取截止时间：2026/12/10 09:30:00（以最新官方公告为准）\n来源：浙江政府采购网\nhttps://zfcg.czt.zj.gov.cn/site/detail?parentId=600007&articleId=c4BrRZbUMz7S6UZ4VSOTBw%3D%3D\n\n新发现公告：关于海曙区环境卫生服务中心环城西路以东部分片区道路保洁市场化服务项目的公开招标公告[宁波中基国际招标有限公司]\n类别：环卫保洁\n公告阶段：招标公告\n地区：宁波 浙江省宁波市海曙区\n采购人：宁波市海曙区环境卫生服务中心\n预算：8,341,212 元\n正文提取截止时间：2026/12/10 14:00:00（以最新官方公告为准）\n来源：浙江政府采购网\nhttps://zfcg.czt.zj.gov.cn/site/detail?parentId=600007&articleId=%2BzN0ip8v3AU%2FQLChpyNsMQ%3D%3D\n\n新发现公告：关于2026-2029年衢江区农村生活污水处理设施运行维护服务项目中标(成交)结果公告[浙江信达工程咨询有限公司]\n类别：排水管网养护、农村生活污水运维\n公告阶段：采购结果\n地区：衢州 浙江省衢州市衢江区\n采购人：衢州市衢江区住房和城乡建设局\n预算：未明确\n来源：浙江政府采购网\nhttps://zfcg.czt.zj.gov.cn/site/detail?parentId=600007&articleId=doGkz3DVmDQHICXHSRFRpg%3D%3D\n\n新发现公告：关于常山县公路港航与运输管理中心2026年12月～2027年11月公路日常养护服务采购项目中标(成交)结果公告[建经投资咨询有限公司]\n类别：市政养护\n公告阶段：采购结果\n地区：衢州 浙江省衢州市常山县\n采购人：常山县公路港航与运输管理中心\n预算：未明确\n来源：浙江政府采购网\nhttps://zfcg.czt.zj.gov.cn/site/detail?parentId=600007&articleId=sWPj4QDVBTq46Kncf%2BNIEw%3D%3D\n\n新发现公告：关于2027年度宁海县“河长制”河道水质监测服务项目的竞争性磋商公告[中冠工程管理咨询有限公司]\n类别：水质监测\n公告阶段：非招标公告\n地区：宁波 浙江省宁波市宁海县\n采购人：宁海县水利局\n预算：500,000 元\n正文提取截止时间：2026/12/2 13:30:00（以最新官方公告为准）\n来源：浙江政府采购网\nhttps://zfcg.czt.zj.gov.cn/site/detail?parentId=600007&articleId=%2F9CbyQ9duJfi2gcTRUxd%2BQ%3D%3D\n\n新发现公告：关于柯城区白云街道2026-2027年度农村环境卫生保洁整治项目中标(成交)结果公告[温州市伟业造价师事务所（普通合伙）]\n类别：环卫保洁\n公告阶段：采购结果\n地区：衢州 浙江省衢州市柯城区\n采购人：衢州市柯城区白云街道办事处\n预算：未明确\n来源：浙江政府采购网\nhttps://zfcg.czt.zj.gov.cn/site/detail?parentId=600007&articleId=vjOHCwnxhMpoahsps27ZUw%3D%3D\n\n新发现公告：嘉兴秀洲区塘汇街道办事处2026年11月政府采购意向\n类别：市政养护\n公告阶段：采购意向\n地区：嘉兴 嘉兴开发区\n采购人：嘉兴秀洲区塘汇街道办事处\n预算：12,000,000 元\n来源：浙江政府采购网\nhttps://zfcg.czt.zj.gov.cn/site/detail?parentId=600007&articleId=ICiQjxZ52Q3Orci9oUrhoQ%3D%3D\n\n",
-      "acceptedAt": "2026-11-19T10:29:59.033Z"
+      "content": "浙采雷达 · 2026/11/20 03:14:42\n新发现公告：关于夹浦镇2026年至2028年镇区绿化养护服务项目的竞争性磋商公告[浙江中正工程项目管理有限公司]\n类别：绿化养护\n公告阶段：非招标公告\n地区：湖州 长兴县\n采购人：长兴县夹浦镇人民政府\n预算：1,100,000 元\n正文提取截止时间：2026/11/30 14:00:00（以最新官方公告为准）\n来源：浙江政府采购网\nhttps://zfcg.czt.zj.gov.cn/site/detail?parentId=600007&articleId=3xV7Hfv%2FqZwOA6LA5K5udg%3D%3D\n\n"
     }
   ],
   "previous": {
     "records": [
+      {
+        "id": "3xV7Hfv/qZwOA6LA5K5udg==",
+        "source": "zj",
+        "title": "关于夹浦镇2026年至2028年镇区绿化养护服务项目的竞争性磋商公告[浙江中正工程项目管理有限公司]",
+        "project": "夹浦镇2026年至2028年镇区绿化养护服务项目",
+        "type": "非招标公告",
+        "tags": [
+          "绿化养护"
+        ],
+        "published": 1795102247000,
+        "deadline": 1796018400000,
+        "projectCode": "330522269100010000065",
+        "categoryCode": "110-511933"
+      },
       {
         "id": "z1poDFO8X/ItIhTZZsJGIw==",
         "source": "zj",
@@ -3834,49 +3850,49 @@
     ]
   },
   "lastCheck": {
-    "at": "2026-11-19T10:29:55.126Z",
+    "at": "2026-11-19T19:14:42.639Z",
     "coverage": [
       {
         "source": "zj",
         "code": "110-600268",
         "complete": true,
-        "scanned": 1816
+        "scanned": 1620
       },
       {
         "source": "zj",
         "code": "110-684034",
         "complete": true,
-        "scanned": 1783
+        "scanned": 1581
       },
       {
         "source": "zj",
         "code": "110-511933",
         "complete": true,
-        "scanned": 592
+        "scanned": 523
       },
       {
         "source": "zj",
         "code": "110-912804",
         "complete": true,
-        "scanned": 532
+        "scanned": 481
       },
       {
         "source": "zj",
         "code": "110-631167",
         "complete": true,
-        "scanned": 336
+        "scanned": 291
       },
       {
         "source": "zj",
         "code": "110-188043",
         "complete": true,
-        "scanned": 2496
+        "scanned": 2265
       },
       {
         "source": "nb",
         "code": "21",
         "complete": true,
-        "scanned": 350
+        "scanned": 300
       },
       {
         "source": "nb",
