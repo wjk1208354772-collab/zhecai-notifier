@@ -2194,9 +2194,10 @@
   "outbox": [
     {
       "id": "e42a9e5a82cc09fcf18c5b2f5b5e9c8d5b6a45f25b08fd2c2c0e33f59faf1d6b",
-      "status": "dispatching",
+      "status": "accepted",
       "summary": "浙采雷达项目更新",
-      "content": "浙采雷达 · 2026/11/19 10:05:21\n新发现公告：关于余杭街道开放式小区雨污管网、市政道路污水管网支管长效运维服务采购项目中标(成交)结果公告[杭州泓策科技咨询有限公司]\n类别：排水管网养护\n公告阶段：采购结果\n地区：杭州 浙江省杭州市余杭区\n采购人：杭州市余杭区人民政府余杭街道办事处\n预算：未明确\n来源：浙江政府采购网\nhttps://zfcg.czt.zj.gov.cn/site/detail?parentId=600007&articleId=EcfVAUGEjD%2Bun3vQspUafg%3D%3D\n\n新发现公告：关于绍兴市柯桥区杨汛桥街道定时定点小区、商业街垃圾清运服务采购项目的公开招标公告[浙江景成工程管理有限公司]\n类别：环卫保洁\n公告阶段：招标公告\n地区：绍兴 柯桥区\n采购人：绍兴市柯桥区杨汛桥街道办事处\n预算：1,750,000 元\n正文提取截止时间：2026/12/9 09:30:00（以最新官方公告为准）\n来源：浙江政府采购网\nhttps://zfcg.czt.zj.gov.cn/site/detail?parentId=600007&articleId=7ynRvWVR0XVNQJ6KgrQL1A%3D%3D\n\n新发现公告：缙云县交通运输局2026年12月政府采购意向\n类别：市政养护\n公告阶段：采购意向\n地区：丽水 缙云县\n采购人：缙云县交通运输局\n预算：1,800,000 元\n来源：浙江政府采购网\nhttps://zfcg.czt.zj.gov.cn/site/detail?parentId=600007&articleId=x90Po2scVRv5nK30hAcU6Q%3D%3D\n\n新发现公告：关于杭州市生态环境局建德分局2026-2028年建德市农村生活污水处理设施及水环境链路监控感知设备运行维护项目的终止公告[杭州市生态环境局建德分局]\n类别：排水管网养护、农村生活污水运维\n公告阶段：更正公告\n地区：杭州 浙江省杭州市建德市\n采购人：杭州市生态环境局建德分局\n预算：3,600,000 元\n来源：浙江政府采购网\nhttps://zfcg.czt.zj.gov.cn/site/detail?parentId=600007&articleId=f1lyFzicxPTMeCsANZg%2F8w%3D%3D\n\n"
+      "content": "浙采雷达 · 2026/11/19 10:05:21\n新发现公告：关于余杭街道开放式小区雨污管网、市政道路污水管网支管长效运维服务采购项目中标(成交)结果公告[杭州泓策科技咨询有限公司]\n类别：排水管网养护\n公告阶段：采购结果\n地区：杭州 浙江省杭州市余杭区\n采购人：杭州市余杭区人民政府余杭街道办事处\n预算：未明确\n来源：浙江政府采购网\nhttps://zfcg.czt.zj.gov.cn/site/detail?parentId=600007&articleId=EcfVAUGEjD%2Bun3vQspUafg%3D%3D\n\n新发现公告：关于绍兴市柯桥区杨汛桥街道定时定点小区、商业街垃圾清运服务采购项目的公开招标公告[浙江景成工程管理有限公司]\n类别：环卫保洁\n公告阶段：招标公告\n地区：绍兴 柯桥区\n采购人：绍兴市柯桥区杨汛桥街道办事处\n预算：1,750,000 元\n正文提取截止时间：2026/12/9 09:30:00（以最新官方公告为准）\n来源：浙江政府采购网\nhttps://zfcg.czt.zj.gov.cn/site/detail?parentId=600007&articleId=7ynRvWVR0XVNQJ6KgrQL1A%3D%3D\n\n新发现公告：缙云县交通运输局2026年12月政府采购意向\n类别：市政养护\n公告阶段：采购意向\n地区：丽水 缙云县\n采购人：缙云县交通运输局\n预算：1,800,000 元\n来源：浙江政府采购网\nhttps://zfcg.czt.zj.gov.cn/site/detail?parentId=600007&articleId=x90Po2scVRv5nK30hAcU6Q%3D%3D\n\n新发现公告：关于杭州市生态环境局建德分局2026-2028年建德市农村生活污水处理设施及水环境链路监控感知设备运行维护项目的终止公告[杭州市生态环境局建德分局]\n类别：排水管网养护、农村生活污水运维\n公告阶段：更正公告\n地区：杭州 浙江省杭州市建德市\n采购人：杭州市生态环境局建德分局\n预算：3,600,000 元\n来源：浙江政府采购网\nhttps://zfcg.czt.zj.gov.cn/site/detail?parentId=600007&articleId=f1lyFzicxPTMeCsANZg%2F8w%3D%3D\n\n",
+      "acceptedAt": "2026-11-19T02:05:25.340Z"
     }
   ],
   "previous": {
