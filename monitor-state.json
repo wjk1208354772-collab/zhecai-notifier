@@ -2269,15 +2269,7 @@
     "health:zj:2026-11-16": true,
     "nb:nb:60214976-9488-4919-ad14-afeed071e32b:deadline:1795154400000": true
   },
-  "outbox": [
-    {
-      "id": "8c0f71d18172acc5d0423740f313e79795847bb085ef7486d88faf8070ba294f",
-      "status": "accepted",
-      "summary": "浙采雷达项目更新",
-      "content": "浙采雷达 · 2026/11/20 03:14:42\n新发现公告：关于夹浦镇2026年至2028年镇区绿化养护服务项目的竞争性磋商公告[浙江中正工程项目管理有限公司]\n类别：绿化养护\n公告阶段：非招标公告\n地区：湖州 长兴县\n采购人：长兴县夹浦镇人民政府\n预算：1,100,000 元\n正文提取截止时间：2026/11/30 14:00:00（以最新官方公告为准）\n来源：浙江政府采购网\nhttps://zfcg.czt.zj.gov.cn/site/detail?parentId=600007&articleId=3xV7Hfv%2FqZwOA6LA5K5udg%3D%3D\n\n",
-      "acceptedAt": "2026-11-19T19:14:46.651Z"
-    }
-  ],
+  "outbox": [],
   "previous": {
     "records": [
       {
@@ -3793,20 +3785,6 @@
         "categoryCode": "110-684034"
       },
       {
-        "id": "FqnRRarAN5Q9SQSlmGGgxg==",
-        "source": "zj",
-        "title": "关于仙居县道路交通信号灯2026年度维护服务项目的公开招标公告[台州新远工程项目管理有限公司]",
-        "project": "仙居县道路交通信号灯2026年度维护服务项目",
-        "type": "招标公告",
-        "tags": [
-          "市政养护"
-        ],
-        "published": 1793341912000,
-        "deadline": 1795136400000,
-        "projectCode": "331024261420020000047-XYZFCG2026-033",
-        "categoryCode": "110-684034"
-      },
-      {
         "id": "on7ol/015OR9D6bovU+osQ==",
         "source": "zj",
         "title": "关于2026-2028年度横峰街道污水管网日常疏通养护采购的公开招标公告[台州铭诚工程咨询有限公司]",
@@ -3851,19 +3829,19 @@
     ]
   },
   "lastCheck": {
-    "at": "2026-11-19T19:14:42.639Z",
+    "at": "2026-11-20T01:21:51.897Z",
     "coverage": [
       {
         "source": "zj",
         "code": "110-600268",
         "complete": true,
-        "scanned": 1620
+        "scanned": 1627
       },
       {
         "source": "zj",
         "code": "110-684034",
         "complete": true,
-        "scanned": 1581
+        "scanned": 1584
       },
       {
         "source": "zj",
@@ -3881,13 +3859,13 @@
         "source": "zj",
         "code": "110-631167",
         "complete": true,
-        "scanned": 291
+        "scanned": 293
       },
       {
         "source": "zj",
         "code": "110-188043",
         "complete": true,
-        "scanned": 2265
+        "scanned": 2269
       },
       {
         "source": "nb",
