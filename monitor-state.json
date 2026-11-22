@@ -4124,43 +4124,43 @@
     ]
   },
   "lastCheck": {
-    "at": "2026-11-22T08:56:08.841Z",
+    "at": "2026-11-22T17:15:13.922Z",
     "coverage": [
       {
         "source": "zj",
         "code": "110-600268",
         "complete": true,
-        "scanned": 1820
+        "scanned": 1611
       },
       {
         "source": "zj",
         "code": "110-684034",
         "complete": true,
-        "scanned": 1830
+        "scanned": 1696
       },
       {
         "source": "zj",
         "code": "110-511933",
         "complete": true,
-        "scanned": 611
+        "scanned": 549
       },
       {
         "source": "zj",
         "code": "110-912804",
         "complete": true,
-        "scanned": 546
+        "scanned": 502
       },
       {
         "source": "zj",
         "code": "110-631167",
         "complete": true,
-        "scanned": 331
+        "scanned": 297
       },
       {
         "source": "zj",
         "code": "110-188043",
         "complete": true,
-        "scanned": 2528
+        "scanned": 2307
       },
       {
         "source": "nb",
