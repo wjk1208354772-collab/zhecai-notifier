@@ -2380,6 +2380,18 @@
     },
     "zj:OmYPwgto5ENKx85sHi39RQ==": {
       "fingerprint": "6b36ccad613f6590690c654a4aa3056f4c59d6660007f6094b453d7737ef21db"
+    },
+    "zj:3a+F1jG4wGLkMdgMK5HzQA==": {
+      "fingerprint": "c21c3e9e73c4642dcf6359d1259761f82cfae6832fed40faa4b0382159368058"
+    },
+    "zj:wh15SNwwnGrHZG0uU1fFjw==": {
+      "fingerprint": "7491ae95ddc833b8369808ab8e947cf1bc6b11a19c8efc2ccdfc1cf307fa37e2"
+    },
+    "zj:I1Wb5kSNqPxPcslQeOtgiQ==": {
+      "fingerprint": "13e0f525040be1970b13e3a03ea92ffb9796718144ee27ccd58b790e090ab1fc"
+    },
+    "zj:Azar+VsJsax1NxMWD9o0xg==": {
+      "fingerprint": "94ce862a341350e5a1735a554009318f9ea64a0fc1060ce2e56b7e286c98a2af"
     }
   },
   "reminders": {
@@ -2395,9 +2407,44 @@
     "health:zj:2026-11-16": true,
     "nb:nb:60214976-9488-4919-ad14-afeed071e32b:deadline:1795154400000": true
   },
-  "outbox": [],
+  "outbox": [
+    {
+      "id": "e0720ff4bcf2c60b5b9be74a1937f8d7dd9795076658ea027f7f228643bbe69c",
+      "status": "pending",
+      "summary": "浙采雷达项目更新",
+      "content": "浙采雷达 · 2026/11/23 11:14:01\n新发现公告：关于前江街道姚江新区保留区绿化养护及环境整治项目的公开招标公告[浙江锦晟工程技术管理有限公司]\n类别：绿化养护\n公告阶段：招标公告\n地区：宁波 浙江省宁波市江北区\n采购人：宁波市江北区人民政府前江街道办事处\n预算：2,800,000 元\n正文提取截止时间：2026/12/14 09:00:00（以最新官方公告为准）\n来源：浙江政府采购网\nhttps://zfcg.czt.zj.gov.cn/site/detail?parentId=600007&articleId=3a%2BF1jG4wGLkMdgMK5HzQA%3D%3D\n\n新发现公告：关于永康市江南街道2026年垃圾清运服务项目中标(成交)结果公告[华春建设工程项目管理有限责任公司]\n类别：环卫保洁\n公告阶段：采购结果\n地区：金华 浙江省金华市永康市\n采购人：永康市人民政府江南街道办事处\n预算：未明确\n来源：浙江政府采购网\nhttps://zfcg.czt.zj.gov.cn/site/detail?parentId=600007&articleId=wh15SNwwnGrHZG0uU1fFjw%3D%3D\n\n新发现公告：关于2027-2028年江山市公共绿地养护采购项目的公开招标公告[浙江中正工程项目管理有限公司]\n类别：绿化养护\n公告阶段：招标公告\n地区：衢州 江山市\n采购人：江山市园林管理处\n预算：35,576,476.22 元\n正文提取截止时间：2026/12/14 09:00:00（以最新官方公告为准）\n来源：浙江政府采购网\nhttps://zfcg.czt.zj.gov.cn/site/detail?parentId=600007&articleId=I1Wb5kSNqPxPcslQeOtgiQ%3D%3D\n\n新发现公告：关于2026-2027年丁兰街道街巷、公厕保洁项目中标(成交)结果公告[浙江鑫润工程管理有限公司]\n类别：环卫保洁\n公告阶段：采购结果\n地区：杭州 浙江省杭州市上城区\n采购人：杭州市上城区人民政府丁兰街道办事处\n预算：未明确\n来源：浙江政府采购网\nhttps://zfcg.czt.zj.gov.cn/site/detail?parentId=600007&articleId=Azar%2BVsJsax1NxMWD9o0xg%3D%3D\n\n"
+    }
+  ],
   "previous": {
     "records": [
+      {
+        "id": "3a+F1jG4wGLkMdgMK5HzQA==",
+        "source": "zj",
+        "title": "关于前江街道姚江新区保留区绿化养护及环境整治项目的公开招标公告[浙江锦晟工程技术管理有限公司]",
+        "project": "前江街道姚江新区保留区绿化养护及环境整治项目",
+        "type": "招标公告",
+        "tags": [
+          "绿化养护"
+        ],
+        "published": 1795401344000,
+        "deadline": 1797210000000,
+        "projectCode": "JSCG-2026-1074",
+        "categoryCode": "110-684034"
+      },
+      {
+        "id": "I1Wb5kSNqPxPcslQeOtgiQ==",
+        "source": "zj",
+        "title": "关于2027-2028年江山市公共绿地养护采购项目的公开招标公告[浙江中正工程项目管理有限公司]",
+        "project": "2027-2028年江山市公共绿地养护采购项目",
+        "type": "招标公告",
+        "tags": [
+          "绿化养护"
+        ],
+        "published": 1795397930000,
+        "deadline": 1797210000000,
+        "projectCode": "330881263140020000007-0252",
+        "categoryCode": "110-684034"
+      },
       {
         "id": "GH33XXuCkjQULYa+XoSHPQ==",
         "source": "zj",
@@ -4080,20 +4127,6 @@
         "categoryCode": "110-684034"
       },
       {
-        "id": "MS7zped2Jgk7cOc7e/vx4w==",
-        "source": "zj",
-        "title": "关于开发区辖区内路灯维护项目（2026-2028年）的公开招标公告[杭州博成工程咨询有限公司]",
-        "project": "开发区辖区内路灯维护项目（2026-2028年）",
-        "type": "招标公告",
-        "tags": [
-          "市政养护"
-        ],
-        "published": 1793587907000,
-        "deadline": 1795395600000,
-        "projectCode": "330122262090010000002",
-        "categoryCode": "110-684034"
-      },
-      {
         "id": "XlVmEX01r/Jbu6k69NXcUw==",
         "source": "zj",
         "title": "关于2026-2028年温岭市滨海河道保洁服务采购项目（重新招标）的公开招标公告[浙江冠宇工程咨询有限公司]",
@@ -4124,43 +4157,43 @@
     ]
   },
   "lastCheck": {
-    "at": "2026-11-22T22:33:41.741Z",
+    "at": "2026-11-23T03:14:01.273Z",
     "coverage": [
       {
         "source": "zj",
         "code": "110-600268",
         "complete": true,
-        "scanned": 1611
+        "scanned": 1662
       },
       {
         "source": "zj",
         "code": "110-684034",
         "complete": true,
-        "scanned": 1696
+        "scanned": 1706
       },
       {
         "source": "zj",
         "code": "110-511933",
         "complete": true,
-        "scanned": 549
+        "scanned": 554
       },
       {
         "source": "zj",
         "code": "110-912804",
         "complete": true,
-        "scanned": 502
+        "scanned": 506
       },
       {
         "source": "zj",
         "code": "110-631167",
         "complete": true,
-        "scanned": 297
+        "scanned": 301
       },
       {
         "source": "zj",
         "code": "110-188043",
         "complete": true,
-        "scanned": 2307
+        "scanned": 2347
       },
       {
         "source": "nb",
