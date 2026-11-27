@@ -2747,15 +2747,7 @@
     "nb:nb:60214976-9488-4919-ad14-afeed071e32b:deadline:1795154400000": true,
     "health:nb:2026-11-26": true
   },
-  "outbox": [
-    {
-      "id": "e5af69068210d044854fc087305e1994ca6d5eedaab360fd7b754c5148d6082d",
-      "status": "accepted",
-      "summary": "浙采雷达项目更新",
-      "content": "浙采雷达 · 2026/11/26 23:53:32\n新发现公告：浙江大学医学院附属第二医院2026年11月至12月政府采购意向\n类别：环卫保洁\n公告阶段：采购意向\n地区：省本级/其他 浙江\n采购人：浙江大学医学院附属第二医院\n预算：1,658,960 元\n来源：浙江政府采购网\nhttps://zfcg.czt.zj.gov.cn/site/detail?parentId=600007&articleId=okbk%2F%2Fg9VGch7VnLV5C96w%3D%3D\n\n新发现公告：关于2027年城区市政设施（市政维护，管道疏通，城区泵站等）维护管理中标(成交)结果公告[丽水市中兴工程咨询有限公司]\n类别：市政养护、排水管网养护、泵站养护\n公告阶段：采购结果\n地区：丽水 浙江省丽水市龙泉市\n采购人：龙泉市住房和城乡建设局\n预算：未明确\n来源：浙江政府采购网\nhttps://zfcg.czt.zj.gov.cn/site/detail?parentId=600007&articleId=PKVbiTz2hYS%2Fnt4MmedSHg%3D%3D\n\n新发现公告：关于浙江海洋大学新城、定海校区生活垃圾代清运、倾倒服务项目公开招标公告[浙江致信招标代理有限公司]\n类别：环卫保洁\n公告阶段：招标公告\n地区：省本级/其他 浙江\n采购人：浙江海洋大学\n预算：1,056,000 元\n正文提取截止时间：2026/12/16 09:30:00（以最新官方公告为准）\n来源：浙江政府采购网\nhttps://zfcg.czt.zj.gov.cn/site/detail?parentId=600007&articleId=WTpFWurEtYqkDe8AlqIwmQ%3D%3D\n\n新发现公告：2027-2028年（2年）中心城区污水提升泵站（4号、5号、7号、9号及小西门）运维服务项目2026年11月政府采购意向\n类别：排水管网养护、泵站养护\n公告阶段：采购意向\n地区：湖州 长兴县\n采购人：长兴县住房和城乡建设局\n预算：2,500,000 元\n来源：浙江政府采购网\nhttps://zfcg.czt.zj.gov.cn/site/detail?parentId=600007&articleId=IApzFs7WUvMW2Xr4wRAh5w%3D%3D\n\n新发现公告：关于遂昌县2027年妙高街道建成区外河道保洁项目的竞争性磋商公告[浙江策鼎工程项目管理有限公司]\n类别：河道养护\n公告阶段：非招标公告\n地区：丽水 遂昌县\n采购人：遂昌县人民政府妙高街道办事处\n预算：640,000 元\n正文提取截止时间：2026/12/9 09:00:00（以最新官方公告为准）\n来源：浙江政府采购网\nhttps://zfcg.czt.zj.gov.cn/site/detail?parentId=600007&articleId=es1tc7bjHlVIX0gS5VDZeA%3D%3D\n\n新发现公告：关于2026-2028年度横峰街道污水管网日常疏通养护采购中标(成交)结果公告[台州铭诚工程咨询有限公司]\n类别：排水管网养护\n公告阶段：采购结果\n地区：台州 浙江省台州市温岭市\n采购人：温岭市人民政府横峰街道办事处\n预算：未明确\n来源：浙江政府采购网\nhttps://zfcg.czt.zj.gov.cn/site/detail?parentId=600007&articleId=1McP03TV%2Fvvh61pk7h1BuA%3D%3D\n\n新发现公告：关于2027年度西湖区农村生活污水治理进出水质检测与评价项目的公开招标公告[浙江西建工程管理有限公司]\n类别：水质监测\n公告阶段：招标公告\n地区：杭州 西湖区\n采购人：杭州市西湖区住房和城乡建设局\n预算：450,000 元\n正文提取截止时间：2026/12/16 14:30:00（以最新官方公告为准）\n来源：浙江政府采购网\nhttps://zfcg.czt.zj.gov.cn/site/detail?parentId=600007&articleId=bblsI%2Bt8qv0yflqipOgn%2FA%3D%3D\n\n新发现公告：关于杭州医学院临安校区一期雨污水管网清淤检测和修复项目的竞争性磋商公告[浙江求是招标代理有限公司]\n类别：排水管网养护、管网检测修复\n公告阶段：非招标公告\n地区：省本级/其他 浙江\n采购人：杭州医学院\n预算：2,400,000 元\n正文提取截止时间：2026/12/7 09:00:00（以最新官方公告为准）\n来源：浙江政府采购网\nhttps://zfcg.czt.zj.gov.cn/site/detail?parentId=600007&articleId=q4AXbfa%2B8Tu5N%2BY%2BXciLDw%3D%3D\n\n新发现公告：湖州市吴兴区水利局2027年1月政府采购意向\n类别：河道养护\n公告阶段：采购意向\n地区：湖州 吴兴区\n采购人：湖州市吴兴区水利局\n预算：5,500,000 元\n来源：浙江政府采购网\nhttps://zfcg.czt.zj.gov.cn/site/detail?parentId=600007&articleId=q%2BZIj64%2BECMwolBKIhIxOQ%3D%3D\n\n新发现公告：关于2027年度岱山县高亭城区市政雨污水管网及污水泵站一体化运维服务项目中标(成交)结果公告[舟山市博琛建设工程管理有限公司]\n类别：排水管网养护、泵站养护\n公告阶段：采购结果\n地区：舟山 浙江省舟山市岱山县\n采购人：岱山县市政和园林绿化管理处\n预算：未明确\n来源：浙江政府采购网\nhttps://zfcg.czt.zj.gov.cn/site/detail?parentId=600007&articleId=9l5H7fhtTCN9mp5F848LGw%3D%3D\n\n新发现公告：龙港市市场监管和综合行政执法局2026年11月政府采购意向\n类别：绿化养护\n公告阶段：采购意向\n地区：温州 龙港市\n采购人：龙港市市场监管和综合行政执法局\n预算：29,000,000 元\n来源：浙江政府采购网\nhttps://zfcg.czt.zj.gov.cn/site/detail?parentId=600007&articleId=6X3Z%2FQrPj29FIOS%2BamG16w%3D%3D\n\n新发现公告：关于2027-2028年度吴兴区农村生活污水处理设施运维服务项目中标(成交)结果公告[欧邦工程管理集团有限公司]\n类别：排水管网养护、农村生活污水运维\n公告阶段：采购结果\n地区：湖州 浙江省湖州市吴兴区\n采购人：湖州市吴兴区住房和城乡建设局\n预算：未明确\n来源：浙江政府采购网\nhttps://zfcg.czt.zj.gov.cn/site/detail?parentId=600007&articleId=X6sDZdN0O6cqcvAnR43WZg%3D%3D\n\n新发现公告：平阳县昆阳镇人民政府2026年11月至12月政府采购意向\n类别：河道养护\n公告阶段：采购意向\n地区：温州 平阳县\n采购人：平阳县昆阳镇人民政府\n预算：1,200,000 元\n来源：浙江政府采购网\nhttps://zfcg.czt.zj.gov.cn/site/detail?parentId=600007&articleId=vSUr%2F7Cv8DePCqpcqjTUyQ%3D%3D\n\n新发现公告：2027-2028年（2年）中心城区污水提升泵站（4号、5号、7号、9号及小西门）运维服务项目2026年11月政府采购意向\n类别：排水管网养护、泵站养护\n公告阶段：采购意向\n地区：湖州 长兴县\n采购人：长兴县住房和城乡建设局\n预算：1,530,000 元\n来源：浙江政府采购网\nhttps://zfcg.czt.zj.gov.cn/site/detail?parentId=600007&articleId=VsGbvbSMkwjnFJA1J2ROPA%3D%3D\n\n新发现公告：开化县住房和城乡建设局2026年11月至12月政府采购意向\n类别：绿化养护\n公告阶段：采购意向\n地区：衢州 开化县\n采购人：开化县住房和城乡建设局\n预算：3,812,079 元\n来源：浙江政府采购网\nhttps://zfcg.czt.zj.gov.cn/site/detail?parentId=600007&articleId=SJNpbaJu8palodIeLDMBaQ%3D%3D\n\n新发现公告：关于2026-2027年度常山经济开发区污水零直排运维服务项目中标(成交)结果公告[浙江联腾工程咨询有限公司]\n类别：排水管网养护\n公告阶段：采购结果\n地区：衢州 浙江省衢州市常山县\n采购人：浙江常山经济开发区管理委员会\n预算：未明确\n来源：浙江政府采购网\nhttps://zfcg.czt.zj.gov.cn/site/detail?parentId=600007&articleId=%2ByZvNmaoDP2Ehe01TTTBXg%3D%3D\n\n新发现公告：永康市舟山镇人民政府2026年12月政府采购意向\n类别：河道养护\n公告阶段：采购意向\n地区：金华 永康市\n采购人：永康市舟山镇人民政府\n预算：1,140,000 元\n来源：浙江政府采购网\nhttps://zfcg.czt.zj.gov.cn/site/detail?parentId=600007&articleId=12Ndtd1xnBClA599tmTTQw%3D%3D\n\n核查异常：宁波阳光采购服务平台\n本轮检索未完成，不能视为没有新项目。请查看 GitHub Actions 运行记录或官方来源。\n\n",
-      "acceptedAt": "2026-11-26T15:53:36.959Z"
-    }
-  ],
+  "outbox": [],
   "previous": {
     "records": [
       {
@@ -4792,43 +4784,43 @@
     ]
   },
   "lastCheck": {
-    "at": "2026-11-26T15:53:32.130Z",
+    "at": "2026-11-27T00:41:39.569Z",
     "coverage": [
       {
         "source": "zj",
         "code": "110-600268",
         "complete": true,
-        "scanned": 1733
+        "scanned": 1605
       },
       {
         "source": "zj",
         "code": "110-684034",
         "complete": true,
-        "scanned": 1875
+        "scanned": 1646
       },
       {
         "source": "zj",
         "code": "110-511933",
         "complete": true,
-        "scanned": 637
+        "scanned": 543
       },
       {
         "source": "zj",
         "code": "110-912804",
         "complete": true,
-        "scanned": 558
+        "scanned": 490
       },
       {
         "source": "zj",
         "code": "110-631167",
         "complete": true,
-        "scanned": 356
+        "scanned": 326
       },
       {
         "source": "zj",
         "code": "110-188043",
         "complete": true,
-        "scanned": 2601
+        "scanned": 2348
       },
       {
         "source": "nb",
@@ -4839,8 +4831,8 @@
       {
         "source": "nb",
         "code": "23",
-        "complete": false,
-        "scanned": 0
+        "complete": true,
+        "scanned": 100
       },
       {
         "source": "nb",
