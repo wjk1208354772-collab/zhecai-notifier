@@ -2827,6 +2827,9 @@
     },
     "zj:hUWTioL6t+A0cgynqVKTsg==": {
       "fingerprint": "419ae125e86a383785faf96d17bbff1d996c42428c9b0a2e0aca91217f71c8c4"
+    },
+    "zj:LDaIp680YXyrA5f8tFKL2A==": {
+      "fingerprint": "b214b1362dc271dcdd7b4faab1ab2c6e8f28be6d8e07d991de1f8c476363e483"
     }
   },
   "reminders": {
@@ -2843,9 +2846,30 @@
     "nb:nb:60214976-9488-4919-ad14-afeed071e32b:deadline:1795154400000": true,
     "health:nb:2026-11-26": true
   },
-  "outbox": [],
+  "outbox": [
+    {
+      "id": "1fa27b52dd2abec5cad76aef780b91344db08f5cf264b092e590db09f8aa54d9",
+      "status": "pending",
+      "summary": "浙采雷达项目更新",
+      "content": "浙采雷达 · 2026/11/28 18:37:18\n新发现公告：关于淳安县姜家镇郁川溪、横源、玉泉溪河道清淤工程的竞争性磋商公告[浙江之信工程项目管理有限公司]\n类别：河道养护\n公告阶段：非招标公告\n地区：杭州 淳安县\n采购人：淳安县姜家镇人民政府\n预算：2,754,392 元\n正文提取截止时间：2026/12/10 09:30:00（以最新官方公告为准）\n来源：浙江政府采购网\nhttps://zfcg.czt.zj.gov.cn/site/detail?parentId=600007&articleId=LDaIp680YXyrA5f8tFKL2A%3D%3D\n\n"
+    }
+  ],
   "previous": {
     "records": [
+      {
+        "id": "LDaIp680YXyrA5f8tFKL2A==",
+        "source": "zj",
+        "title": "关于淳安县姜家镇郁川溪、横源、玉泉溪河道清淤工程的竞争性磋商公告[浙江之信工程项目管理有限公司]",
+        "project": "淳安县姜家镇郁川溪、横源、玉泉溪河道清淤工程",
+        "type": "非招标公告",
+        "tags": [
+          "河道养护"
+        ],
+        "published": 1795850598000,
+        "deadline": 1796866200000,
+        "projectCode": "330127266160010000035-ZF2026128",
+        "categoryCode": "110-511933"
+      },
       {
         "id": "4J7Ku6WVLxPpIaXDk+oqKg==",
         "source": "zj",
@@ -4980,31 +5004,31 @@
     ]
   },
   "lastCheck": {
-    "at": "2026-11-28T02:03:37.901Z",
+    "at": "2026-11-28T10:37:18.565Z",
     "coverage": [
       {
         "source": "zj",
         "code": "110-600268",
         "complete": true,
-        "scanned": 1784
+        "scanned": 1788
       },
       {
         "source": "zj",
         "code": "110-684034",
         "complete": true,
-        "scanned": 1864
+        "scanned": 1871
       },
       {
         "source": "zj",
         "code": "110-511933",
         "complete": true,
-        "scanned": 665
+        "scanned": 666
       },
       {
         "source": "zj",
         "code": "110-912804",
         "complete": true,
-        "scanned": 543
+        "scanned": 545
       },
       {
         "source": "zj",
@@ -5016,7 +5040,7 @@
         "source": "zj",
         "code": "110-188043",
         "complete": true,
-        "scanned": 2603
+        "scanned": 2605
       },
       {
         "source": "nb",
