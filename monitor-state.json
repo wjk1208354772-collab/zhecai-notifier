@@ -2849,9 +2849,10 @@
   "outbox": [
     {
       "id": "1fa27b52dd2abec5cad76aef780b91344db08f5cf264b092e590db09f8aa54d9",
-      "status": "dispatching",
+      "status": "accepted",
       "summary": "浙采雷达项目更新",
-      "content": "浙采雷达 · 2026/11/28 18:37:18\n新发现公告：关于淳安县姜家镇郁川溪、横源、玉泉溪河道清淤工程的竞争性磋商公告[浙江之信工程项目管理有限公司]\n类别：河道养护\n公告阶段：非招标公告\n地区：杭州 淳安县\n采购人：淳安县姜家镇人民政府\n预算：2,754,392 元\n正文提取截止时间：2026/12/10 09:30:00（以最新官方公告为准）\n来源：浙江政府采购网\nhttps://zfcg.czt.zj.gov.cn/site/detail?parentId=600007&articleId=LDaIp680YXyrA5f8tFKL2A%3D%3D\n\n"
+      "content": "浙采雷达 · 2026/11/28 18:37:18\n新发现公告：关于淳安县姜家镇郁川溪、横源、玉泉溪河道清淤工程的竞争性磋商公告[浙江之信工程项目管理有限公司]\n类别：河道养护\n公告阶段：非招标公告\n地区：杭州 淳安县\n采购人：淳安县姜家镇人民政府\n预算：2,754,392 元\n正文提取截止时间：2026/12/10 09:30:00（以最新官方公告为准）\n来源：浙江政府采购网\nhttps://zfcg.czt.zj.gov.cn/site/detail?parentId=600007&articleId=LDaIp680YXyrA5f8tFKL2A%3D%3D\n\n",
+      "acceptedAt": "2026-11-28T10:37:22.950Z"
     }
   ],
   "previous": {
